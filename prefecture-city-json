@@ -1,0 +1,7948 @@
+[
+  {
+    name: 'Aomori Prefecture',
+    nameKana: '青森県',
+    city: [
+      {
+        name: 'Aomori (city)',
+        nameKana: '青森市',
+      },
+      {
+        name: 'Hirosaki',
+        nameKana: '弘前市',
+      },
+      {
+        name: 'Hachinohe',
+        nameKana: '八戸市',
+      },
+      {
+        name: 'Kuroishi, Aomori',
+        nameKana: '黒石市',
+      },
+      {
+        name: 'Goshogawara, Aomori',
+        nameKana: '五所川原市',
+      },
+      {
+        name: 'Towada, Aomori',
+        nameKana: '十和田市',
+      },
+      {
+        name: 'Misawa, Aomori',
+        nameKana: '三沢市',
+      },
+      {
+        name: 'Mutsu, Aomori',
+        nameKana: 'むつ市',
+      },
+      {
+        name: 'Tsugaru, Aomori',
+        nameKana: 'つがる市',
+      },
+      {
+        name: 'Hirakawa, Aomori',
+        nameKana: '平川市',
+      },
+      {
+        name: 'Hiranai',
+        nameKana: '平内町',
+      },
+      {
+        name: 'Imabetsu, Aomori',
+        nameKana: '今別町',
+      },
+      {
+        name: 'Yomogita, Aomori',
+        nameKana: '蓬田村',
+      },
+      {
+        name: 'Sotogahama, Aomori',
+        nameKana: '外ヶ浜町',
+      },
+      {
+        name: 'Ajigasawa, Aomori',
+        nameKana: '鰺ヶ沢町',
+      },
+      {
+        name: 'Fukaura, Aomori',
+        nameKana: '深浦町',
+      },
+      {
+        name: 'Nishimeya, Aomori',
+        nameKana: '西目屋村',
+      },
+      {
+        name: 'Fujisaki, Aomori',
+        nameKana: '藤崎町',
+      },
+      {
+        name: 'Ōwani, Aomori',
+        nameKana: '大鰐町',
+      },
+      {
+        name: 'Inakadate, Aomori',
+        nameKana: '田舎館村',
+      },
+      {
+        name: 'Itayanagi, Aomori',
+        nameKana: '板柳町',
+      },
+      {
+        name: 'Tsuruta, Aomori',
+        nameKana: '鶴田町',
+      },
+      {
+        name: 'Nakadomari, Aomori',
+        nameKana: '中泊町',
+      },
+      {
+        name: 'Noheji, Aomori',
+        nameKana: '野辺地町',
+      },
+      {
+        name: 'Shichinohe, Aomori',
+        nameKana: '七戸町',
+      },
+      {
+        name: 'Rokunohe, Aomori',
+        nameKana: '六戸町',
+      },
+      {
+        name: 'Yokohama, Aomori',
+        nameKana: '横浜町',
+      },
+      {
+        name: 'Tōhoku, Aomori',
+        nameKana: '東北町',
+      },
+      {
+        name: 'Rokkasho, Aomori',
+        nameKana: '六ヶ所村',
+      },
+      {
+        name: 'Oirase, Aomori',
+        nameKana: 'おいらせ町',
+      },
+      {
+        name: 'Ōma, Aomori',
+        nameKana: '大間町',
+      },
+      {
+        name: 'Higashidōri, Aomori',
+        nameKana: '東通村',
+      },
+      {
+        name: 'Kazamaura, Aomori',
+        nameKana: '風間浦村',
+      },
+      {
+        name: 'Sai, Aomori',
+        nameKana: '佐井村',
+      },
+      {
+        name: 'Sannohe, Aomori',
+        nameKana: '三戸町',
+      },
+      {
+        name: 'Gonohe, Aomori',
+        nameKana: '五戸町',
+      },
+      {
+        name: 'Takko, Aomori',
+        nameKana: '田子町',
+      },
+      {
+        name: 'Nanbu, Aomori',
+        nameKana: '南部町',
+      },
+      {
+        name: 'Hashikami, Aomori',
+        nameKana: '階上町',
+      },
+      {
+        name: 'Shingō, Aomori',
+        nameKana: '新郷村',
+      },
+    ],
+  },
+  {
+    name: 'Miyagi Prefecture',
+    nameKana: '宮城県',
+    city: [
+      {
+        name: 'Sendai',
+        nameKana: '仙台市',
+      },
+      {
+        name: 'Aoba-ku, Sendai',
+        nameKana: '仙台市',
+      },
+      {
+        name: 'Miyagino-ku, Sendai',
+        nameKana: '仙台市',
+      },
+      {
+        name: 'Wakabayashi-ku, Sendai',
+        nameKana: '仙台市',
+      },
+      {
+        name: 'Taihaku-ku, Sendai',
+        nameKana: '仙台市',
+      },
+      {
+        name: 'Izumi-ku, Sendai',
+        nameKana: '仙台市',
+      },
+      {
+        name: 'Ishinomaki',
+        nameKana: '石巻市',
+      },
+      {
+        name: 'Shiogama',
+        nameKana: '塩竈市',
+      },
+      {
+        name: 'Kesennuma',
+        nameKana: '気仙沼市',
+      },
+      {
+        name: 'Shiroishi, Miyagi',
+        nameKana: '白石市',
+      },
+      {
+        name: 'Natori, Miyagi',
+        nameKana: '名取市',
+      },
+      {
+        name: 'Kakuda, Miyagi',
+        nameKana: '角田市',
+      },
+      {
+        name: 'Tagajō',
+        nameKana: '多賀城市',
+      },
+      {
+        name: 'Iwanuma',
+        nameKana: '岩沼市',
+      },
+      {
+        name: 'Tome, Miyagi',
+        nameKana: '登米市',
+      },
+      {
+        name: 'Kurihara, Miyagi',
+        nameKana: '栗原市',
+      },
+      {
+        name: 'Higashimatsushima',
+        nameKana: '東松島市',
+      },
+      {
+        name: 'Ōsaki, Miyagi',
+        nameKana: '大崎市',
+      },
+      {
+        name: 'Tomiya, Miyagi',
+        nameKana: '富谷市',
+      },
+      {
+        name: 'Zaō, Miyagi',
+        nameKana: '蔵王町',
+      },
+      {
+        name: 'Shichikashuku, Miyagi',
+        nameKana: '七ヶ宿町',
+      },
+      {
+        name: 'Ōgawara, Miyagi',
+        nameKana: '大河原町',
+      },
+      {
+        name: 'Murata, Miyagi',
+        nameKana: '村田町',
+      },
+      {
+        name: 'Shibata, Miyagi',
+        nameKana: '柴田町',
+      },
+      {
+        name: 'Kawasaki, Miyagi',
+        nameKana: '川崎町',
+      },
+      {
+        name: 'Marumori, Miyagi',
+        nameKana: '丸森町',
+      },
+      {
+        name: 'Watari, Miyagi',
+        nameKana: '亘理町',
+      },
+      {
+        name: 'Yamamoto, Miyagi',
+        nameKana: '山元町',
+      },
+      {
+        name: 'Matsushima, Miyagi',
+        nameKana: '松島町',
+      },
+      {
+        name: 'Shichigahama',
+        nameKana: '七ヶ浜町',
+      },
+      {
+        name: 'Rifu',
+        nameKana: '利府町',
+      },
+      {
+        name: 'Taiwa, Miyagi',
+        nameKana: '大和町',
+      },
+      {
+        name: 'Ōsato, Miyagi',
+        nameKana: '大郷町',
+      },
+      {
+        name: 'Ōhira, Miyagi',
+        nameKana: '大衡村',
+      },
+      {
+        name: 'Shikama, Miyagi',
+        nameKana: '色麻町',
+      },
+      {
+        name: 'Kami, Miyagi',
+        nameKana: '加美町',
+      },
+      {
+        name: 'Wakuya',
+        nameKana: '涌谷町',
+      },
+      {
+        name: 'Misato, Miyagi',
+        nameKana: '美里町',
+      },
+      {
+        name: 'Onagawa, Miyagi',
+        nameKana: '女川町',
+      },
+      {
+        name: 'Minamisanriku',
+        nameKana: '南三陸町',
+      },
+    ],
+  },
+  {
+    name: 'Hokkaido',
+    nameKana: '北海道',
+    city: [
+      {
+        name: 'Sapporo',
+        nameKana: '札幌市',
+      },
+      {
+        name: 'Chūō-ku, Sapporo',
+        nameKana: '札幌市',
+      },
+      {
+        name: 'Kita-ku, Sapporo',
+        nameKana: '札幌市',
+      },
+      {
+        name: 'Higashi-ku, Sapporo',
+        nameKana: '札幌市',
+      },
+      {
+        name: 'Shiroishi-ku, Sapporo',
+        nameKana: '札幌市',
+      },
+      {
+        name: 'Toyohira-ku, Sapporo',
+        nameKana: '札幌市',
+      },
+      {
+        name: 'Minami-ku, Sapporo',
+        nameKana: '札幌市',
+      },
+      {
+        name: 'Nishi-ku, Sapporo',
+        nameKana: '札幌市',
+      },
+      {
+        name: 'Atsubetsu-ku, Sapporo',
+        nameKana: '札幌市',
+      },
+      {
+        name: 'Teine-ku, Sapporo',
+        nameKana: '札幌市',
+      },
+      {
+        name: 'Kiyota-ku, Sapporo',
+        nameKana: '札幌市',
+      },
+      {
+        name: 'Hakodate',
+        nameKana: '函館市',
+      },
+      {
+        name: 'Otaru',
+        nameKana: '小樽市',
+      },
+      {
+        name: 'Asahikawa',
+        nameKana: '旭川市',
+      },
+      {
+        name: 'Muroran, Hokkaido',
+        nameKana: '室蘭市',
+      },
+      {
+        name: 'Kushiro, Hokkaido',
+        nameKana: '釧路市',
+      },
+      {
+        name: 'Obihiro, Hokkaido',
+        nameKana: '帯広市',
+      },
+      {
+        name: 'Kitami, Hokkaido',
+        nameKana: '北見市',
+      },
+      {
+        name: 'Yūbari, Hokkaido',
+        nameKana: '夕張市',
+      },
+      {
+        name: 'Iwamizawa, Hokkaido',
+        nameKana: '岩見沢市',
+      },
+      {
+        name: 'Abashiri',
+        nameKana: '網走市',
+      },
+      {
+        name: 'Rumoi, Hokkaido',
+        nameKana: '留萌市',
+      },
+      {
+        name: 'Tomakomai, Hokkaido',
+        nameKana: '苫小牧市',
+      },
+      {
+        name: 'Wakkanai, Hokkaido',
+        nameKana: '稚内市',
+      },
+      {
+        name: 'Bibai, Hokkaido',
+        nameKana: '美唄市',
+      },
+      {
+        name: 'Ashibetsu, Hokkaido',
+        nameKana: '芦別市',
+      },
+      {
+        name: 'Ebetsu, Hokkaido',
+        nameKana: '江別市',
+      },
+      {
+        name: 'Akabira, Hokkaido',
+        nameKana: '赤平市',
+      },
+      {
+        name: 'Monbetsu, Hokkaido',
+        nameKana: '紋別市',
+      },
+      {
+        name: 'Shibetsu, Hokkaido',
+        nameKana: '士別市',
+      },
+      {
+        name: 'Nayoro, Hokkaido',
+        nameKana: '名寄市',
+      },
+      {
+        name: 'Mikasa, Hokkaido',
+        nameKana: '三笠市',
+      },
+      {
+        name: 'Nemuro, Hokkaido',
+        nameKana: '根室市',
+      },
+      {
+        name: 'Chitose, Hokkaido',
+        nameKana: '千歳市',
+      },
+      {
+        name: 'Takikawa, Hokkaido',
+        nameKana: '滝川市',
+      },
+      {
+        name: 'Sunagawa, Hokkaido',
+        nameKana: '砂川市',
+      },
+      {
+        name: 'Utashinai, Hokkaido',
+        nameKana: '歌志内市',
+      },
+      {
+        name: 'Fukagawa, Hokkaido',
+        nameKana: '深川市',
+      },
+      {
+        name: 'Furano, Hokkaido',
+        nameKana: '富良野市',
+      },
+      {
+        name: 'Noboribetsu',
+        nameKana: '登別市',
+      },
+      {
+        name: 'Eniwa, Hokkaido',
+        nameKana: '恵庭市',
+      },
+      {
+        name: 'Date, Hokkaido',
+        nameKana: '伊達市',
+      },
+      {
+        name: 'Kitahiroshima, Hokkaido',
+        nameKana: '北広島市',
+      },
+      {
+        name: 'Ishikari, Hokkaido',
+        nameKana: '石狩市',
+      },
+      {
+        name: 'Hokuto, Hokkaido',
+        nameKana: '北斗市',
+      },
+      {
+        name: 'Tōbetsu, Hokkaido',
+        nameKana: '当別町',
+      },
+      {
+        name: 'Shinshinotsu, Hokkaido',
+        nameKana: '新篠津村',
+      },
+      {
+        name: 'Matsumae, Hokkaido',
+        nameKana: '松前町',
+      },
+      {
+        name: 'Fukushima, Hokkaido',
+        nameKana: '福島町',
+      },
+      {
+        name: 'Shiriuchi, Hokkaido',
+        nameKana: '知内町',
+      },
+      {
+        name: 'Kikonai, Hokkaido',
+        nameKana: '木古内町',
+      },
+      {
+        name: 'Nanae, Hokkaido',
+        nameKana: '七飯町',
+      },
+      {
+        name: 'Shikabe, Hokkaido',
+        nameKana: '鹿部町',
+      },
+      {
+        name: 'Mori, Hokkaido',
+        nameKana: '森町',
+      },
+      {
+        name: 'Yakumo, Hokkaido',
+        nameKana: '八雲町',
+      },
+      {
+        name: 'Oshamambe, Hokkaido',
+        nameKana: '長万部町',
+      },
+      {
+        name: 'Esashi, Hokkaido (Hiyama)',
+        nameKana: '江差町',
+      },
+      {
+        name: 'Kaminokuni, Hokkaido',
+        nameKana: '上ノ国町',
+      },
+      {
+        name: 'Assabu, Hokkaido',
+        nameKana: '厚沢部町',
+      },
+      {
+        name: 'Otobe, Hokkaido',
+        nameKana: '乙部町',
+      },
+      {
+        name: 'Okushiri, Hokkaido',
+        nameKana: '奥尻町',
+      },
+      {
+        name: 'Imakane, Hokkaido',
+        nameKana: '今金町',
+      },
+      {
+        name: 'Setana, Hokkaido',
+        nameKana: 'せたな町',
+      },
+      {
+        name: 'Shimamaki, Hokkaido',
+        nameKana: '島牧村',
+      },
+      {
+        name: 'Suttsu, Hokkaido',
+        nameKana: '寿都町',
+      },
+      {
+        name: 'Kuromatsunai, Hokkaido',
+        nameKana: '黒松内町',
+      },
+      {
+        name: 'Rankoshi, Hokkaido',
+        nameKana: '蘭越町',
+      },
+      {
+        name: 'Niseko, Hokkaido',
+        nameKana: 'ニセコ町',
+      },
+      {
+        name: 'Makkari, Hokkaido',
+        nameKana: '真狩村',
+      },
+      {
+        name: 'Rusutsu, Hokkaido',
+        nameKana: '留寿都村',
+      },
+      {
+        name: 'Kimobetsu, Hokkaido',
+        nameKana: '喜茂別町',
+      },
+      {
+        name: 'Kyōgoku, Hokkaido',
+        nameKana: '京極町',
+      },
+      {
+        name: 'Kutchan, Hokkaido',
+        nameKana: '倶知安町',
+      },
+      {
+        name: 'Kyōwa, Hokkaido',
+        nameKana: '共和町',
+      },
+      {
+        name: 'Iwanai, Hokkaido',
+        nameKana: '岩内町',
+      },
+      {
+        name: 'Tomari, Hokkaido',
+        nameKana: '泊村',
+      },
+      {
+        name: 'Kamoenai, Hokkaido',
+        nameKana: '神恵内村',
+      },
+      {
+        name: 'Shakotan, Hokkaido',
+        nameKana: '積丹町',
+      },
+      {
+        name: 'Furubira, Hokkaido',
+        nameKana: '古平町',
+      },
+      {
+        name: 'Niki, Hokkaido',
+        nameKana: '仁木町',
+      },
+      {
+        name: 'Yoichi, Hokkaido',
+        nameKana: '余市町',
+      },
+      {
+        name: 'Akaigawa, Hokkaido',
+        nameKana: '赤井川村',
+      },
+      {
+        name: 'Nanporo, Hokkaido',
+        nameKana: '南幌町',
+      },
+      {
+        name: 'Naie, Hokkaido',
+        nameKana: '奈井江町',
+      },
+      {
+        name: 'Kamisunagawa, Hokkaido',
+        nameKana: '上砂川町',
+      },
+      {
+        name: 'Yuni, Hokkaido',
+        nameKana: '由仁町',
+      },
+      {
+        name: 'Naganuma, Hokkaido',
+        nameKana: '長沼町',
+      },
+      {
+        name: 'Kuriyama, Hokkaido',
+        nameKana: '栗山町',
+      },
+      {
+        name: 'Tsukigata, Hokkaido',
+        nameKana: '月形町',
+      },
+      {
+        name: 'Urausu, Hokkaido',
+        nameKana: '浦臼町',
+      },
+      {
+        name: 'Shintotsukawa, Hokkaido',
+        nameKana: '新十津川町',
+      },
+      {
+        name: 'Moseushi, Hokkaido',
+        nameKana: '妹背牛町',
+      },
+      {
+        name: 'Chippubetsu, Hokkaido',
+        nameKana: '秩父別町',
+      },
+      {
+        name: 'Uryū, Hokkaido',
+        nameKana: '雨竜町',
+      },
+      {
+        name: 'Hokuryū, Hokkaido',
+        nameKana: '北竜町',
+      },
+      {
+        name: 'Numata, Hokkaido',
+        nameKana: '沼田町',
+      },
+      {
+        name: 'Takasu, Hokkaido',
+        nameKana: '鷹栖町',
+      },
+      {
+        name: 'Higashikagura, Hokkaido',
+        nameKana: '東神楽町',
+      },
+      {
+        name: 'Tōma, Hokkaido',
+        nameKana: '当麻町',
+      },
+      {
+        name: 'Pippu, Hokkaido',
+        nameKana: '比布町',
+      },
+      {
+        name: 'Aibetsu, Hokkaido',
+        nameKana: '愛別町',
+      },
+      {
+        name: 'Kamikawa, Hokkaido',
+        nameKana: '上川町',
+      },
+      {
+        name: 'Higashikawa, Hokkaido',
+        nameKana: '東川町',
+      },
+      {
+        name: 'Biei, Hokkaido',
+        nameKana: '美瑛町',
+      },
+      {
+        name: 'Kamifurano, Hokkaido',
+        nameKana: '上富良野町',
+      },
+      {
+        name: 'Nakafurano, Hokkaido',
+        nameKana: '中富良野町',
+      },
+      {
+        name: 'Minamifurano, Hokkaido',
+        nameKana: '南富良野町',
+      },
+      {
+        name: 'Shimukappu',
+        nameKana: '占冠村',
+      },
+      {
+        name: 'Wassamu, Hokkaido',
+        nameKana: '和寒町',
+      },
+      {
+        name: 'Kenbuchi, Hokkaido',
+        nameKana: '剣淵町',
+      },
+      {
+        name: 'Shimokawa, Hokkaido',
+        nameKana: '下川町',
+      },
+      {
+        name: 'Bifuka, Hokkaido',
+        nameKana: '美深町',
+      },
+      {
+        name: 'Otoineppu, Hokkaido',
+        nameKana: '音威子府村',
+      },
+      {
+        name: 'Nakagawa, Hokkaido',
+        nameKana: '中川町',
+      },
+      {
+        name: 'Horokanai, Hokkaido',
+        nameKana: '幌加内町',
+      },
+      {
+        name: 'Mashike, Hokkaido',
+        nameKana: '増毛町',
+      },
+      {
+        name: 'Obira, Hokkaido',
+        nameKana: '小平町',
+      },
+      {
+        name: 'Tomamae, Hokkaido',
+        nameKana: '苫前町',
+      },
+      {
+        name: 'Haboro, Hokkaido',
+        nameKana: '羽幌町',
+      },
+      {
+        name: 'Shosanbetsu, Hokkaido',
+        nameKana: '初山別村',
+      },
+      {
+        name: 'Enbetsu, Hokkaido',
+        nameKana: '遠別町',
+      },
+      {
+        name: 'Teshio, Hokkaido',
+        nameKana: '天塩町',
+      },
+      {
+        name: 'Sarufutsu, Hokkaido',
+        nameKana: '猿払村',
+      },
+      {
+        name: 'Hamatonbetsu, Hokkaido',
+        nameKana: '浜頓別町',
+      },
+      {
+        name: 'Nakatonbetsu, Hokkaido',
+        nameKana: '中頓別町',
+      },
+      {
+        name: 'Esashi, Hokkaido (Sōya)',
+        nameKana: '枝幸町',
+      },
+      {
+        name: 'Toyotomi, Hokkaido',
+        nameKana: '豊富町',
+      },
+      {
+        name: 'Rebun, Hokkaido',
+        nameKana: '礼文町',
+      },
+      {
+        name: 'Rishiri, Hokkaido',
+        nameKana: '利尻町',
+      },
+      {
+        name: 'Rishirifuji, Hokkaido',
+        nameKana: '利尻富士町',
+      },
+      {
+        name: 'Horonobe, Hokkaido',
+        nameKana: '幌延町',
+      },
+      {
+        name: 'Bihoro, Hokkaido',
+        nameKana: '美幌町',
+      },
+      {
+        name: 'Tsubetsu, Hokkaido',
+        nameKana: '津別町',
+      },
+      {
+        name: 'Shari, Hokkaido',
+        nameKana: '斜里町',
+      },
+      {
+        name: 'Kiyosato, Hokkaido',
+        nameKana: '清里町',
+      },
+      {
+        name: 'Koshimizu, Hokkaido',
+        nameKana: '小清水町',
+      },
+      {
+        name: 'Kunneppu, Hokkaido',
+        nameKana: '訓子府町',
+      },
+      {
+        name: 'Oketo, Hokkaido',
+        nameKana: '置戸町',
+      },
+      {
+        name: 'Saroma, Hokkaido',
+        nameKana: '佐呂間町',
+      },
+      {
+        name: 'Engaru, Hokkaido',
+        nameKana: '遠軽町',
+      },
+      {
+        name: 'Yūbetsu, Hokkaido',
+        nameKana: '湧別町',
+      },
+      {
+        name: 'Takinoue, Hokkaido',
+        nameKana: '滝上町',
+      },
+      {
+        name: 'Okoppe, Hokkaido',
+        nameKana: '興部町',
+      },
+      {
+        name: 'Nishiokoppe, Hokkaido',
+        nameKana: '西興部村',
+      },
+      {
+        name: 'Ōmu, Hokkaido',
+        nameKana: '雄武町',
+      },
+      {
+        name: 'Ōzora, Hokkaido',
+        nameKana: '大空町',
+      },
+      {
+        name: 'Toyoura, Hokkaido',
+        nameKana: '豊浦町',
+      },
+      {
+        name: 'Sōbetsu, Hokkaido',
+        nameKana: '壮瞥町',
+      },
+      {
+        name: 'Shiraoi, Hokkaido',
+        nameKana: '白老町',
+      },
+      {
+        name: 'Atsuma, Hokkaido',
+        nameKana: '厚真町',
+      },
+      {
+        name: 'Tōyako, Hokkaido',
+        nameKana: '洞爺湖町',
+      },
+      {
+        name: 'Abira, Hokkaido',
+        nameKana: '安平町',
+      },
+      {
+        name: 'Mukawa, Hokkaido',
+        nameKana: 'むかわ町',
+      },
+      {
+        name: 'Hidaka, Hokkaido',
+        nameKana: '日高町',
+      },
+      {
+        name: 'Biratori, Hokkaido',
+        nameKana: '平取町',
+      },
+      {
+        name: 'Niikappu, Hokkaido',
+        nameKana: '新冠町',
+      },
+      {
+        name: 'Urakawa, Hokkaido',
+        nameKana: '浦河町',
+      },
+      {
+        name: 'Samani, Hokkaido',
+        nameKana: '様似町',
+      },
+      {
+        name: 'Erimo, Hokkaido',
+        nameKana: 'えりも町',
+      },
+      {
+        name: 'Shinhidaka, Hokkaido',
+        nameKana: '新ひだか町',
+      },
+      {
+        name: 'Otofuke, Hokkaido',
+        nameKana: '音更町',
+      },
+      {
+        name: 'Shihoro, Hokkaido',
+        nameKana: '士幌町',
+      },
+      {
+        name: 'Kamishihoro, Hokkaido',
+        nameKana: '上士幌町',
+      },
+      {
+        name: 'Shikaoi, Hokkaido',
+        nameKana: '鹿追町',
+      },
+      {
+        name: 'Shintoku, Hokkaido',
+        nameKana: '新得町',
+      },
+      {
+        name: 'Shimizu, Hokkaido',
+        nameKana: '清水町',
+      },
+      {
+        name: 'Memuro, Hokkaido',
+        nameKana: '芽室町',
+      },
+      {
+        name: 'Nakasatsunai, Hokkaido',
+        nameKana: '中札内村',
+      },
+      {
+        name: 'Sarabetsu, Hokkaido',
+        nameKana: '更別村',
+      },
+      {
+        name: 'Taiki, Hokkaido',
+        nameKana: '大樹町',
+      },
+      {
+        name: 'Hiroo, Hokkaido',
+        nameKana: '広尾町',
+      },
+      {
+        name: 'Makubetsu, Hokkaido',
+        nameKana: '幕別町',
+      },
+      {
+        name: 'Ikeda, Hokkaido',
+        nameKana: '池田町',
+      },
+      {
+        name: 'Toyokoro, Hokkaido',
+        nameKana: '豊頃町',
+      },
+      {
+        name: 'Honbetsu, Hokkaido',
+        nameKana: '本別町',
+      },
+      {
+        name: 'Ashoro, Hokkaido',
+        nameKana: '足寄町',
+      },
+      {
+        name: 'Rikubetsu, Hokkaido',
+        nameKana: '陸別町',
+      },
+      {
+        name: 'Urahoro, Hokkaido',
+        nameKana: '浦幌町',
+      },
+      {
+        name: 'Kushiro (town)',
+        nameKana: '釧路町',
+      },
+      {
+        name: 'Akkeshi, Hokkaido',
+        nameKana: '厚岸町',
+      },
+      {
+        name: 'Hamanaka, Hokkaido',
+        nameKana: '浜中町',
+      },
+      {
+        name: 'Shibecha, Hokkaido',
+        nameKana: '標茶町',
+      },
+      {
+        name: 'Teshikaga, Hokkaido',
+        nameKana: '弟子屈町',
+      },
+      {
+        name: 'Tsurui',
+        nameKana: '鶴居村',
+      },
+      {
+        name: 'Shiranuka, Hokkaido',
+        nameKana: '白糠町',
+      },
+      {
+        name: 'Betsukai, Hokkaido',
+        nameKana: '別海町',
+      },
+      {
+        name: 'Nakashibetsu, Hokkaido',
+        nameKana: '中標津町',
+      },
+      {
+        name: 'Shibetsu, Hokkaido (Nemuro)',
+        nameKana: '標津町',
+      },
+      {
+        name: 'Rausu, Hokkaido',
+        nameKana: '羅臼町',
+      },
+    ],
+  },
+  {
+    name: 'Iwate Prefecture',
+    nameKana: '岩手県',
+    city: [
+      {
+        name: 'Morioka',
+        nameKana: '盛岡市',
+      },
+      {
+        name: 'Miyako, Iwate',
+        nameKana: '宮古市',
+      },
+      {
+        name: 'Ōfunato, Iwate',
+        nameKana: '大船渡市',
+      },
+      {
+        name: 'Hanamaki, Iwate',
+        nameKana: '花巻市',
+      },
+      {
+        name: 'Kitakami, Iwate',
+        nameKana: '北上市',
+      },
+      {
+        name: 'Kuji, Iwate',
+        nameKana: '久慈市',
+      },
+      {
+        name: 'Tōno, Iwate',
+        nameKana: '遠野市',
+      },
+      {
+        name: 'Ichinoseki, Iwate',
+        nameKana: '一関市',
+      },
+      {
+        name: 'Rikuzentakata, Iwate',
+        nameKana: '陸前高田市',
+      },
+      {
+        name: 'Kamaishi, Iwate',
+        nameKana: '釜石市',
+      },
+      {
+        name: 'Ninohe, Iwate',
+        nameKana: '二戸市',
+      },
+      {
+        name: 'Hachimantai, Iwate',
+        nameKana: '八幡平市',
+      },
+      {
+        name: 'Ōshū, Iwate',
+        nameKana: '奥州市',
+      },
+      {
+        name: 'Takizawa, Iwate',
+        nameKana: '滝沢市',
+      },
+      {
+        name: 'Shizukuishi, Iwate',
+        nameKana: '雫石町',
+      },
+      {
+        name: 'Kuzumaki, Iwate',
+        nameKana: '葛巻町',
+      },
+      {
+        name: 'Iwate, Iwate',
+        nameKana: '岩手町',
+      },
+      {
+        name: 'Shiwa, Iwate',
+        nameKana: '紫波町',
+      },
+      {
+        name: 'Yahaba, Iwate',
+        nameKana: '矢巾町',
+      },
+      {
+        name: 'Nishiwaga, Iwate',
+        nameKana: '西和賀町',
+      },
+      {
+        name: 'Kanegasaki, Iwate',
+        nameKana: '金ケ崎町',
+      },
+      {
+        name: 'Hiraizumi, Iwate',
+        nameKana: '平泉町',
+      },
+      {
+        name: 'Sumita, Iwate',
+        nameKana: '住田町',
+      },
+      {
+        name: 'Ōtsuchi, Iwate',
+        nameKana: '大槌町',
+      },
+      {
+        name: 'Yamada, Iwate',
+        nameKana: '山田町',
+      },
+      {
+        name: 'Iwaizumi, Iwate',
+        nameKana: '岩泉町',
+      },
+      {
+        name: 'Tanohata, Iwate',
+        nameKana: '田野畑村',
+      },
+      {
+        name: 'Fudai, Iwate',
+        nameKana: '普代村',
+      },
+      {
+        name: 'Karumai, Iwate',
+        nameKana: '軽米町',
+      },
+      {
+        name: 'Noda, Iwate',
+        nameKana: '野田村',
+      },
+      {
+        name: 'Kunohe, Iwate',
+        nameKana: '九戸村',
+      },
+      {
+        name: 'Hirono, Iwate',
+        nameKana: '洋野町',
+      },
+      {
+        name: 'Ichinohe, Iwate',
+        nameKana: '一戸町',
+      },
+    ],
+  },
+  {
+    name: 'Fukushima Prefecture',
+    nameKana: '福島県',
+    city: [
+      {
+        name: 'Fukushima (city)',
+        nameKana: '福島市',
+      },
+      {
+        name: 'Aizuwakamatsu',
+        nameKana: '会津若松市',
+      },
+      {
+        name: 'Kōriyama',
+        nameKana: '郡山市',
+      },
+      {
+        name: 'Iwaki, Fukushima',
+        nameKana: 'いわき市',
+      },
+      {
+        name: 'Shirakawa, Fukushima',
+        nameKana: '白河市',
+      },
+      {
+        name: 'Sukagawa, Fukushima',
+        nameKana: '須賀川市',
+      },
+      {
+        name: 'Kitakata, Fukushima',
+        nameKana: '喜多方市',
+      },
+      {
+        name: 'Sōma, Fukushima',
+        nameKana: '相馬市',
+      },
+      {
+        name: 'Nihonmatsu, Fukushima',
+        nameKana: '二本松市',
+      },
+      {
+        name: 'Tamura, Fukushima',
+        nameKana: '田村市',
+      },
+      {
+        name: 'Minamisōma',
+        nameKana: '南相馬市',
+      },
+      {
+        name: 'Date City, Fukushima',
+        nameKana: '伊達市',
+      },
+      {
+        name: 'Motomiya, Fukushima',
+        nameKana: '本宮市',
+      },
+      {
+        name: 'Koori, Fukushima',
+        nameKana: '桑折町',
+      },
+      {
+        name: 'Kunimi, Fukushima',
+        nameKana: '国見町',
+      },
+      {
+        name: 'Kawamata, Fukushima',
+        nameKana: '川俣町',
+      },
+      {
+        name: 'Ōtama, Fukushima',
+        nameKana: '大玉村',
+      },
+      {
+        name: 'Kagamiishi, Fukushima',
+        nameKana: '鏡石町',
+      },
+      {
+        name: 'Ten-ei, Fukushima',
+        nameKana: '天栄村',
+      },
+      {
+        name: 'Shimogō, Fukushima',
+        nameKana: '下郷町',
+      },
+      {
+        name: 'Hinoemata, Fukushima',
+        nameKana: '檜枝岐村',
+      },
+      {
+        name: 'Tadami, Fukushima',
+        nameKana: '只見町',
+      },
+      {
+        name: 'Minamiaizu',
+        nameKana: '南会津町',
+      },
+      {
+        name: 'Kitashiobara, Fukushima',
+        nameKana: '北塩原村',
+      },
+      {
+        name: 'Nishiaizu, Fukushima',
+        nameKana: '西会津町',
+      },
+      {
+        name: 'Bandai, Fukushima',
+        nameKana: '磐梯町',
+      },
+      {
+        name: 'Inawashiro',
+        nameKana: '猪苗代町',
+      },
+      {
+        name: 'Aizubange',
+        nameKana: '会津坂下町',
+      },
+      {
+        name: 'Yugawa, Fukushima',
+        nameKana: '湯川村',
+      },
+      {
+        name: 'Yanaizu, Fukushima',
+        nameKana: '柳津町',
+      },
+      {
+        name: 'Mishima, Fukushima',
+        nameKana: '三島町',
+      },
+      {
+        name: 'Kaneyama, Fukushima',
+        nameKana: '金山町',
+      },
+      {
+        name: 'Shōwa, Fukushima',
+        nameKana: '昭和村',
+      },
+      {
+        name: 'Aizumisato',
+        nameKana: '会津美里町',
+      },
+      {
+        name: 'Nishigō, Fukushima',
+        nameKana: '西郷村',
+      },
+      {
+        name: 'Izumizaki, Fukushima',
+        nameKana: '泉崎村',
+      },
+      {
+        name: 'Nakajima, Fukushima',
+        nameKana: '中島村',
+      },
+      {
+        name: 'Yabuki, Fukushima',
+        nameKana: '矢吹町',
+      },
+      {
+        name: 'Tanagura, Fukushima',
+        nameKana: '棚倉町',
+      },
+      {
+        name: 'Yamatsuri, Fukushima',
+        nameKana: '矢祭町',
+      },
+      {
+        name: 'Hanawa, Fukushima',
+        nameKana: '塙町',
+      },
+      {
+        name: 'Samegawa, Fukushima',
+        nameKana: '鮫川村',
+      },
+      {
+        name: 'Ishikawa, Fukushima',
+        nameKana: '石川町',
+      },
+      {
+        name: 'Tamakawa, Fukushima',
+        nameKana: '玉川村',
+      },
+      {
+        name: 'Hirata, Fukushima',
+        nameKana: '平田村',
+      },
+      {
+        name: 'Asakawa, Fukushima',
+        nameKana: '浅川町',
+      },
+      {
+        name: 'Furudono, Fukushima',
+        nameKana: '古殿町',
+      },
+      {
+        name: 'Miharu, Fukushima',
+        nameKana: '三春町',
+      },
+      {
+        name: 'Ono, Fukushima',
+        nameKana: '小野町',
+      },
+      {
+        name: 'Hirono, Fukushima',
+        nameKana: '広野町',
+      },
+      {
+        name: 'Naraha, Fukushima',
+        nameKana: '楢葉町',
+      },
+      {
+        name: 'Tomioka, Fukushima',
+        nameKana: '富岡町',
+      },
+      {
+        name: 'Kawauchi, Fukushima',
+        nameKana: '川内村',
+      },
+      {
+        name: 'Ōkuma, Fukushima',
+        nameKana: '大熊町',
+      },
+      {
+        name: 'Futaba, Fukushima',
+        nameKana: '双葉町',
+      },
+      {
+        name: 'Namie, Fukushima',
+        nameKana: '浪江町',
+      },
+      {
+        name: 'Katsurao, Fukushima',
+        nameKana: '葛尾村',
+      },
+      {
+        name: 'Shinchi, Fukushima',
+        nameKana: '新地町',
+      },
+      {
+        name: 'Iitate, Fukushima',
+        nameKana: '飯舘村',
+      },
+    ],
+  },
+  {
+    name: 'Akita Prefecture',
+    nameKana: '秋田県',
+    city: [
+      {
+        name: 'Akita (city)',
+        nameKana: '秋田市',
+      },
+      {
+        name: 'Noshiro, Akita',
+        nameKana: '能代市',
+      },
+      {
+        name: 'Yokote, Akita',
+        nameKana: '横手市',
+      },
+      {
+        name: 'Ōdate',
+        nameKana: '大館市',
+      },
+      {
+        name: 'Oga, Akita',
+        nameKana: '男鹿市',
+      },
+      {
+        name: 'Yuzawa, Akita',
+        nameKana: '湯沢市',
+      },
+      {
+        name: 'Kazuno, Akita',
+        nameKana: '鹿角市',
+      },
+      {
+        name: 'Yurihonjō',
+        nameKana: '由利本荘市',
+      },
+      {
+        name: 'Katagami, Akita',
+        nameKana: '潟上市',
+      },
+      {
+        name: 'Daisen, Akita',
+        nameKana: '大仙市',
+      },
+      {
+        name: 'Kitaakita',
+        nameKana: '北秋田市',
+      },
+      {
+        name: 'Nikaho, Akita',
+        nameKana: 'にかほ市',
+      },
+      {
+        name: 'Semboku, Akita',
+        nameKana: '仙北市',
+      },
+      {
+        name: 'Kosaka, Akita',
+        nameKana: '小坂町',
+      },
+      {
+        name: 'Kamikoani, Akita',
+        nameKana: '上小阿仁村',
+      },
+      {
+        name: 'Fujisato, Akita',
+        nameKana: '藤里町',
+      },
+      {
+        name: 'Mitane, Akita',
+        nameKana: '三種町',
+      },
+      {
+        name: 'Happō, Akita',
+        nameKana: '八峰町',
+      },
+      {
+        name: 'Gojōme, Akita',
+        nameKana: '五城目町',
+      },
+      {
+        name: 'Hachirōgata, Akita',
+        nameKana: '八郎潟町',
+      },
+      {
+        name: 'Ikawa, Akita',
+        nameKana: '井川町',
+      },
+      {
+        name: 'Ōgata, Akita',
+        nameKana: '大潟村',
+      },
+      {
+        name: 'Misato, Akita',
+        nameKana: '美郷町',
+      },
+      {
+        name: 'Ugo, Akita',
+        nameKana: '羽後町',
+      },
+      {
+        name: 'Higashinaruse, Akita',
+        nameKana: '東成瀬村',
+      },
+    ],
+  },
+  {
+    name: 'Yamagata Prefecture',
+    nameKana: '山形県',
+    city: [
+      {
+        name: 'Yamagata, Yamagata',
+        nameKana: '山形市',
+      },
+      {
+        name: 'Yonezawa, Yamagata',
+        nameKana: '米沢市',
+      },
+      {
+        name: 'Tsuruoka, Yamagata',
+        nameKana: '鶴岡市',
+      },
+      {
+        name: 'Sakata, Yamagata',
+        nameKana: '酒田市',
+      },
+      {
+        name: 'Shinjō, Yamagata',
+        nameKana: '新庄市',
+      },
+      {
+        name: 'Sagae, Yamagata',
+        nameKana: '寒河江市',
+      },
+      {
+        name: 'Kaminoyama, Yamagata',
+        nameKana: '上山市',
+      },
+      {
+        name: 'Murayama, Yamagata',
+        nameKana: '村山市',
+      },
+      {
+        name: 'Nagai, Yamagata',
+        nameKana: '長井市',
+      },
+      {
+        name: 'Tendō, Yamagata',
+        nameKana: '天童市',
+      },
+      {
+        name: 'Higashine, Yamagata',
+        nameKana: '東根市',
+      },
+      {
+        name: 'Obanazawa, Yamagata',
+        nameKana: '尾花沢市',
+      },
+      {
+        name: "Nan'yō, Yamagata",
+        nameKana: '南陽市',
+      },
+      {
+        name: 'Yamanobe, Yamagata',
+        nameKana: '山辺町',
+      },
+      {
+        name: 'Nakayama, Yamagata',
+        nameKana: '中山町',
+      },
+      {
+        name: 'Kahoku, Yamagata',
+        nameKana: '河北町',
+      },
+      {
+        name: 'Nishikawa, Yamagata',
+        nameKana: '西川町',
+      },
+      {
+        name: 'Asahi, Yamagata (Nishimurayama)',
+        nameKana: '朝日町',
+      },
+      {
+        name: 'Ōe, Yamagata',
+        nameKana: '大江町',
+      },
+      {
+        name: 'Ōishida',
+        nameKana: '大石田町',
+      },
+      {
+        name: 'Kaneyama, Yamagata',
+        nameKana: '金山町',
+      },
+      {
+        name: 'Mogami, Yamagata',
+        nameKana: '最上町',
+      },
+      {
+        name: 'Funagata, Yamagata',
+        nameKana: '舟形町',
+      },
+      {
+        name: 'Mamurogawa',
+        nameKana: '真室川町',
+      },
+      {
+        name: 'Ōkura, Yamagata',
+        nameKana: '大蔵村',
+      },
+      {
+        name: 'Sakegawa, Yamagata',
+        nameKana: '鮭川村',
+      },
+      {
+        name: 'Tozawa, Yamagata',
+        nameKana: '戸沢村',
+      },
+      {
+        name: 'Takahata, Yamagata',
+        nameKana: '高畠町',
+      },
+      {
+        name: 'Kawanishi, Yamagata',
+        nameKana: '川西町',
+      },
+      {
+        name: 'Oguni, Yamagata',
+        nameKana: '小国町',
+      },
+      {
+        name: 'Shirataka',
+        nameKana: '白鷹町',
+      },
+      {
+        name: 'Iide, Yamagata',
+        nameKana: '飯豊町',
+      },
+      {
+        name: 'Mikawa, Yamagata',
+        nameKana: '三川町',
+      },
+      {
+        name: 'Shōnai, Yamagata',
+        nameKana: '庄内町',
+      },
+      {
+        name: 'Yuza',
+        nameKana: '遊佐町',
+      },
+    ],
+  },
+  {
+    name: 'Tochigi Prefecture',
+    nameKana: '栃木県',
+    city: [
+      {
+        name: 'Utsunomiya',
+        nameKana: '宇都宮市',
+      },
+      {
+        name: 'Ashikaga, Tochigi',
+        nameKana: '足利市',
+      },
+      {
+        name: 'Tochigi, Tochigi',
+        nameKana: '栃木市',
+      },
+      {
+        name: 'Sano, Tochigi',
+        nameKana: '佐野市',
+      },
+      {
+        name: 'Kanuma, Tochigi',
+        nameKana: '鹿沼市',
+      },
+      {
+        name: 'Nikkō, Tochigi',
+        nameKana: '日光市',
+      },
+      {
+        name: 'Oyama, Tochigi',
+        nameKana: '小山市',
+      },
+      {
+        name: 'Mooka, Tochigi',
+        nameKana: '真岡市',
+      },
+      {
+        name: 'Ōtawara',
+        nameKana: '大田原市',
+      },
+      {
+        name: 'Yaita, Tochigi',
+        nameKana: '矢板市',
+      },
+      {
+        name: 'Nasushiobara',
+        nameKana: '那須塩原市',
+      },
+      {
+        name: 'Sakura, Tochigi',
+        nameKana: 'さくら市',
+      },
+      {
+        name: 'Nasukarasuyama',
+        nameKana: '那須烏山市',
+      },
+      {
+        name: 'Shimotsuke, Tochigi',
+        nameKana: '下野市',
+      },
+      {
+        name: 'Kaminokawa, Tochigi',
+        nameKana: '上三川町',
+      },
+      {
+        name: 'Mashiko, Tochigi',
+        nameKana: '益子町',
+      },
+      {
+        name: 'Motegi, Tochigi',
+        nameKana: '茂木町',
+      },
+      {
+        name: 'Ichikai, Tochigi',
+        nameKana: '市貝町',
+      },
+      {
+        name: 'Haga, Tochigi',
+        nameKana: '芳賀町',
+      },
+      {
+        name: 'Mibu, Tochigi',
+        nameKana: '壬生町',
+      },
+      {
+        name: 'Nogi, Tochigi',
+        nameKana: '野木町',
+      },
+      {
+        name: 'Shioya, Tochigi',
+        nameKana: '塩谷町',
+      },
+      {
+        name: 'Takanezawa, Tochigi',
+        nameKana: '高根沢町',
+      },
+      {
+        name: 'Nasu, Tochigi',
+        nameKana: '那須町',
+      },
+      {
+        name: 'Nakagawa, Tochigi',
+        nameKana: '那珂川町',
+      },
+    ],
+  },
+  {
+    name: 'Ibaraki Prefecture',
+    nameKana: '茨城県',
+    city: [
+      {
+        name: 'Mito, Ibaraki',
+        nameKana: '水戸市',
+      },
+      {
+        name: 'Hitachi, Ibaraki',
+        nameKana: '日立市',
+      },
+      {
+        name: 'Tsuchiura',
+        nameKana: '土浦市',
+      },
+      {
+        name: 'Koga, Ibaraki',
+        nameKana: '古河市',
+      },
+      {
+        name: 'Ishioka, Ibaraki',
+        nameKana: '石岡市',
+      },
+      {
+        name: 'Yūki, Ibaraki',
+        nameKana: '結城市',
+      },
+      {
+        name: 'Ryūgasaki, Ibaraki',
+        nameKana: '龍ケ崎市',
+      },
+      {
+        name: 'Shimotsuma, Ibaraki',
+        nameKana: '下妻市',
+      },
+      {
+        name: 'Jōsō',
+        nameKana: '常総市',
+      },
+      {
+        name: 'Hitachiōta, Ibaraki',
+        nameKana: '常陸太田市',
+      },
+      {
+        name: 'Takahagi, Ibaraki',
+        nameKana: '高萩市',
+      },
+      {
+        name: 'Kitaibaraki, Ibaraki',
+        nameKana: '北茨城市',
+      },
+      {
+        name: 'Kasama, Ibaraki',
+        nameKana: '笠間市',
+      },
+      {
+        name: 'Toride, Ibaraki',
+        nameKana: '取手市',
+      },
+      {
+        name: 'Ushiku, Ibaraki',
+        nameKana: '牛久市',
+      },
+      {
+        name: 'Tsukuba, Ibaraki',
+        nameKana: 'つくば市',
+      },
+      {
+        name: 'Hitachinaka, Ibaraki',
+        nameKana: 'ひたちなか市',
+      },
+      {
+        name: 'Kashima, Ibaraki',
+        nameKana: '鹿嶋市',
+      },
+      {
+        name: 'Itako, Ibaraki',
+        nameKana: '潮来市',
+      },
+      {
+        name: 'Moriya, Ibaraki',
+        nameKana: '守谷市',
+      },
+      {
+        name: 'Hitachiōmiya',
+        nameKana: '常陸大宮市',
+      },
+      {
+        name: 'Naka, Ibaraki',
+        nameKana: '那珂市',
+      },
+      {
+        name: 'Chikusei',
+        nameKana: '筑西市',
+      },
+      {
+        name: 'Bandō, Ibaraki',
+        nameKana: '坂東市',
+      },
+      {
+        name: 'Inashiki, Ibaraki',
+        nameKana: '稲敷市',
+      },
+      {
+        name: 'Kasumigaura, Ibaraki',
+        nameKana: 'かすみがうら市',
+      },
+      {
+        name: 'Sakuragawa, Ibaraki',
+        nameKana: '桜川市',
+      },
+      {
+        name: 'Kamisu, Ibaraki',
+        nameKana: '神栖市',
+      },
+      {
+        name: 'Namegata, Ibaraki',
+        nameKana: '行方市',
+      },
+      {
+        name: 'Hokota, Ibaraki',
+        nameKana: '鉾田市',
+      },
+      {
+        name: 'Tsukubamirai, Ibaraki',
+        nameKana: 'つくばみらい市',
+      },
+      {
+        name: 'Omitama',
+        nameKana: '小美玉市',
+      },
+      {
+        name: 'Ibaraki, Ibaraki',
+        nameKana: '茨城町',
+      },
+      {
+        name: 'Ōarai, Ibaraki',
+        nameKana: '大洗町',
+      },
+      {
+        name: 'Shirosato, Ibaraki',
+        nameKana: '城里町',
+      },
+      {
+        name: 'Tōkai, Ibaraki',
+        nameKana: '東海村',
+      },
+      {
+        name: 'Daigo, Ibaraki',
+        nameKana: '大子町',
+      },
+      {
+        name: 'Miho, Ibaraki',
+        nameKana: '美浦村',
+      },
+      {
+        name: 'Ami, Ibaraki',
+        nameKana: '阿見町',
+      },
+      {
+        name: 'Kawachi, Ibaraki',
+        nameKana: '河内町',
+      },
+      {
+        name: 'Yachiyo, Ibaraki',
+        nameKana: '八千代町',
+      },
+      {
+        name: 'Goka, Ibaraki',
+        nameKana: '五霞町',
+      },
+      {
+        name: 'Sakai, Ibaraki',
+        nameKana: '境町',
+      },
+      {
+        name: 'Tone, Ibaraki',
+        nameKana: '利根町',
+      },
+    ],
+  },
+  {
+    name: 'Gunma Prefecture',
+    nameKana: '群馬県',
+    city: [
+      {
+        name: 'Maebashi',
+        nameKana: '前橋市',
+      },
+      {
+        name: 'Takasaki',
+        nameKana: '高崎市',
+      },
+      {
+        name: 'Kiryū, Gunma',
+        nameKana: '桐生市',
+      },
+      {
+        name: 'Isesaki, Gunma',
+        nameKana: '伊勢崎市',
+      },
+      {
+        name: 'Ōta, Gunma',
+        nameKana: '太田市',
+      },
+      {
+        name: 'Numata, Gunma',
+        nameKana: '沼田市',
+      },
+      {
+        name: 'Tatebayashi, Gunma',
+        nameKana: '館林市',
+      },
+      {
+        name: 'Shibukawa, Gunma',
+        nameKana: '渋川市',
+      },
+      {
+        name: 'Fujioka, Gunma',
+        nameKana: '藤岡市',
+      },
+      {
+        name: 'Tomioka, Gunma',
+        nameKana: '富岡市',
+      },
+      {
+        name: 'Annaka, Gunma',
+        nameKana: '安中市',
+      },
+      {
+        name: 'Midori, Gunma',
+        nameKana: 'みどり市',
+      },
+      {
+        name: 'Shintō, Gunma',
+        nameKana: '榛東村',
+      },
+      {
+        name: 'Yoshioka, Gunma',
+        nameKana: '吉岡町',
+      },
+      {
+        name: 'Ueno, Gunma',
+        nameKana: '上野村',
+      },
+      {
+        name: 'Kanna, Gunma',
+        nameKana: '神流町',
+      },
+      {
+        name: 'Shimonita, Gunma',
+        nameKana: '下仁田町',
+      },
+      {
+        name: 'Nanmoku, Gunma',
+        nameKana: '南牧村',
+      },
+      {
+        name: 'Kanra, Gunma',
+        nameKana: '甘楽町',
+      },
+      {
+        name: 'Nakanojō, Gunma',
+        nameKana: '中之条町',
+      },
+      {
+        name: 'Naganohara, Gunma',
+        nameKana: '長野原町',
+      },
+      {
+        name: 'Tsumagoi, Gunma',
+        nameKana: '嬬恋村',
+      },
+      {
+        name: 'Kusatsu, Gunma',
+        nameKana: '草津町',
+      },
+      {
+        name: 'Takayama, Gunma',
+        nameKana: '高山村',
+      },
+      {
+        name: 'Higashiagatsuma, Gunma',
+        nameKana: '東吾妻町',
+      },
+      {
+        name: 'Katashina, Gunma',
+        nameKana: '片品村',
+      },
+      {
+        name: 'Kawaba, Gunma',
+        nameKana: '川場村',
+      },
+      {
+        name: 'Shōwa, Gunma',
+        nameKana: '昭和村',
+      },
+      {
+        name: 'Minakami, Gunma',
+        nameKana: 'みなかみ町',
+      },
+      {
+        name: 'Tamamura, Gunma',
+        nameKana: '玉村町',
+      },
+      {
+        name: 'Itakura, Gunma',
+        nameKana: '板倉町',
+      },
+      {
+        name: 'Meiwa, Gunma',
+        nameKana: '明和町',
+      },
+      {
+        name: 'Chiyoda, Gunma',
+        nameKana: '千代田町',
+      },
+      {
+        name: 'Ōizumi, Gunma',
+        nameKana: '大泉町',
+      },
+      {
+        name: 'Ōra, Gunma',
+        nameKana: '邑楽町',
+      },
+    ],
+  },
+  {
+    name: 'Chiba Prefecture',
+    nameKana: '千葉県',
+    city: [
+      {
+        name: 'Chiba (city)',
+        nameKana: '千葉市',
+      },
+      {
+        name: 'Chūō-ku, Chiba',
+        nameKana: '千葉市',
+      },
+      {
+        name: 'Hanamigawa-ku',
+        nameKana: '千葉市',
+      },
+      {
+        name: 'Inage-ku',
+        nameKana: '千葉市',
+      },
+      {
+        name: 'Wakaba-ku',
+        nameKana: '千葉市',
+      },
+      {
+        name: 'Midori-ku, Chiba',
+        nameKana: '千葉市',
+      },
+      {
+        name: 'Mihama-ku',
+        nameKana: '千葉市',
+      },
+      {
+        name: 'Chōshi',
+        nameKana: '銚子市',
+      },
+      {
+        name: 'Ichikawa, Chiba',
+        nameKana: '市川市',
+      },
+      {
+        name: 'Funabashi',
+        nameKana: '船橋市',
+      },
+      {
+        name: 'Tateyama, Chiba',
+        nameKana: '館山市',
+      },
+      {
+        name: 'Kisarazu',
+        nameKana: '木更津市',
+      },
+      {
+        name: 'Matsudo',
+        nameKana: '松戸市',
+      },
+      {
+        name: 'Noda, Chiba',
+        nameKana: '野田市',
+      },
+      {
+        name: 'Mobara',
+        nameKana: '茂原市',
+      },
+      {
+        name: 'Narita, Chiba',
+        nameKana: '成田市',
+      },
+      {
+        name: 'Sakura, Chiba',
+        nameKana: '佐倉市',
+      },
+      {
+        name: 'Tōgane',
+        nameKana: '東金市',
+      },
+      {
+        name: 'Asahi, Chiba',
+        nameKana: '旭市',
+      },
+      {
+        name: 'Narashino',
+        nameKana: '習志野市',
+      },
+      {
+        name: 'Kashiwa',
+        nameKana: '柏市',
+      },
+      {
+        name: 'Katsuura, Chiba',
+        nameKana: '勝浦市',
+      },
+      {
+        name: 'Ichihara, Chiba',
+        nameKana: '市原市',
+      },
+      {
+        name: 'Nagareyama',
+        nameKana: '流山市',
+      },
+      {
+        name: 'Yachiyo, Chiba',
+        nameKana: '八千代市',
+      },
+      {
+        name: 'Abiko, Chiba',
+        nameKana: '我孫子市',
+      },
+      {
+        name: 'Kamogawa, Chiba',
+        nameKana: '鴨川市',
+      },
+      {
+        name: 'Kamagaya',
+        nameKana: '鎌ケ谷市',
+      },
+      {
+        name: 'Kimitsu',
+        nameKana: '君津市',
+      },
+      {
+        name: 'Futtsu',
+        nameKana: '富津市',
+      },
+      {
+        name: 'Urayasu',
+        nameKana: '浦安市',
+      },
+      {
+        name: 'Yotsukaidō',
+        nameKana: '四街道市',
+      },
+      {
+        name: 'Sodegaura',
+        nameKana: '袖ケ浦市',
+      },
+      {
+        name: 'Yachimata',
+        nameKana: '八街市',
+      },
+      {
+        name: 'Inzai',
+        nameKana: '印西市',
+      },
+      {
+        name: 'Shiroi',
+        nameKana: '白井市',
+      },
+      {
+        name: 'Tomisato',
+        nameKana: '富里市',
+      },
+      {
+        name: 'Minamibōsō',
+        nameKana: '南房総市',
+      },
+      {
+        name: 'Sōsa',
+        nameKana: '匝瑳市',
+      },
+      {
+        name: 'Katori, Chiba',
+        nameKana: '香取市',
+      },
+      {
+        name: 'Sanmu',
+        nameKana: '山武市',
+      },
+      {
+        name: 'Isumi',
+        nameKana: 'いすみ市',
+      },
+      {
+        name: 'Ōamishirasato',
+        nameKana: '大網白里市',
+      },
+      {
+        name: 'Shisui',
+        nameKana: '酒々井町',
+      },
+      {
+        name: 'Sakae, Chiba',
+        nameKana: '栄町',
+      },
+      {
+        name: 'Kōzaki',
+        nameKana: '神崎町',
+      },
+      {
+        name: 'Tako, Chiba',
+        nameKana: '多古町',
+      },
+      {
+        name: 'Tōnoshō',
+        nameKana: '東庄町',
+      },
+      {
+        name: 'Kujūkuri',
+        nameKana: '九十九里町',
+      },
+      {
+        name: 'Shibayama, Chiba',
+        nameKana: '芝山町',
+      },
+      {
+        name: 'Yokoshibahikari',
+        nameKana: '横芝光町',
+      },
+      {
+        name: 'Ichinomiya, Chiba',
+        nameKana: '一宮町',
+      },
+      {
+        name: 'Mutsuzawa',
+        nameKana: '睦沢町',
+      },
+      {
+        name: 'Chōsei',
+        nameKana: '長生村',
+      },
+      {
+        name: 'Shirako',
+        nameKana: '白子町',
+      },
+      {
+        name: 'Nagara, Chiba',
+        nameKana: '長柄町',
+      },
+      {
+        name: 'Chōnan',
+        nameKana: '長南町',
+      },
+      {
+        name: 'Ōtaki, Chiba',
+        nameKana: '大多喜町',
+      },
+      {
+        name: 'Onjuku',
+        nameKana: '御宿町',
+      },
+      {
+        name: 'Kyonan',
+        nameKana: '鋸南町',
+      },
+    ],
+  },
+  {
+    name: 'Kanagawa Prefecture',
+    nameKana: '神奈川県',
+    city: [
+      {
+        name: 'Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Tsurumi-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Kanagawa-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Nishi-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Naka-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Minami-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Hodogaya-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Isogo-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Kanazawa-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Kōhoku-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Totsuka-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Kōnan-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Asahi-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Midori-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Seya-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Sakae-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Izumi-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Aoba-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Tsuzuki-ku, Yokohama',
+        nameKana: '横浜市',
+      },
+      {
+        name: 'Kawasaki, Kanagawa',
+        nameKana: '川崎市',
+      },
+      {
+        name: 'Kawasaki-ku, Kawasaki',
+        nameKana: '川崎市',
+      },
+      {
+        name: 'Saiwai-ku, Kawasaki',
+        nameKana: '川崎市',
+      },
+      {
+        name: 'Nakahara-ku, Kawasaki',
+        nameKana: '川崎市',
+      },
+      {
+        name: 'Takatsu-ku, Kawasaki',
+        nameKana: '川崎市',
+      },
+      {
+        name: 'Tama-ku, Kawasaki',
+        nameKana: '川崎市',
+      },
+      {
+        name: 'Miyamae-ku, Kawasaki',
+        nameKana: '川崎市',
+      },
+      {
+        name: 'Asao-ku, Kawasaki',
+        nameKana: '川崎市',
+      },
+      {
+        name: 'Sagamihara',
+        nameKana: '相模原市',
+      },
+      {
+        name: 'Midori-ku, Sagamihara',
+        nameKana: '相模原市',
+      },
+      {
+        name: 'Chūō-ku, Sagamihara',
+        nameKana: '相模原市',
+      },
+      {
+        name: 'Minami-ku, Sagamihara',
+        nameKana: '相模原市',
+      },
+      {
+        name: 'Yokosuka',
+        nameKana: '横須賀市',
+      },
+      {
+        name: 'Hiratsuka',
+        nameKana: '平塚市',
+      },
+      {
+        name: 'Kamakura',
+        nameKana: '鎌倉市',
+      },
+      {
+        name: 'Fujisawa, Kanagawa',
+        nameKana: '藤沢市',
+      },
+      {
+        name: 'Odawara',
+        nameKana: '小田原市',
+      },
+      {
+        name: 'Chigasaki, Kanagawa',
+        nameKana: '茅ヶ崎市',
+      },
+      {
+        name: 'Zushi, Kanagawa',
+        nameKana: '逗子市',
+      },
+      {
+        name: 'Miura, Kanagawa',
+        nameKana: '三浦市',
+      },
+      {
+        name: 'Hadano, Kanagawa',
+        nameKana: '秦野市',
+      },
+      {
+        name: 'Atsugi',
+        nameKana: '厚木市',
+      },
+      {
+        name: 'Yamato, Kanagawa',
+        nameKana: '大和市',
+      },
+      {
+        name: 'Isehara, Kanagawa',
+        nameKana: '伊勢原市',
+      },
+      {
+        name: 'Ebina, Kanagawa',
+        nameKana: '海老名市',
+      },
+      {
+        name: 'Zama, Kanagawa',
+        nameKana: '座間市',
+      },
+      {
+        name: 'Minamiashigara, Kanagawa',
+        nameKana: '南足柄市',
+      },
+      {
+        name: 'Ayase, Kanagawa',
+        nameKana: '綾瀬市',
+      },
+      {
+        name: 'Hayama, Kanagawa',
+        nameKana: '葉山町',
+      },
+      {
+        name: 'Samukawa',
+        nameKana: '寒川町',
+      },
+      {
+        name: 'Ōiso, Kanagawa',
+        nameKana: '大磯町',
+      },
+      {
+        name: 'Ninomiya, Kanagawa',
+        nameKana: '二宮町',
+      },
+      {
+        name: 'Nakai, Kanagawa',
+        nameKana: '中井町',
+      },
+      {
+        name: 'Ōi, Kanagawa',
+        nameKana: '大井町',
+      },
+      {
+        name: 'Matsuda, Kanagawa',
+        nameKana: '松田町',
+      },
+      {
+        name: 'Yamakita, Kanagawa',
+        nameKana: '山北町',
+      },
+      {
+        name: 'Kaisei, Kanagawa',
+        nameKana: '開成町',
+      },
+      {
+        name: 'Hakone',
+        nameKana: '箱根町',
+      },
+      {
+        name: 'Manazuru, Kanagawa',
+        nameKana: '真鶴町',
+      },
+      {
+        name: 'Yugawara',
+        nameKana: '湯河原町',
+      },
+      {
+        name: 'Aikawa, Kanagawa',
+        nameKana: '愛川町',
+      },
+      {
+        name: 'Kiyokawa, Kanagawa',
+        nameKana: '清川村',
+      },
+    ],
+  },
+  {
+    name: 'Saitama Prefecture',
+    nameKana: '埼玉県',
+    city: [
+      {
+        name: 'Saitama (city)',
+        nameKana: 'さいたま市',
+      },
+      {
+        name: 'Nishi-ku, Saitama',
+        nameKana: 'さいたま市',
+      },
+      {
+        name: 'Kita-ku, Saitama',
+        nameKana: 'さいたま市',
+      },
+      {
+        name: 'Ōmiya-ku, Saitama',
+        nameKana: 'さいたま市',
+      },
+      {
+        name: 'Minuma-ku, Saitama',
+        nameKana: 'さいたま市',
+      },
+      {
+        name: 'Chūō-ku, Saitama',
+        nameKana: 'さいたま市',
+      },
+      {
+        name: 'Sakura-ku, Saitama',
+        nameKana: 'さいたま市',
+      },
+      {
+        name: 'Urawa-ku, Saitama',
+        nameKana: 'さいたま市',
+      },
+      {
+        name: 'Minami-ku, Saitama',
+        nameKana: 'さいたま市',
+      },
+      {
+        name: 'Midori-ku, Saitama',
+        nameKana: 'さいたま市',
+      },
+      {
+        name: 'Iwatsuki-ku, Saitama',
+        nameKana: 'さいたま市',
+      },
+      {
+        name: 'Kawagoe, Saitama',
+        nameKana: '川越市',
+      },
+      {
+        name: 'Kumagaya, Saitama',
+        nameKana: '熊谷市',
+      },
+      {
+        name: 'Kawaguchi, Saitama',
+        nameKana: '川口市',
+      },
+      {
+        name: 'Gyōda',
+        nameKana: '行田市',
+      },
+      {
+        name: 'Chichibu, Saitama',
+        nameKana: '秩父市',
+      },
+      {
+        name: 'Tokorozawa, Saitama',
+        nameKana: '所沢市',
+      },
+      {
+        name: 'Hannō, Saitama',
+        nameKana: '飯能市',
+      },
+      {
+        name: 'Kazo, Saitama',
+        nameKana: '加須市',
+      },
+      {
+        name: 'Honjō, Saitama',
+        nameKana: '本庄市',
+      },
+      {
+        name: 'Higashimatsuyama, Saitama',
+        nameKana: '東松山市',
+      },
+      {
+        name: 'Kasukabe, Saitama',
+        nameKana: '春日部市',
+      },
+      {
+        name: 'Sayama, Saitama',
+        nameKana: '狭山市',
+      },
+      {
+        name: 'Hanyū, Saitama',
+        nameKana: '羽生市',
+      },
+      {
+        name: 'Kōnosu',
+        nameKana: '鴻巣市',
+      },
+      {
+        name: 'Fukaya, Saitama',
+        nameKana: '深谷市',
+      },
+      {
+        name: 'Ageo, Saitama',
+        nameKana: '上尾市',
+      },
+      {
+        name: 'Sōka',
+        nameKana: '草加市',
+      },
+      {
+        name: 'Koshigaya',
+        nameKana: '越谷市',
+      },
+      {
+        name: 'Warabi, Saitama',
+        nameKana: '蕨市',
+      },
+      {
+        name: 'Toda, Saitama',
+        nameKana: '戸田市',
+      },
+      {
+        name: 'Iruma, Saitama',
+        nameKana: '入間市',
+      },
+      {
+        name: 'Asaka, Saitama',
+        nameKana: '朝霞市',
+      },
+      {
+        name: 'Shiki, Saitama',
+        nameKana: '志木市',
+      },
+      {
+        name: 'Wakō, Saitama',
+        nameKana: '和光市',
+      },
+      {
+        name: 'Niiza, Saitama',
+        nameKana: '新座市',
+      },
+      {
+        name: 'Okegawa, Saitama',
+        nameKana: '桶川市',
+      },
+      {
+        name: 'Kuki, Saitama',
+        nameKana: '久喜市',
+      },
+      {
+        name: 'Kitamoto, Saitama',
+        nameKana: '北本市',
+      },
+      {
+        name: 'Yashio, Saitama',
+        nameKana: '八潮市',
+      },
+      {
+        name: 'Fujimi, Saitama',
+        nameKana: '富士見市',
+      },
+      {
+        name: 'Misato, Saitama (city)',
+        nameKana: '三郷市',
+      },
+      {
+        name: 'Hasuda, Saitama',
+        nameKana: '蓮田市',
+      },
+      {
+        name: 'Sakado, Saitama',
+        nameKana: '坂戸市',
+      },
+      {
+        name: 'Satte, Saitama',
+        nameKana: '幸手市',
+      },
+      {
+        name: 'Tsurugashima, Saitama',
+        nameKana: '鶴ヶ島市',
+      },
+      {
+        name: 'Hidaka, Saitama',
+        nameKana: '日高市',
+      },
+      {
+        name: 'Yoshikawa, Saitama',
+        nameKana: '吉川市',
+      },
+      {
+        name: 'Fujimino, Saitama',
+        nameKana: 'ふじみ野市',
+      },
+      {
+        name: 'Shiraoka, Saitama',
+        nameKana: '白岡市',
+      },
+      {
+        name: 'Ina, Saitama',
+        nameKana: '伊奈町',
+      },
+      {
+        name: 'Miyoshi, Saitama',
+        nameKana: '三芳町',
+      },
+      {
+        name: 'Moroyama, Saitama',
+        nameKana: '毛呂山町',
+      },
+      {
+        name: 'Ogose, Saitama',
+        nameKana: '越生町',
+      },
+      {
+        name: 'Namegawa, Saitama',
+        nameKana: '滑川町',
+      },
+      {
+        name: 'Ranzan, Saitama',
+        nameKana: '嵐山町',
+      },
+      {
+        name: 'Ogawa, Saitama',
+        nameKana: '小川町',
+      },
+      {
+        name: 'Kawajima, Saitama',
+        nameKana: '川島町',
+      },
+      {
+        name: 'Yoshimi, Saitama',
+        nameKana: '吉見町',
+      },
+      {
+        name: 'Hatoyama, Saitama',
+        nameKana: '鳩山町',
+      },
+      {
+        name: 'Tokigawa, Saitama',
+        nameKana: 'ときがわ町',
+      },
+      {
+        name: 'Yokoze, Saitama',
+        nameKana: '横瀬町',
+      },
+      {
+        name: 'Minano, Saitama',
+        nameKana: '皆野町',
+      },
+      {
+        name: 'Nagatoro, Saitama',
+        nameKana: '長瀞町',
+      },
+      {
+        name: 'Ogano, Saitama',
+        nameKana: '小鹿野町',
+      },
+      {
+        name: 'Higashichichibu, Saitama',
+        nameKana: '東秩父村',
+      },
+      {
+        name: 'Misato, Saitama (town)',
+        nameKana: '美里町',
+      },
+      {
+        name: 'Kamikawa, Saitama',
+        nameKana: '神川町',
+      },
+      {
+        name: 'Kamisato, Saitama',
+        nameKana: '上里町',
+      },
+      {
+        name: 'Yorii, Saitama',
+        nameKana: '寄居町',
+      },
+      {
+        name: 'Miyashiro, Saitama',
+        nameKana: '宮代町',
+      },
+      {
+        name: 'Sugito, Saitama',
+        nameKana: '杉戸町',
+      },
+      {
+        name: 'Matsubushi, Saitama',
+        nameKana: '松伏町',
+      },
+    ],
+  },
+  {
+    name: 'Tokyo',
+    nameKana: '東京都',
+    city: [
+      {
+        name: 'Chiyoda, Tokyo',
+        nameKana: '千代田区',
+      },
+      {
+        name: 'Chūō, Tokyo',
+        nameKana: '中央区',
+      },
+      {
+        name: 'Minato, Tokyo',
+        nameKana: '港区',
+      },
+      {
+        name: 'Shinjuku',
+        nameKana: '新宿区',
+      },
+      {
+        name: 'Bunkyō',
+        nameKana: '文京区',
+      },
+      {
+        name: 'Taitō',
+        nameKana: '台東区',
+      },
+      {
+        name: 'Sumida, Tokyo',
+        nameKana: '墨田区',
+      },
+      {
+        name: 'Kōtō',
+        nameKana: '江東区',
+      },
+      {
+        name: 'Shinagawa',
+        nameKana: '品川区',
+      },
+      {
+        name: 'Meguro',
+        nameKana: '目黒区',
+      },
+      {
+        name: 'Ōta, Tokyo',
+        nameKana: '大田区',
+      },
+      {
+        name: 'Setagaya',
+        nameKana: '世田谷区',
+      },
+      {
+        name: 'Shibuya',
+        nameKana: '渋谷区',
+      },
+      {
+        name: 'Nakano, Tokyo',
+        nameKana: '中野区',
+      },
+      {
+        name: 'Suginami',
+        nameKana: '杉並区',
+      },
+      {
+        name: 'Toshima',
+        nameKana: '豊島区',
+      },
+      {
+        name: 'Kita, Tokyo',
+        nameKana: '北区',
+      },
+      {
+        name: 'Arakawa, Tokyo',
+        nameKana: '荒川区',
+      },
+      {
+        name: 'Itabashi',
+        nameKana: '板橋区',
+      },
+      {
+        name: 'Nerima',
+        nameKana: '練馬区',
+      },
+      {
+        name: 'Adachi, Tokyo',
+        nameKana: '足立区',
+      },
+      {
+        name: 'Katsushika',
+        nameKana: '葛飾区',
+      },
+      {
+        name: 'Edogawa, Tokyo',
+        nameKana: '江戸川区',
+      },
+      {
+        name: 'Hachiōji',
+        nameKana: '八王子市',
+      },
+      {
+        name: 'Tachikawa, Tokyo',
+        nameKana: '立川市',
+      },
+      {
+        name: 'Musashino, Tokyo',
+        nameKana: '武蔵野市',
+      },
+      {
+        name: 'Mitaka, Tokyo',
+        nameKana: '三鷹市',
+      },
+      {
+        name: 'Ōme, Tokyo',
+        nameKana: '青梅市',
+      },
+      {
+        name: 'Fuchū, Tokyo',
+        nameKana: '府中市',
+      },
+      {
+        name: 'Akishima, Tokyo',
+        nameKana: '昭島市',
+      },
+      {
+        name: 'Chōfu, Tokyo',
+        nameKana: '調布市',
+      },
+      {
+        name: 'Machida, Tokyo',
+        nameKana: '町田市',
+      },
+      {
+        name: 'Koganei, Tokyo',
+        nameKana: '小金井市',
+      },
+      {
+        name: 'Kodaira, Tokyo',
+        nameKana: '小平市',
+      },
+      {
+        name: 'Hino, Tokyo',
+        nameKana: '日野市',
+      },
+      {
+        name: 'Higashimurayama, Tokyo',
+        nameKana: '東村山市',
+      },
+      {
+        name: 'Kokubunji, Tokyo',
+        nameKana: '国分寺市',
+      },
+      {
+        name: 'Kunitachi, Tokyo',
+        nameKana: '国立市',
+      },
+      {
+        name: 'Fussa, Tokyo',
+        nameKana: '福生市',
+      },
+      {
+        name: 'Komae, Tokyo',
+        nameKana: '狛江市',
+      },
+      {
+        name: 'Higashiyamato, Tokyo',
+        nameKana: '東大和市',
+      },
+      {
+        name: 'Kiyose, Tokyo',
+        nameKana: '清瀬市',
+      },
+      {
+        name: 'Higashikurume, Tokyo',
+        nameKana: '東久留米市',
+      },
+      {
+        name: 'Musashimurayama, Tokyo',
+        nameKana: '武蔵村山市',
+      },
+      {
+        name: 'Tama, Tokyo',
+        nameKana: '多摩市',
+      },
+      {
+        name: 'Inagi',
+        nameKana: '稲城市',
+      },
+      {
+        name: 'Hamura, Tokyo',
+        nameKana: '羽村市',
+      },
+      {
+        name: 'Akiruno, Tokyo',
+        nameKana: 'あきる野市',
+      },
+      {
+        name: 'Nishitōkyō, Tokyo',
+        nameKana: '西東京市',
+      },
+      {
+        name: 'Mizuho, Tokyo',
+        nameKana: '瑞穂町',
+      },
+      {
+        name: 'Hinode, Tokyo',
+        nameKana: '日の出町',
+      },
+      {
+        name: 'Hinohara, Tokyo',
+        nameKana: '檜原村',
+      },
+      {
+        name: 'Okutama, Tokyo',
+        nameKana: '奥多摩町',
+      },
+      {
+        name: 'Ōshima, Tokyo',
+        nameKana: '大島町',
+      },
+      {
+        name: 'To-shima, Tokyo',
+        nameKana: '利島村',
+      },
+      {
+        name: 'Niijima, Tokyo',
+        nameKana: '新島村',
+      },
+      {
+        name: 'Kōzushima, Tokyo',
+        nameKana: '神津島村',
+      },
+      {
+        name: 'Miyake, Tokyo',
+        nameKana: '三宅村',
+      },
+      {
+        name: 'Mikurajima, Tokyo',
+        nameKana: '御蔵島村',
+      },
+      {
+        name: 'Hachijō, Tokyo',
+        nameKana: '八丈町',
+      },
+      {
+        name: 'Aogashima, Tokyo',
+        nameKana: '青ヶ島村',
+      },
+      {
+        name: 'Ogasawara, Tokyo',
+        nameKana: '小笠原村',
+      },
+    ],
+  },
+  {
+    name: 'Niigata Prefecture',
+    nameKana: '新潟県',
+    city: [
+      {
+        name: 'Niigata (city)',
+        nameKana: '新潟市',
+      },
+      {
+        name: 'Kita-ku, Niigata',
+        nameKana: '新潟市',
+      },
+      {
+        name: 'Higashi-ku, Niigata',
+        nameKana: '新潟市',
+      },
+      {
+        name: 'Chūō-ku, Niigata',
+        nameKana: '新潟市',
+      },
+      {
+        name: 'Kōnan-ku, Niigata',
+        nameKana: '新潟市',
+      },
+      {
+        name: 'Akiha-ku, Niigata',
+        nameKana: '新潟市',
+      },
+      {
+        name: 'Minami-ku, Niigata',
+        nameKana: '新潟市',
+      },
+      {
+        name: 'Nishi-ku, Niigata',
+        nameKana: '新潟市',
+      },
+      {
+        name: 'Nishikan-ku, Niigata',
+        nameKana: '新潟市',
+      },
+      {
+        name: 'Nagaoka, Niigata',
+        nameKana: '長岡市',
+      },
+      {
+        name: 'Sanjō, Niigata',
+        nameKana: '三条市',
+      },
+      {
+        name: 'Kashiwazaki, Niigata',
+        nameKana: '柏崎市',
+      },
+      {
+        name: 'Shibata, Niigata',
+        nameKana: '新発田市',
+      },
+      {
+        name: 'Ojiya, Niigata',
+        nameKana: '小千谷市',
+      },
+      {
+        name: 'Kamo, Niigata',
+        nameKana: '加茂市',
+      },
+      {
+        name: 'Tōkamachi',
+        nameKana: '十日町市',
+      },
+      {
+        name: 'Mitsuke, Niigata',
+        nameKana: '見附市',
+      },
+      {
+        name: 'Murakami, Niigata',
+        nameKana: '村上市',
+      },
+      {
+        name: 'Tsubame, Niigata',
+        nameKana: '燕市',
+      },
+      {
+        name: 'Itoigawa, Niigata',
+        nameKana: '糸魚川市',
+      },
+      {
+        name: 'Myōkō, Niigata',
+        nameKana: '妙高市',
+      },
+      {
+        name: 'Gosen, Niigata',
+        nameKana: '五泉市',
+      },
+      {
+        name: 'Jōetsu, Niigata',
+        nameKana: '上越市',
+      },
+      {
+        name: 'Agano, Niigata',
+        nameKana: '阿賀野市',
+      },
+      {
+        name: 'Sado, Niigata',
+        nameKana: '佐渡市',
+      },
+      {
+        name: 'Uonuma',
+        nameKana: '魚沼市',
+      },
+      {
+        name: 'Minamiuonuma',
+        nameKana: '南魚沼市',
+      },
+      {
+        name: 'Tainai',
+        nameKana: '胎内市',
+      },
+      {
+        name: 'Seirō, Niigata',
+        nameKana: '聖籠町',
+      },
+      {
+        name: 'Yahiko, Niigata',
+        nameKana: '弥彦村',
+      },
+      {
+        name: 'Tagami, Niigata',
+        nameKana: '田上町',
+      },
+      {
+        name: 'Aga, Niigata',
+        nameKana: '阿賀町',
+      },
+      {
+        name: 'Izumozaki',
+        nameKana: '出雲崎町',
+      },
+      {
+        name: 'Yuzawa, Niigata',
+        nameKana: '湯沢町',
+      },
+      {
+        name: 'Tsunan',
+        nameKana: '津南町',
+      },
+      {
+        name: 'Kariwa',
+        nameKana: '刈羽村',
+      },
+      {
+        name: 'Sekikawa',
+        nameKana: '関川村',
+      },
+      {
+        name: 'Awashimaura',
+        nameKana: '粟島浦村',
+      },
+    ],
+  },
+  {
+    name: 'Ishikawa Prefecture',
+    nameKana: '石川県',
+    city: [
+      {
+        name: 'Kanazawa',
+        nameKana: '金沢市',
+      },
+      {
+        name: 'Nanao, Ishikawa',
+        nameKana: '七尾市',
+      },
+      {
+        name: 'Komatsu, Ishikawa',
+        nameKana: '小松市',
+      },
+      {
+        name: 'Wajima, Ishikawa',
+        nameKana: '輪島市',
+      },
+      {
+        name: 'Suzu, Ishikawa',
+        nameKana: '珠洲市',
+      },
+      {
+        name: 'Kaga, Ishikawa',
+        nameKana: '加賀市',
+      },
+      {
+        name: 'Hakui, Ishikawa',
+        nameKana: '羽咋市',
+      },
+      {
+        name: 'Kahoku, Ishikawa',
+        nameKana: 'かほく市',
+      },
+      {
+        name: 'Hakusan, Ishikawa',
+        nameKana: '白山市',
+      },
+      {
+        name: 'Nomi, Ishikawa',
+        nameKana: '能美市',
+      },
+      {
+        name: 'Nonoichi, Ishikawa',
+        nameKana: '野々市市',
+      },
+      {
+        name: 'Kawakita, Ishikawa',
+        nameKana: '川北町',
+      },
+      {
+        name: 'Tsubata, Ishikawa',
+        nameKana: '津幡町',
+      },
+      {
+        name: 'Uchinada, Ishikawa',
+        nameKana: '内灘町',
+      },
+      {
+        name: 'Shika, Ishikawa',
+        nameKana: '志賀町',
+      },
+      {
+        name: 'Hōdatsushimizu, Ishikawa',
+        nameKana: '宝達志水町',
+      },
+      {
+        name: 'Nakanoto, Ishikawa',
+        nameKana: '中能登町',
+      },
+      {
+        name: 'Anamizu, Ishikawa',
+        nameKana: '穴水町',
+      },
+      {
+        name: 'Noto, Ishikawa',
+        nameKana: '能登町',
+      },
+    ],
+  },
+  {
+    name: 'Toyama Prefecture',
+    nameKana: '富山県',
+    city: [
+      {
+        name: 'Toyama (city)',
+        nameKana: '富山市',
+      },
+      {
+        name: 'Takaoka, Toyama',
+        nameKana: '高岡市',
+      },
+      {
+        name: 'Uozu, Toyama',
+        nameKana: '魚津市',
+      },
+      {
+        name: 'Himi, Toyama',
+        nameKana: '氷見市',
+      },
+      {
+        name: 'Namerikawa, Toyama',
+        nameKana: '滑川市',
+      },
+      {
+        name: 'Kurobe, Toyama',
+        nameKana: '黒部市',
+      },
+      {
+        name: 'Tonami, Toyama',
+        nameKana: '砺波市',
+      },
+      {
+        name: 'Oyabe, Toyama',
+        nameKana: '小矢部市',
+      },
+      {
+        name: 'Nanto, Toyama',
+        nameKana: '南砺市',
+      },
+      {
+        name: 'Imizu, Toyama',
+        nameKana: '射水市',
+      },
+      {
+        name: 'Funahashi, Toyama',
+        nameKana: '舟橋村',
+      },
+      {
+        name: 'Kamiichi, Toyama',
+        nameKana: '上市町',
+      },
+      {
+        name: 'Tateyama, Toyama',
+        nameKana: '立山町',
+      },
+      {
+        name: 'Nyūzen, Toyama',
+        nameKana: '入善町',
+      },
+      {
+        name: 'Asahi, Toyama',
+        nameKana: '朝日町',
+      },
+    ],
+  },
+  {
+    name: 'Yamanashi Prefecture',
+    nameKana: '山梨県',
+    city: [
+      {
+        name: 'Kōfu',
+        nameKana: '甲府市',
+      },
+      {
+        name: 'Fujiyoshida, Yamanashi',
+        nameKana: '富士吉田市',
+      },
+      {
+        name: 'Tsuru, Yamanashi',
+        nameKana: '都留市',
+      },
+      {
+        name: 'Yamanashi, Yamanashi',
+        nameKana: '山梨市',
+      },
+      {
+        name: 'Ōtsuki, Yamanashi',
+        nameKana: '大月市',
+      },
+      {
+        name: 'Nirasaki, Yamanashi',
+        nameKana: '韮崎市',
+      },
+      {
+        name: 'Minami-Alps, Yamanashi',
+        nameKana: '南アルプス市',
+      },
+      {
+        name: 'Hokuto, Yamanashi',
+        nameKana: '北杜市',
+      },
+      {
+        name: 'Kai, Yamanashi',
+        nameKana: '甲斐市',
+      },
+      {
+        name: 'Fuefuki',
+        nameKana: '笛吹市',
+      },
+      {
+        name: 'Uenohara, Yamanashi',
+        nameKana: '上野原市',
+      },
+      {
+        name: 'Kōshū, Yamanashi',
+        nameKana: '甲州市',
+      },
+      {
+        name: 'Chūō, Yamanashi',
+        nameKana: '中央市',
+      },
+      {
+        name: 'Ichikawamisato',
+        nameKana: '市川三郷町',
+      },
+      {
+        name: 'Hayakawa, Yamanashi',
+        nameKana: '早川町',
+      },
+      {
+        name: 'Minobu, Yamanashi',
+        nameKana: '身延町',
+      },
+      {
+        name: 'Nanbu, Yamanashi',
+        nameKana: '南部町',
+      },
+      {
+        name: 'Fujikawa, Yamanashi',
+        nameKana: '富士川町',
+      },
+      {
+        name: 'Shōwa, Yamanashi',
+        nameKana: '昭和町',
+      },
+      {
+        name: 'Dōshi',
+        nameKana: '道志村',
+      },
+      {
+        name: 'Nishikatsura',
+        nameKana: '西桂町',
+      },
+      {
+        name: 'Oshino, Yamanashi',
+        nameKana: '忍野村',
+      },
+      {
+        name: 'Yamanakako, Yamanashi',
+        nameKana: '山中湖村',
+      },
+      {
+        name: 'Narusawa, Yamanashi',
+        nameKana: '鳴沢村',
+      },
+      {
+        name: 'Fujikawaguchiko, Yamanashi',
+        nameKana: '富士河口湖町',
+      },
+      {
+        name: 'Kosuge, Yamanashi',
+        nameKana: '小菅村',
+      },
+      {
+        name: 'Tabayama',
+        nameKana: '丹波山村',
+      },
+    ],
+  },
+  {
+    name: 'Fukui Prefecture',
+    nameKana: '福井県',
+    city: [
+      {
+        name: 'Fukui (city)',
+        nameKana: '福井市',
+      },
+      {
+        name: 'Tsuruga, Fukui',
+        nameKana: '敦賀市',
+      },
+      {
+        name: 'Obama, Fukui',
+        nameKana: '小浜市',
+      },
+      {
+        name: 'Ōno, Fukui',
+        nameKana: '大野市',
+      },
+      {
+        name: 'Katsuyama, Fukui',
+        nameKana: '勝山市',
+      },
+      {
+        name: 'Sabae, Fukui',
+        nameKana: '鯖江市',
+      },
+      {
+        name: 'Awara, Fukui',
+        nameKana: 'あわら市',
+      },
+      {
+        name: 'Echizen, Fukui',
+        nameKana: '越前市',
+      },
+      {
+        name: 'Sakai, Fukui',
+        nameKana: '坂井市',
+      },
+      {
+        name: 'Eiheiji, Fukui',
+        nameKana: '永平寺町',
+      },
+      {
+        name: 'Ikeda, Fukui',
+        nameKana: '池田町',
+      },
+      {
+        name: 'Minamiechizen, Fukui',
+        nameKana: '南越前町',
+      },
+      {
+        name: 'Echizen, Fukui (town)',
+        nameKana: '越前町',
+      },
+      {
+        name: 'Mihama, Fukui',
+        nameKana: '美浜町',
+      },
+      {
+        name: 'Takahama, Fukui',
+        nameKana: '高浜町',
+      },
+      {
+        name: 'Ōi, Fukui',
+        nameKana: 'おおい町',
+      },
+      {
+        name: 'Wakasa, Fukui',
+        nameKana: '若狭町',
+      },
+    ],
+  },
+  {
+    name: 'Nagano Prefecture',
+    nameKana: '長野県',
+    city: [
+      {
+        name: 'Nagano (city)',
+        nameKana: '長野市',
+      },
+      {
+        name: 'Matsumoto, Nagano',
+        nameKana: '松本市',
+      },
+      {
+        name: 'Ueda, Nagano',
+        nameKana: '上田市',
+      },
+      {
+        name: 'Okaya, Nagano',
+        nameKana: '岡谷市',
+      },
+      {
+        name: 'Iida, Nagano',
+        nameKana: '飯田市',
+      },
+      {
+        name: 'Suwa, Nagano',
+        nameKana: '諏訪市',
+      },
+      {
+        name: 'Suzaka, Nagano',
+        nameKana: '須坂市',
+      },
+      {
+        name: 'Komoro, Nagano',
+        nameKana: '小諸市',
+      },
+      {
+        name: 'Ina, Nagano',
+        nameKana: '伊那市',
+      },
+      {
+        name: 'Komagane, Nagano',
+        nameKana: '駒ヶ根市',
+      },
+      {
+        name: 'Nakano, Nagano',
+        nameKana: '中野市',
+      },
+      {
+        name: 'Ōmachi, Nagano',
+        nameKana: '大町市',
+      },
+      {
+        name: 'Iiyama, Nagano',
+        nameKana: '飯山市',
+      },
+      {
+        name: 'Chino, Nagano',
+        nameKana: '茅野市',
+      },
+      {
+        name: 'Shiojiri, Nagano',
+        nameKana: '塩尻市',
+      },
+      {
+        name: 'Saku, Nagano',
+        nameKana: '佐久市',
+      },
+      {
+        name: 'Chikuma, Nagano',
+        nameKana: '千曲市',
+      },
+      {
+        name: 'Tōmi, Nagano',
+        nameKana: '東御市',
+      },
+      {
+        name: 'Azumino, Nagano',
+        nameKana: '安曇野市',
+      },
+      {
+        name: 'Koumi, Nagano',
+        nameKana: '小海町',
+      },
+      {
+        name: 'Kawakami, Nagano',
+        nameKana: '川上村',
+      },
+      {
+        name: 'Minamimaki, Nagano',
+        nameKana: '南牧村',
+      },
+      {
+        name: 'Minamiaiki, Nagano',
+        nameKana: '南相木村',
+      },
+      {
+        name: 'Kitaaiki, Nagano',
+        nameKana: '北相木村',
+      },
+      {
+        name: 'Sakuho, Nagano',
+        nameKana: '佐久穂町',
+      },
+      {
+        name: 'Karuizawa, Nagano',
+        nameKana: '軽井沢町',
+      },
+      {
+        name: 'Miyota, Nagano',
+        nameKana: '御代田町',
+      },
+      {
+        name: 'Tateshina, Nagano',
+        nameKana: '立科町',
+      },
+      {
+        name: 'Aoki, Nagano',
+        nameKana: '青木村',
+      },
+      {
+        name: 'Nagawa, Nagano',
+        nameKana: '長和町',
+      },
+      {
+        name: 'Shimosuwa, Nagano',
+        nameKana: '下諏訪町',
+      },
+      {
+        name: 'Fujimi, Nagano',
+        nameKana: '富士見町',
+      },
+      {
+        name: 'Hara, Nagano',
+        nameKana: '原村',
+      },
+      {
+        name: 'Tatsuno, Nagano',
+        nameKana: '辰野町',
+      },
+      {
+        name: 'Minowa, Nagano',
+        nameKana: '箕輪町',
+      },
+      {
+        name: 'Iijima, Nagano',
+        nameKana: '飯島町',
+      },
+      {
+        name: 'Minamiminowa, Nagano',
+        nameKana: '南箕輪村',
+      },
+      {
+        name: 'Nakagawa, Nagano',
+        nameKana: '中川村',
+      },
+      {
+        name: 'Miyada, Nagano',
+        nameKana: '宮田村',
+      },
+      {
+        name: 'Matsukawa, Nagano (Shimoina)',
+        nameKana: '松川町',
+      },
+      {
+        name: 'Takamori, Nagano',
+        nameKana: '高森町',
+      },
+      {
+        name: 'Anan, Nagano',
+        nameKana: '阿南町',
+      },
+      {
+        name: 'Achi, Nagano',
+        nameKana: '阿智村',
+      },
+      {
+        name: 'Hiraya, Nagano',
+        nameKana: '平谷村',
+      },
+      {
+        name: 'Neba, Nagano',
+        nameKana: '根羽村',
+      },
+      {
+        name: 'Shimojō, Nagano',
+        nameKana: '下條村',
+      },
+      {
+        name: 'Urugi, Nagano',
+        nameKana: '売木村',
+      },
+      {
+        name: 'Tenryū, Nagano',
+        nameKana: '天龍村',
+      },
+      {
+        name: 'Yasuoka, Nagano',
+        nameKana: '泰阜村',
+      },
+      {
+        name: 'Takagi, Nagano',
+        nameKana: '喬木村',
+      },
+      {
+        name: 'Toyooka, Nagano',
+        nameKana: '豊丘村',
+      },
+      {
+        name: 'Ōshika, Nagano',
+        nameKana: '大鹿村',
+      },
+      {
+        name: 'Agematsu, Nagano',
+        nameKana: '上松町',
+      },
+      {
+        name: 'Nagiso, Nagano',
+        nameKana: '南木曽町',
+      },
+      {
+        name: 'Kiso, Nagano (village)',
+        nameKana: '木祖村',
+      },
+      {
+        name: 'Ōtaki, Nagano',
+        nameKana: '王滝村',
+      },
+      {
+        name: 'Ōkuwa, Nagano',
+        nameKana: '大桑村',
+      },
+      {
+        name: 'Kiso, Nagano (town)',
+        nameKana: '木曽町',
+      },
+      {
+        name: 'Omi, Nagano',
+        nameKana: '麻績村',
+      },
+      {
+        name: 'Ikusaka, Nagano',
+        nameKana: '生坂村',
+      },
+      {
+        name: 'Yamagata, Nagano',
+        nameKana: '山形村',
+      },
+      {
+        name: 'Asahi, Nagano',
+        nameKana: '朝日村',
+      },
+      {
+        name: 'Chikuhoku, Nagano',
+        nameKana: '筑北村',
+      },
+      {
+        name: 'Ikeda, Nagano',
+        nameKana: '池田町',
+      },
+      {
+        name: 'Matsukawa, Nagano (Kitaazumi)',
+        nameKana: '松川村',
+      },
+      {
+        name: 'Hakuba, Nagano',
+        nameKana: '白馬村',
+      },
+      {
+        name: 'Otari, Nagano',
+        nameKana: '小谷村',
+      },
+      {
+        name: 'Sakaki, Nagano',
+        nameKana: '坂城町',
+      },
+      {
+        name: 'Obuse, Nagano',
+        nameKana: '小布施町',
+      },
+      {
+        name: 'Takayama, Nagano',
+        nameKana: '高山村',
+      },
+      {
+        name: 'Yamanouchi, Nagano',
+        nameKana: '山ノ内町',
+      },
+      {
+        name: 'Kijimadaira, Nagano',
+        nameKana: '木島平村',
+      },
+      {
+        name: 'Nozawaonsen, Nagano',
+        nameKana: '野沢温泉村',
+      },
+      {
+        name: 'Shinano, Nagano',
+        nameKana: '信濃町',
+      },
+      {
+        name: 'Ogawa, Nagano',
+        nameKana: '小川村',
+      },
+      {
+        name: 'Iizuna, Nagano',
+        nameKana: '飯綱町',
+      },
+      {
+        name: 'Sakae, Nagano',
+        nameKana: '栄村',
+      },
+    ],
+  },
+  {
+    name: 'Shizuoka Prefecture',
+    nameKana: '静岡県',
+    city: [
+      {
+        name: 'Shizuoka (city)',
+        nameKana: '静岡市',
+      },
+      {
+        name: 'Aoi-ku, Shizuoka',
+        nameKana: '静岡市',
+      },
+      {
+        name: 'Suruga-ku, Shizuoka',
+        nameKana: '静岡市',
+      },
+      {
+        name: 'Shimizu-ku, Shizuoka',
+        nameKana: '静岡市',
+      },
+      {
+        name: 'Hamamatsu',
+        nameKana: '浜松市',
+      },
+      {
+        name: 'Naka-ku, Hamamatsu',
+        nameKana: '浜松市',
+      },
+      {
+        name: 'Higashi-ku, Hamamatsu',
+        nameKana: '浜松市',
+      },
+      {
+        name: 'Nishi-ku, Hamamatsu',
+        nameKana: '浜松市',
+      },
+      {
+        name: 'Minami-ku, Hamamatsu',
+        nameKana: '浜松市',
+      },
+      {
+        name: 'Kita-ku, Hamamatsu',
+        nameKana: '浜松市',
+      },
+      {
+        name: 'Hamakita Ward',
+        nameKana: '浜松市',
+      },
+      {
+        name: 'Tenryū Ward',
+        nameKana: '浜松市',
+      },
+      {
+        name: 'Numazu',
+        nameKana: '沼津市',
+      },
+      {
+        name: 'Atami',
+        nameKana: '熱海市',
+      },
+      {
+        name: 'Mishima, Shizuoka',
+        nameKana: '三島市',
+      },
+      {
+        name: 'Fujinomiya, Shizuoka',
+        nameKana: '富士宮市',
+      },
+      {
+        name: 'Itō, Shizuoka',
+        nameKana: '伊東市',
+      },
+      {
+        name: 'Shimada, Shizuoka',
+        nameKana: '島田市',
+      },
+      {
+        name: 'Fuji, Shizuoka',
+        nameKana: '富士市',
+      },
+      {
+        name: 'Iwata, Shizuoka',
+        nameKana: '磐田市',
+      },
+      {
+        name: 'Yaizu, Shizuoka',
+        nameKana: '焼津市',
+      },
+      {
+        name: 'Kakegawa, Shizuoka',
+        nameKana: '掛川市',
+      },
+      {
+        name: 'Fujieda, Shizuoka',
+        nameKana: '藤枝市',
+      },
+      {
+        name: 'Gotemba, Shizuoka',
+        nameKana: '御殿場市',
+      },
+      {
+        name: 'Fukuroi, Shizuoka',
+        nameKana: '袋井市',
+      },
+      {
+        name: 'Shimoda, Shizuoka',
+        nameKana: '下田市',
+      },
+      {
+        name: 'Susono, Shizuoka',
+        nameKana: '裾野市',
+      },
+      {
+        name: 'Kosai, Shizuoka',
+        nameKana: '湖西市',
+      },
+      {
+        name: 'Izu, Shizuoka',
+        nameKana: '伊豆市',
+      },
+      {
+        name: 'Omaezaki',
+        nameKana: '御前崎市',
+      },
+      {
+        name: 'Kikugawa',
+        nameKana: '菊川市',
+      },
+      {
+        name: 'Izunokuni',
+        nameKana: '伊豆の国市',
+      },
+      {
+        name: 'Makinohara',
+        nameKana: '牧之原市',
+      },
+      {
+        name: 'Higashiizu',
+        nameKana: '東伊豆町',
+      },
+      {
+        name: 'Kawazu, Shizuoka',
+        nameKana: '河津町',
+      },
+      {
+        name: 'Minamiizu',
+        nameKana: '南伊豆町',
+      },
+      {
+        name: 'Matsuzaki, Shizuoka',
+        nameKana: '松崎町',
+      },
+      {
+        name: 'Nishiizu',
+        nameKana: '西伊豆町',
+      },
+      {
+        name: 'Kannami',
+        nameKana: '函南町',
+      },
+      {
+        name: 'Shimizu, Shizuoka',
+        nameKana: '清水町',
+      },
+      {
+        name: 'Nagaizumi',
+        nameKana: '長泉町',
+      },
+      {
+        name: 'Oyama, Shizuoka',
+        nameKana: '小山町',
+      },
+      {
+        name: 'Yoshida, Shizuoka',
+        nameKana: '吉田町',
+      },
+      {
+        name: 'Kawanehon',
+        nameKana: '川根本町',
+      },
+      {
+        name: 'Mori, Shizuoka',
+        nameKana: '森町',
+      },
+    ],
+  },
+  {
+    name: 'Shiga Prefecture',
+    nameKana: '滋賀県',
+    city: [
+      {
+        name: 'Ōtsu',
+        nameKana: '大津市',
+      },
+      {
+        name: 'Hikone, Shiga',
+        nameKana: '彦根市',
+      },
+      {
+        name: 'Nagahama, Shiga',
+        nameKana: '長浜市',
+      },
+      {
+        name: 'Ōmihachiman',
+        nameKana: '近江八幡市',
+      },
+      {
+        name: 'Kusatsu, Shiga',
+        nameKana: '草津市',
+      },
+      {
+        name: 'Moriyama, Shiga',
+        nameKana: '守山市',
+      },
+      {
+        name: 'Rittō, Shiga',
+        nameKana: '栗東市',
+      },
+      {
+        name: 'Kōka, Shiga',
+        nameKana: '甲賀市',
+      },
+      {
+        name: 'Yasu, Shiga',
+        nameKana: '野洲市',
+      },
+      {
+        name: 'Konan, Shiga',
+        nameKana: '湖南市',
+      },
+      {
+        name: 'Takashima, Shiga',
+        nameKana: '高島市',
+      },
+      {
+        name: 'Higashiōmi',
+        nameKana: '東近江市',
+      },
+      {
+        name: 'Maibara, Shiga',
+        nameKana: '米原市',
+      },
+      {
+        name: 'Hino, Shiga',
+        nameKana: '日野町',
+      },
+      {
+        name: 'Ryūō, Shiga',
+        nameKana: '竜王町',
+      },
+      {
+        name: 'Aishō, Shiga',
+        nameKana: '愛荘町',
+      },
+      {
+        name: 'Toyosato, Shiga',
+        nameKana: '豊郷町',
+      },
+      {
+        name: 'Kōra, Shiga',
+        nameKana: '甲良町',
+      },
+      {
+        name: 'Taga, Shiga',
+        nameKana: '多賀町',
+      },
+    ],
+  },
+  {
+    name: 'Gifu Prefecture',
+    nameKana: '岐阜県',
+    city: [
+      {
+        name: 'Gifu',
+        nameKana: '岐阜市',
+      },
+      {
+        name: 'Ōgaki',
+        nameKana: '大垣市',
+      },
+      {
+        name: 'Takayama, Gifu',
+        nameKana: '高山市',
+      },
+      {
+        name: 'Tajimi',
+        nameKana: '多治見市',
+      },
+      {
+        name: 'Seki, Gifu',
+        nameKana: '関市',
+      },
+      {
+        name: 'Nakatsugawa, Gifu',
+        nameKana: '中津川市',
+      },
+      {
+        name: 'Mino, Gifu',
+        nameKana: '美濃市',
+      },
+      {
+        name: 'Mizunami, Gifu',
+        nameKana: '瑞浪市',
+      },
+      {
+        name: 'Hashima, Gifu',
+        nameKana: '羽島市',
+      },
+      {
+        name: 'Ena, Gifu',
+        nameKana: '恵那市',
+      },
+      {
+        name: 'Minokamo, Gifu',
+        nameKana: '美濃加茂市',
+      },
+      {
+        name: 'Toki, Gifu',
+        nameKana: '土岐市',
+      },
+      {
+        name: 'Kakamigahara, Gifu',
+        nameKana: '各務原市',
+      },
+      {
+        name: 'Kani, Gifu',
+        nameKana: '可児市',
+      },
+      {
+        name: 'Yamagata, Gifu',
+        nameKana: '山県市',
+      },
+      {
+        name: 'Mizuho, Gifu',
+        nameKana: '瑞穂市',
+      },
+      {
+        name: 'Hida, Gifu',
+        nameKana: '飛騨市',
+      },
+      {
+        name: 'Motosu, Gifu',
+        nameKana: '本巣市',
+      },
+      {
+        name: 'Gujō, Gifu',
+        nameKana: '郡上市',
+      },
+      {
+        name: 'Gero, Gifu',
+        nameKana: '下呂市',
+      },
+      {
+        name: 'Kaizu',
+        nameKana: '海津市',
+      },
+      {
+        name: 'Ginan, Gifu',
+        nameKana: '岐南町',
+      },
+      {
+        name: 'Kasamatsu, Gifu',
+        nameKana: '笠松町',
+      },
+      {
+        name: 'Yōrō, Gifu',
+        nameKana: '養老町',
+      },
+      {
+        name: 'Tarui, Gifu',
+        nameKana: '垂井町',
+      },
+      {
+        name: 'Sekigahara, Gifu',
+        nameKana: '関ケ原町',
+      },
+      {
+        name: 'Gōdo, Gifu',
+        nameKana: '神戸町',
+      },
+      {
+        name: 'Wanouchi, Gifu',
+        nameKana: '輪之内町',
+      },
+      {
+        name: 'Anpachi, Gifu',
+        nameKana: '安八町',
+      },
+      {
+        name: 'Ibigawa',
+        nameKana: '揖斐川町',
+      },
+      {
+        name: 'Ōno, Gifu',
+        nameKana: '大野町',
+      },
+      {
+        name: 'Ikeda, Gifu',
+        nameKana: '池田町',
+      },
+      {
+        name: 'Kitagata, Gifu',
+        nameKana: '北方町',
+      },
+      {
+        name: 'Sakahogi, Gifu',
+        nameKana: '坂祝町',
+      },
+      {
+        name: 'Tomika, Gifu',
+        nameKana: '富加町',
+      },
+      {
+        name: 'Kawabe, Gifu',
+        nameKana: '川辺町',
+      },
+      {
+        name: 'Hichisō, Gifu',
+        nameKana: '七宗町',
+      },
+      {
+        name: 'Yaotsu, Gifu',
+        nameKana: '八百津町',
+      },
+      {
+        name: 'Shirakawa, Gifu (town)',
+        nameKana: '白川町',
+      },
+      {
+        name: 'Higashishirakawa, Gifu',
+        nameKana: '東白川村',
+      },
+      {
+        name: 'Mitake, Gifu',
+        nameKana: '御嵩町',
+      },
+      {
+        name: 'Shirakawa, Gifu (village)',
+        nameKana: '白川村',
+      },
+    ],
+  },
+  {
+    name: 'Osaka Prefecture',
+    nameKana: '大阪府',
+    city: [
+      {
+        name: 'Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Miyakojima-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Fukushima-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Konohana-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Nishi-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Minato-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Taishō-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Tennōji-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Naniwa-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Nishiyodogawa-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Higashiyodogawa-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Higashinari-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Ikuno-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Asahi-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Jōtō-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Abeno-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Sumiyoshi-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Higashisumiyoshi-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Nishinari-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Yodogawa-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Tsurumi-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Suminoe-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Hirano-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Kita-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Chūō-ku, Osaka',
+        nameKana: '大阪市',
+      },
+      {
+        name: 'Sakai',
+        nameKana: '堺市',
+      },
+      {
+        name: 'Sakai-ku, Sakai',
+        nameKana: '堺市',
+      },
+      {
+        name: 'Naka-ku, Sakai',
+        nameKana: '堺市',
+      },
+      {
+        name: 'Higashi-ku, Sakai',
+        nameKana: '堺市',
+      },
+      {
+        name: 'Nishi-ku, Sakai',
+        nameKana: '堺市',
+      },
+      {
+        name: 'Minami-ku, Sakai',
+        nameKana: '堺市',
+      },
+      {
+        name: 'Kita-ku, Sakai',
+        nameKana: '堺市',
+      },
+      {
+        name: 'Mihara-ku, Sakai',
+        nameKana: '堺市',
+      },
+      {
+        name: 'Kishiwada, Osaka',
+        nameKana: '岸和田市',
+      },
+      {
+        name: 'Toyonaka',
+        nameKana: '豊中市',
+      },
+      {
+        name: 'Ikeda, Osaka',
+        nameKana: '池田市',
+      },
+      {
+        name: 'Suita',
+        nameKana: '吹田市',
+      },
+      {
+        name: 'Izumiōtsu',
+        nameKana: '泉大津市',
+      },
+      {
+        name: 'Takatsuki',
+        nameKana: '高槻市',
+      },
+      {
+        name: 'Kaizuka, Osaka',
+        nameKana: '貝塚市',
+      },
+      {
+        name: 'Moriguchi, Osaka',
+        nameKana: '守口市',
+      },
+      {
+        name: 'Hirakata',
+        nameKana: '枚方市',
+      },
+      {
+        name: 'Ibaraki, Osaka',
+        nameKana: '茨木市',
+      },
+      {
+        name: 'Yao, Osaka',
+        nameKana: '八尾市',
+      },
+      {
+        name: 'Izumisano, Osaka',
+        nameKana: '泉佐野市',
+      },
+      {
+        name: 'Tondabayashi, Osaka',
+        nameKana: '富田林市',
+      },
+      {
+        name: 'Neyagawa, Osaka',
+        nameKana: '寝屋川市',
+      },
+      {
+        name: 'Kawachinagano, Osaka',
+        nameKana: '河内長野市',
+      },
+      {
+        name: 'Matsubara, Osaka',
+        nameKana: '松原市',
+      },
+      {
+        name: 'Daitō, Osaka',
+        nameKana: '大東市',
+      },
+      {
+        name: 'Izumi, Osaka',
+        nameKana: '和泉市',
+      },
+      {
+        name: 'Minoh, Osaka',
+        nameKana: '箕面市',
+      },
+      {
+        name: 'Kashiwara, Osaka',
+        nameKana: '柏原市',
+      },
+      {
+        name: 'Habikino, Osaka',
+        nameKana: '羽曳野市',
+      },
+      {
+        name: 'Kadoma, Osaka',
+        nameKana: '門真市',
+      },
+      {
+        name: 'Settsu, Osaka',
+        nameKana: '摂津市',
+      },
+      {
+        name: 'Takaishi, Osaka',
+        nameKana: '高石市',
+      },
+      {
+        name: 'Fujiidera, Osaka',
+        nameKana: '藤井寺市',
+      },
+      {
+        name: 'Higashiōsaka',
+        nameKana: '東大阪市',
+      },
+      {
+        name: 'Sennan, Osaka',
+        nameKana: '泉南市',
+      },
+      {
+        name: 'Shijōnawate, Osaka',
+        nameKana: '四條畷市',
+      },
+      {
+        name: 'Katano, Osaka',
+        nameKana: '交野市',
+      },
+      {
+        name: 'Ōsakasayama, Osaka',
+        nameKana: '大阪狭山市',
+      },
+      {
+        name: 'Hannan, Osaka',
+        nameKana: '阪南市',
+      },
+      {
+        name: 'Shimamoto, Osaka',
+        nameKana: '島本町',
+      },
+      {
+        name: 'Toyono, Osaka',
+        nameKana: '豊能町',
+      },
+      {
+        name: 'Nose, Osaka',
+        nameKana: '能勢町',
+      },
+      {
+        name: 'Tadaoka, Osaka',
+        nameKana: '忠岡町',
+      },
+      {
+        name: 'Kumatori, Osaka',
+        nameKana: '熊取町',
+      },
+      {
+        name: 'Tajiri, Osaka',
+        nameKana: '田尻町',
+      },
+      {
+        name: 'Misaki, Osaka',
+        nameKana: '岬町',
+      },
+      {
+        name: 'Taishi, Osaka',
+        nameKana: '太子町',
+      },
+      {
+        name: 'Kanan, Osaka',
+        nameKana: '河南町',
+      },
+      {
+        name: 'Chihayaakasaka, Osaka',
+        nameKana: '千早赤阪村',
+      },
+    ],
+  },
+  {
+    name: 'Aichi Prefecture',
+    nameKana: '愛知県',
+    city: [
+      {
+        name: 'Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Chikusa-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Higashi-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Kita-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Nishi-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Nakamura-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Naka-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Shōwa-ku',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Mizuho-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Atsuta-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Nakagawa-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Minato-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Minami-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Moriyama-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Midori-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Meitō-ku, Nagoya',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Tenpaku-ku',
+        nameKana: '名古屋市',
+      },
+      {
+        name: 'Toyohashi',
+        nameKana: '豊橋市',
+      },
+      {
+        name: 'Okazaki, Aichi',
+        nameKana: '岡崎市',
+      },
+      {
+        name: 'Ichinomiya, Aichi',
+        nameKana: '一宮市',
+      },
+      {
+        name: 'Seto, Aichi',
+        nameKana: '瀬戸市',
+      },
+      {
+        name: 'Handa, Aichi',
+        nameKana: '半田市',
+      },
+      {
+        name: 'Kasugai, Aichi',
+        nameKana: '春日井市',
+      },
+      {
+        name: 'Toyokawa, Aichi',
+        nameKana: '豊川市',
+      },
+      {
+        name: 'Tsushima, Aichi',
+        nameKana: '津島市',
+      },
+      {
+        name: 'Hekinan',
+        nameKana: '碧南市',
+      },
+      {
+        name: 'Kariya, Aichi',
+        nameKana: '刈谷市',
+      },
+      {
+        name: 'Toyota, Aichi',
+        nameKana: '豊田市',
+      },
+      {
+        name: 'Anjō',
+        nameKana: '安城市',
+      },
+      {
+        name: 'Nishio, Aichi',
+        nameKana: '西尾市',
+      },
+      {
+        name: 'Gamagōri',
+        nameKana: '蒲郡市',
+      },
+      {
+        name: 'Inuyama',
+        nameKana: '犬山市',
+      },
+      {
+        name: 'Tokoname',
+        nameKana: '常滑市',
+      },
+      {
+        name: 'Kōnan, Aichi',
+        nameKana: '江南市',
+      },
+      {
+        name: 'Komaki',
+        nameKana: '小牧市',
+      },
+      {
+        name: 'Inazawa, Aichi',
+        nameKana: '稲沢市',
+      },
+      {
+        name: 'Shinshiro, Aichi',
+        nameKana: '新城市',
+      },
+      {
+        name: 'Tōkai, Aichi',
+        nameKana: '東海市',
+      },
+      {
+        name: 'Ōbu, Aichi',
+        nameKana: '大府市',
+      },
+      {
+        name: 'Chita, Aichi',
+        nameKana: '知多市',
+      },
+      {
+        name: 'Chiryū',
+        nameKana: '知立市',
+      },
+      {
+        name: 'Owariasahi, Aichi',
+        nameKana: '尾張旭市',
+      },
+      {
+        name: 'Takahama, Aichi',
+        nameKana: '高浜市',
+      },
+      {
+        name: 'Iwakura, Aichi',
+        nameKana: '岩倉市',
+      },
+      {
+        name: 'Toyoake, Aichi',
+        nameKana: '豊明市',
+      },
+      {
+        name: 'Nisshin, Aichi',
+        nameKana: '日進市',
+      },
+      {
+        name: 'Tahara, Aichi',
+        nameKana: '田原市',
+      },
+      {
+        name: 'Aisai',
+        nameKana: '愛西市',
+      },
+      {
+        name: 'Kiyosu',
+        nameKana: '清須市',
+      },
+      {
+        name: 'Kitanagoya',
+        nameKana: '北名古屋市',
+      },
+      {
+        name: 'Yatomi',
+        nameKana: '弥富市',
+      },
+      {
+        name: 'Miyoshi, Aichi',
+        nameKana: 'みよし市',
+      },
+      {
+        name: 'Ama, Aichi',
+        nameKana: 'あま市',
+      },
+      {
+        name: 'Nagakute, Aichi',
+        nameKana: '長久手市',
+      },
+      {
+        name: 'Tōgō, Aichi',
+        nameKana: '東郷町',
+      },
+      {
+        name: 'Toyoyama, Aichi',
+        nameKana: '豊山町',
+      },
+      {
+        name: 'Ōguchi, Aichi',
+        nameKana: '大口町',
+      },
+      {
+        name: 'Fusō, Aichi',
+        nameKana: '扶桑町',
+      },
+      {
+        name: 'Ōharu, Aichi',
+        nameKana: '大治町',
+      },
+      {
+        name: 'Kanie, Aichi',
+        nameKana: '蟹江町',
+      },
+      {
+        name: 'Tobishima, Aichi',
+        nameKana: '飛島村',
+      },
+      {
+        name: 'Agui, Aichi',
+        nameKana: '阿久比町',
+      },
+      {
+        name: 'Higashiura, Aichi',
+        nameKana: '東浦町',
+      },
+      {
+        name: 'Minamichita, Aichi',
+        nameKana: '南知多町',
+      },
+      {
+        name: 'Mihama, Aichi',
+        nameKana: '美浜町',
+      },
+      {
+        name: 'Taketoyo',
+        nameKana: '武豊町',
+      },
+      {
+        name: 'Kōta, Aichi',
+        nameKana: '幸田町',
+      },
+      {
+        name: 'Shitara, Aichi',
+        nameKana: '設楽町',
+      },
+      {
+        name: 'Tōei, Aichi',
+        nameKana: '東栄町',
+      },
+      {
+        name: 'Toyone, Aichi',
+        nameKana: '豊根村',
+      },
+    ],
+  },
+  {
+    name: 'Mie Prefecture',
+    nameKana: '三重県',
+    city: [
+      {
+        name: 'Tsu, Mie',
+        nameKana: '津市',
+      },
+      {
+        name: 'Yokkaichi',
+        nameKana: '四日市市',
+      },
+      {
+        name: 'Ise, Mie',
+        nameKana: '伊勢市',
+      },
+      {
+        name: 'Matsusaka, Mie',
+        nameKana: '松阪市',
+      },
+      {
+        name: 'Kuwana, Mie',
+        nameKana: '桑名市',
+      },
+      {
+        name: 'Suzuka, Mie',
+        nameKana: '鈴鹿市',
+      },
+      {
+        name: 'Nabari, Mie',
+        nameKana: '名張市',
+      },
+      {
+        name: 'Owase, Mie',
+        nameKana: '尾鷲市',
+      },
+      {
+        name: 'Kameyama, Mie',
+        nameKana: '亀山市',
+      },
+      {
+        name: 'Toba, Mie',
+        nameKana: '鳥羽市',
+      },
+      {
+        name: 'Kumano, Mie',
+        nameKana: '熊野市',
+      },
+      {
+        name: 'Inabe, Mie',
+        nameKana: 'いなべ市',
+      },
+      {
+        name: 'Shima, Mie',
+        nameKana: '志摩市',
+      },
+      {
+        name: 'Iga, Mie',
+        nameKana: '伊賀市',
+      },
+      {
+        name: 'Kisosaki, Mie',
+        nameKana: '木曽岬町',
+      },
+      {
+        name: 'Tōin, Mie',
+        nameKana: '東員町',
+      },
+      {
+        name: 'Komono, Mie',
+        nameKana: '菰野町',
+      },
+      {
+        name: 'Asahi, Mie',
+        nameKana: '朝日町',
+      },
+      {
+        name: 'Kawagoe, Mie',
+        nameKana: '川越町',
+      },
+      {
+        name: 'Taki, Mie',
+        nameKana: '多気町',
+      },
+      {
+        name: 'Meiwa, Mie',
+        nameKana: '明和町',
+      },
+      {
+        name: 'Ōdai, Mie',
+        nameKana: '大台町',
+      },
+      {
+        name: 'Tamaki, Mie',
+        nameKana: '玉城町',
+      },
+      {
+        name: 'Watarai, Mie',
+        nameKana: '度会町',
+      },
+      {
+        name: 'Taiki, Mie',
+        nameKana: '大紀町',
+      },
+      {
+        name: 'Minamiise, Mie',
+        nameKana: '南伊勢町',
+      },
+      {
+        name: 'Kihoku, Mie',
+        nameKana: '紀北町',
+      },
+      {
+        name: 'Mihama, Mie',
+        nameKana: '御浜町',
+      },
+      {
+        name: 'Kihō, Mie',
+        nameKana: '紀宝町',
+      },
+    ],
+  },
+  {
+    name: 'Nara Prefecture',
+    nameKana: '奈良県',
+    city: [
+      {
+        name: 'Nara, Nara',
+        nameKana: '奈良市',
+      },
+      {
+        name: 'Yamatotakada, Nara',
+        nameKana: '大和高田市',
+      },
+      {
+        name: 'Yamatokōriyama',
+        nameKana: '大和郡山市',
+      },
+      {
+        name: 'Tenri, Nara',
+        nameKana: '天理市',
+      },
+      {
+        name: 'Kashihara, Nara',
+        nameKana: '橿原市',
+      },
+      {
+        name: 'Sakurai, Nara',
+        nameKana: '桜井市',
+      },
+      {
+        name: 'Gojō, Nara',
+        nameKana: '五條市',
+      },
+      {
+        name: 'Gose, Nara',
+        nameKana: '御所市',
+      },
+      {
+        name: 'Ikoma, Nara',
+        nameKana: '生駒市',
+      },
+      {
+        name: 'Kashiba, Nara',
+        nameKana: '香芝市',
+      },
+      {
+        name: 'Katsuragi, Nara',
+        nameKana: '葛城市',
+      },
+      {
+        name: 'Uda, Nara',
+        nameKana: '宇陀市',
+      },
+      {
+        name: 'Yamazoe, Nara',
+        nameKana: '山添村',
+      },
+      {
+        name: 'Heguri, Nara',
+        nameKana: '平群町',
+      },
+      {
+        name: 'Sangō, Nara',
+        nameKana: '三郷町',
+      },
+      {
+        name: 'Ikaruga, Nara',
+        nameKana: '斑鳩町',
+      },
+      {
+        name: 'Ando, Nara',
+        nameKana: '安堵町',
+      },
+      {
+        name: 'Kawanishi, Nara',
+        nameKana: '川西町',
+      },
+      {
+        name: 'Miyake, Nara',
+        nameKana: '三宅町',
+      },
+      {
+        name: 'Tawaramoto, Nara',
+        nameKana: '田原本町',
+      },
+      {
+        name: 'Soni, Nara',
+        nameKana: '曽爾村',
+      },
+      {
+        name: 'Mitsue, Nara',
+        nameKana: '御杖村',
+      },
+      {
+        name: 'Takatori, Nara',
+        nameKana: '高取町',
+      },
+      {
+        name: 'Asuka, Nara',
+        nameKana: '明日香村',
+      },
+      {
+        name: 'Kanmaki, Nara',
+        nameKana: '上牧町',
+      },
+      {
+        name: 'Ōji, Nara',
+        nameKana: '王寺町',
+      },
+      {
+        name: 'Kōryō, Nara',
+        nameKana: '広陵町',
+      },
+      {
+        name: 'Kawai, Nara',
+        nameKana: '河合町',
+      },
+      {
+        name: 'Yoshino, Nara',
+        nameKana: '吉野町',
+      },
+      {
+        name: 'Ōyodo, Nara',
+        nameKana: '大淀町',
+      },
+      {
+        name: 'Shimoichi, Nara',
+        nameKana: '下市町',
+      },
+      {
+        name: 'Kurotaki, Nara',
+        nameKana: '黒滝村',
+      },
+      {
+        name: 'Tenkawa, Nara',
+        nameKana: '天川村',
+      },
+      {
+        name: 'Nosegawa, Nara',
+        nameKana: '野迫川村',
+      },
+      {
+        name: 'Totsukawa',
+        nameKana: '十津川村',
+      },
+      {
+        name: 'Shimokitayama, Nara',
+        nameKana: '下北山村',
+      },
+      {
+        name: 'Kamikitayama, Nara',
+        nameKana: '上北山村',
+      },
+      {
+        name: 'Kawakami, Nara',
+        nameKana: '川上村',
+      },
+      {
+        name: 'Higashiyoshino, Nara',
+        nameKana: '東吉野村',
+      },
+    ],
+  },
+  {
+    name: 'Kyoto Prefecture',
+    nameKana: '京都府',
+    city: [
+      {
+        name: 'Kyoto',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Kita-ku, Kyoto',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Kamigyō-ku',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Sakyō-ku, Kyoto',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Nakagyō-ku, Kyoto',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Higashiyama-ku, Kyoto',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Shimogyō-ku, Kyoto',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Minami-ku, Kyoto',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Ukyō-ku, Kyoto',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Fushimi-ku, Kyoto',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Yamashina-ku, Kyoto',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Nishikyō-ku, Kyoto',
+        nameKana: '京都市',
+      },
+      {
+        name: 'Fukuchiyama, Kyoto',
+        nameKana: '福知山市',
+      },
+      {
+        name: 'Maizuru',
+        nameKana: '舞鶴市',
+      },
+      {
+        name: 'Ayabe, Kyoto',
+        nameKana: '綾部市',
+      },
+      {
+        name: 'Uji',
+        nameKana: '宇治市',
+      },
+      {
+        name: 'Miyazu, Kyoto',
+        nameKana: '宮津市',
+      },
+      {
+        name: 'Kameoka, Kyoto',
+        nameKana: '亀岡市',
+      },
+      {
+        name: 'Jōyō, Kyoto',
+        nameKana: '城陽市',
+      },
+      {
+        name: 'Mukō',
+        nameKana: '向日市',
+      },
+      {
+        name: 'Nagaokakyō, Kyoto',
+        nameKana: '長岡京市',
+      },
+      {
+        name: 'Yawata',
+        nameKana: '八幡市',
+      },
+      {
+        name: 'Kyōtanabe, Kyoto',
+        nameKana: '京田辺市',
+      },
+      {
+        name: 'Kyōtango',
+        nameKana: '京丹後市',
+      },
+      {
+        name: 'Nantan, Kyoto',
+        nameKana: '南丹市',
+      },
+      {
+        name: 'Kizugawa, Kyoto',
+        nameKana: '木津川市',
+      },
+      {
+        name: 'Ōyamazaki, Kyoto',
+        nameKana: '大山崎町',
+      },
+      {
+        name: 'Kumiyama, Kyoto',
+        nameKana: '久御山町',
+      },
+      {
+        name: 'Ide, Kyoto',
+        nameKana: '井手町',
+      },
+      {
+        name: 'Ujitawara',
+        nameKana: '宇治田原町',
+      },
+      {
+        name: 'Kasagi, Kyoto',
+        nameKana: '笠置町',
+      },
+      {
+        name: 'Wazuka, Kyoto',
+        nameKana: '和束町',
+      },
+      {
+        name: 'Seika, Kyoto',
+        nameKana: '精華町',
+      },
+      {
+        name: 'Minamiyamashiro, Kyoto',
+        nameKana: '南山城村',
+      },
+      {
+        name: 'Kyōtamba, Kyoto',
+        nameKana: '京丹波町',
+      },
+      {
+        name: 'Ine, Kyoto',
+        nameKana: '伊根町',
+      },
+      {
+        name: 'Yosano, Kyoto',
+        nameKana: '与謝野町',
+      },
+    ],
+  },
+  {
+    name: 'Wakayama Prefecture',
+    nameKana: '和歌山県',
+    city: [
+      {
+        name: 'Wakayama (city)',
+        nameKana: '和歌山市',
+      },
+      {
+        name: 'Kainan, Wakayama',
+        nameKana: '海南市',
+      },
+      {
+        name: 'Hashimoto, Wakayama',
+        nameKana: '橋本市',
+      },
+      {
+        name: 'Arida, Wakayama',
+        nameKana: '有田市',
+      },
+      {
+        name: 'Gobō, Wakayama',
+        nameKana: '御坊市',
+      },
+      {
+        name: 'Tanabe, Wakayama',
+        nameKana: '田辺市',
+      },
+      {
+        name: 'Shingū, Wakayama',
+        nameKana: '新宮市',
+      },
+      {
+        name: 'Kinokawa, Wakayama',
+        nameKana: '紀の川市',
+      },
+      {
+        name: 'Iwade, Wakayama',
+        nameKana: '岩出市',
+      },
+      {
+        name: 'Kimino, Wakayama',
+        nameKana: '紀美野町',
+      },
+      {
+        name: 'Katsuragi, Wakayama',
+        nameKana: 'かつらぎ町',
+      },
+      {
+        name: 'Kudoyama, Wakayama',
+        nameKana: '九度山町',
+      },
+      {
+        name: 'Kōya, Wakayama',
+        nameKana: '高野町',
+      },
+      {
+        name: 'Yuasa, Wakayama',
+        nameKana: '湯浅町',
+      },
+      {
+        name: 'Hirogawa, Wakayama',
+        nameKana: '広川町',
+      },
+      {
+        name: 'Aridagawa, Wakayama',
+        nameKana: '有田川町',
+      },
+      {
+        name: 'Mihama, Wakayama',
+        nameKana: '美浜町',
+      },
+      {
+        name: 'Hidaka, Wakayama',
+        nameKana: '日高町',
+      },
+      {
+        name: 'Yura, Wakayama',
+        nameKana: '由良町',
+      },
+      {
+        name: 'Inami, Wakayama',
+        nameKana: '印南町',
+      },
+      {
+        name: 'Minabe, Wakayama',
+        nameKana: 'みなべ町',
+      },
+      {
+        name: 'Hidakagawa, Wakayama',
+        nameKana: '日高川町',
+      },
+      {
+        name: 'Shirahama, Wakayama',
+        nameKana: '白浜町',
+      },
+      {
+        name: 'Kamitonda, Wakayama',
+        nameKana: '上富田町',
+      },
+      {
+        name: 'Susami, Wakayama',
+        nameKana: 'すさみ町',
+      },
+      {
+        name: 'Nachikatsuura',
+        nameKana: '那智勝浦町',
+      },
+      {
+        name: 'Taiji, Wakayama',
+        nameKana: '太地町',
+      },
+      {
+        name: 'Kozagawa, Wakayama',
+        nameKana: '古座川町',
+      },
+      {
+        name: 'Kitayama, Wakayama',
+        nameKana: '北山村',
+      },
+      {
+        name: 'Kushimoto, Wakayama',
+        nameKana: '串本町',
+      },
+    ],
+  },
+  {
+    name: 'Shimane Prefecture',
+    nameKana: '島根県',
+    city: [
+      {
+        name: 'Matsue',
+        nameKana: '松江市',
+      },
+      {
+        name: 'Hamada, Shimane',
+        nameKana: '浜田市',
+      },
+      {
+        name: 'Izumo, Shimane',
+        nameKana: '出雲市',
+      },
+      {
+        name: 'Masuda, Shimane',
+        nameKana: '益田市',
+      },
+      {
+        name: 'Ōda, Shimane',
+        nameKana: '大田市',
+      },
+      {
+        name: 'Yasugi, Shimane',
+        nameKana: '安来市',
+      },
+      {
+        name: 'Gōtsu, Shimane',
+        nameKana: '江津市',
+      },
+      {
+        name: 'Unnan, Shimane',
+        nameKana: '雲南市',
+      },
+      {
+        name: 'Okuizumo, Shimane',
+        nameKana: '奥出雲町',
+      },
+      {
+        name: 'Iinan, Shimane',
+        nameKana: '飯南町',
+      },
+      {
+        name: 'Kawamoto, Shimane',
+        nameKana: '川本町',
+      },
+      {
+        name: 'Misato, Shimane',
+        nameKana: '美郷町',
+      },
+      {
+        name: 'Ōnan, Shimane',
+        nameKana: '邑南町',
+      },
+      {
+        name: 'Tsuwano, Shimane',
+        nameKana: '津和野町',
+      },
+      {
+        name: 'Yoshika, Shimane',
+        nameKana: '吉賀町',
+      },
+      {
+        name: 'Ama, Shimane',
+        nameKana: '海士町',
+      },
+      {
+        name: 'Nishinoshima, Shimane',
+        nameKana: '西ノ島町',
+      },
+      {
+        name: 'Chibu, Shimane',
+        nameKana: '知夫村',
+      },
+      {
+        name: 'Okinoshima, Shimane',
+        nameKana: '隠岐の島町',
+      },
+    ],
+  },
+  {
+    name: 'Hyōgo Prefecture',
+    nameKana: '兵庫県',
+    city: [
+      {
+        name: 'Kobe',
+        nameKana: '神戸市',
+      },
+      {
+        name: 'Higashinada-ku, Kobe',
+        nameKana: '神戸市',
+      },
+      {
+        name: 'Nada-ku, Kobe',
+        nameKana: '神戸市',
+      },
+      {
+        name: 'Hyōgo-ku, Kobe',
+        nameKana: '神戸市',
+      },
+      {
+        name: 'Nagata-ku, Kobe',
+        nameKana: '神戸市',
+      },
+      {
+        name: 'Suma-ku, Kobe',
+        nameKana: '神戸市',
+      },
+      {
+        name: 'Tarumi-ku, Kobe',
+        nameKana: '神戸市',
+      },
+      {
+        name: 'Kita-ku, Kobe',
+        nameKana: '神戸市',
+      },
+      {
+        name: 'Chūō-ku, Kobe',
+        nameKana: '神戸市',
+      },
+      {
+        name: 'Nishi-ku, Kobe',
+        nameKana: '神戸市',
+      },
+      {
+        name: 'Himeji',
+        nameKana: '姫路市',
+      },
+      {
+        name: 'Amagasaki',
+        nameKana: '尼崎市',
+      },
+      {
+        name: 'Akashi, Hyōgo',
+        nameKana: '明石市',
+      },
+      {
+        name: 'Nishinomiya',
+        nameKana: '西宮市',
+      },
+      {
+        name: 'Sumoto, Hyōgo',
+        nameKana: '洲本市',
+      },
+      {
+        name: 'Ashiya, Hyōgo',
+        nameKana: '芦屋市',
+      },
+      {
+        name: 'Itami, Hyōgo',
+        nameKana: '伊丹市',
+      },
+      {
+        name: 'Aioi, Hyōgo',
+        nameKana: '相生市',
+      },
+      {
+        name: 'Toyooka, Hyōgo',
+        nameKana: '豊岡市',
+      },
+      {
+        name: 'Kakogawa, Hyōgo',
+        nameKana: '加古川市',
+      },
+      {
+        name: 'Akō, Hyōgo',
+        nameKana: '赤穂市',
+      },
+      {
+        name: 'Nishiwaki, Hyōgo',
+        nameKana: '西脇市',
+      },
+      {
+        name: 'Takarazuka, Hyōgo',
+        nameKana: '宝塚市',
+      },
+      {
+        name: 'Miki, Hyōgo',
+        nameKana: '三木市',
+      },
+      {
+        name: 'Takasago, Hyōgo',
+        nameKana: '高砂市',
+      },
+      {
+        name: 'Kawanishi, Hyōgo',
+        nameKana: '川西市',
+      },
+      {
+        name: 'Ono, Hyōgo',
+        nameKana: '小野市',
+      },
+      {
+        name: 'Sanda, Hyōgo',
+        nameKana: '三田市',
+      },
+      {
+        name: 'Kasai, Hyōgo',
+        nameKana: '加西市',
+      },
+      {
+        name: 'Tamba-Sasayama',
+        nameKana: '丹波篠山市',
+      },
+      {
+        name: 'Yabu, Hyōgo',
+        nameKana: '養父市',
+      },
+      {
+        name: 'Tanba, Hyōgo',
+        nameKana: '丹波市',
+      },
+      {
+        name: 'Minamiawaji',
+        nameKana: '南あわじ市',
+      },
+      {
+        name: 'Asago, Hyōgo',
+        nameKana: '朝来市',
+      },
+      {
+        name: 'Awaji, Hyōgo',
+        nameKana: '淡路市',
+      },
+      {
+        name: 'Shisō, Hyōgo',
+        nameKana: '宍粟市',
+      },
+      {
+        name: 'Katō, Hyōgo',
+        nameKana: '加東市',
+      },
+      {
+        name: 'Tatsuno, Hyōgo',
+        nameKana: 'たつの市',
+      },
+      {
+        name: 'Inagawa, Hyōgo',
+        nameKana: '猪名川町',
+      },
+      {
+        name: 'Taka, Hyōgo',
+        nameKana: '多可町',
+      },
+      {
+        name: 'Inami, Hyōgo',
+        nameKana: '稲美町',
+      },
+      {
+        name: 'Harima, Hyōgo',
+        nameKana: '播磨町',
+      },
+      {
+        name: 'Ichikawa, Hyōgo',
+        nameKana: '市川町',
+      },
+      {
+        name: 'Fukusaki, Hyōgo',
+        nameKana: '福崎町',
+      },
+      {
+        name: 'Kamikawa, Hyōgo',
+        nameKana: '神河町',
+      },
+      {
+        name: 'Taishi, Hyōgo',
+        nameKana: '太子町',
+      },
+      {
+        name: 'Kamigōri, Hyōgo',
+        nameKana: '上郡町',
+      },
+      {
+        name: 'Sayō, Hyōgo',
+        nameKana: '佐用町',
+      },
+      {
+        name: 'Kami, Hyōgo (Mikata)',
+        nameKana: '香美町',
+      },
+      {
+        name: "Shin'onsen, Hyōgo",
+        nameKana: '新温泉町',
+      },
+    ],
+  },
+  {
+    name: 'Yamaguchi Prefecture',
+    nameKana: '山口県',
+    city: [
+      {
+        name: 'Shimonoseki',
+        nameKana: '下関市',
+      },
+      {
+        name: 'Ube, Yamaguchi',
+        nameKana: '宇部市',
+      },
+      {
+        name: 'Yamaguchi (city)',
+        nameKana: '山口市',
+      },
+      {
+        name: 'Hagi, Yamaguchi',
+        nameKana: '萩市',
+      },
+      {
+        name: 'Hōfu',
+        nameKana: '防府市',
+      },
+      {
+        name: 'Kudamatsu',
+        nameKana: '下松市',
+      },
+      {
+        name: 'Iwakuni',
+        nameKana: '岩国市',
+      },
+      {
+        name: 'Hikari, Yamaguchi',
+        nameKana: '光市',
+      },
+      {
+        name: 'Nagato, Yamaguchi',
+        nameKana: '長門市',
+      },
+      {
+        name: 'Yanai, Yamaguchi',
+        nameKana: '柳井市',
+      },
+      {
+        name: 'Mine, Yamaguchi',
+        nameKana: '美祢市',
+      },
+      {
+        name: 'Shūnan',
+        nameKana: '周南市',
+      },
+      {
+        name: "San'yō-Onoda",
+        nameKana: '山陽小野田市',
+      },
+      {
+        name: 'Suō-Ōshima',
+        nameKana: '周防大島町',
+      },
+      {
+        name: 'Waki, Yamaguchi',
+        nameKana: '和木町',
+      },
+      {
+        name: 'Kaminoseki',
+        nameKana: '上関町',
+      },
+      {
+        name: 'Tabuse',
+        nameKana: '田布施町',
+      },
+      {
+        name: 'Hirao',
+        nameKana: '平生町',
+      },
+      {
+        name: 'Abu, Yamaguchi',
+        nameKana: '阿武町',
+      },
+    ],
+  },
+  {
+    name: 'Okayama Prefecture',
+    nameKana: '岡山県',
+    city: [
+      {
+        name: 'Okayama',
+        nameKana: '岡山市',
+      },
+      {
+        name: 'Kita-ku, Okayama',
+        nameKana: '岡山市',
+      },
+      {
+        name: 'Naka-ku, Okayama',
+        nameKana: '岡山市',
+      },
+      {
+        name: 'Higashi-ku, Okayama',
+        nameKana: '岡山市',
+      },
+      {
+        name: 'Minami-ku, Okayama',
+        nameKana: '岡山市',
+      },
+      {
+        name: 'Kurashiki',
+        nameKana: '倉敷市',
+      },
+      {
+        name: 'Tsuyama',
+        nameKana: '津山市',
+      },
+      {
+        name: 'Tamano',
+        nameKana: '玉野市',
+      },
+      {
+        name: 'Kasaoka',
+        nameKana: '笠岡市',
+      },
+      {
+        name: 'Ibara',
+        nameKana: '井原市',
+      },
+      {
+        name: 'Sōja',
+        nameKana: '総社市',
+      },
+      {
+        name: 'Takahashi, Okayama',
+        nameKana: '高梁市',
+      },
+      {
+        name: 'Niimi',
+        nameKana: '新見市',
+      },
+      {
+        name: 'Bizen, Okayama',
+        nameKana: '備前市',
+      },
+      {
+        name: 'Setouchi, Okayama',
+        nameKana: '瀬戸内市',
+      },
+      {
+        name: 'Akaiwa',
+        nameKana: '赤磐市',
+      },
+      {
+        name: 'Maniwa',
+        nameKana: '真庭市',
+      },
+      {
+        name: 'Mimasaka, Okayama',
+        nameKana: '美作市',
+      },
+      {
+        name: 'Asakuchi',
+        nameKana: '浅口市',
+      },
+      {
+        name: 'Wake, Okayama',
+        nameKana: '和気町',
+      },
+      {
+        name: 'Hayashima',
+        nameKana: '早島町',
+      },
+      {
+        name: 'Satoshō',
+        nameKana: '里庄町',
+      },
+      {
+        name: 'Yakage, Okayama',
+        nameKana: '矢掛町',
+      },
+      {
+        name: 'Shinjō, Okayama',
+        nameKana: '新庄村',
+      },
+      {
+        name: 'Kagamino',
+        nameKana: '鏡野町',
+      },
+      {
+        name: 'Shōō',
+        nameKana: '勝央町',
+      },
+      {
+        name: 'Nagi, Okayama',
+        nameKana: '奈義町',
+      },
+      {
+        name: 'Nishiawakura',
+        nameKana: '西粟倉村',
+      },
+      {
+        name: 'Kumenan',
+        nameKana: '久米南町',
+      },
+      {
+        name: 'Misaki, Okayama',
+        nameKana: '美咲町',
+      },
+      {
+        name: 'Kibichūō',
+        nameKana: '吉備中央町',
+      },
+    ],
+  },
+  {
+    name: 'Hiroshima Prefecture',
+    nameKana: '広島県',
+    city: [
+      {
+        name: 'Hiroshima',
+        nameKana: '広島市',
+      },
+      {
+        name: 'Naka-ku, Hiroshima',
+        nameKana: '広島市',
+      },
+      {
+        name: 'Higashi-ku, Hiroshima',
+        nameKana: '広島市',
+      },
+      {
+        name: 'Minami-ku, Hiroshima',
+        nameKana: '広島市',
+      },
+      {
+        name: 'Nishi-ku, Hiroshima',
+        nameKana: '広島市',
+      },
+      {
+        name: 'Asaminami-ku, Hiroshima',
+        nameKana: '広島市',
+      },
+      {
+        name: 'Asakita-ku, Hiroshima',
+        nameKana: '広島市',
+      },
+      {
+        name: 'Aki-ku, Hiroshima',
+        nameKana: '広島市',
+      },
+      {
+        name: 'Saeki-ku, Hiroshima',
+        nameKana: '広島市',
+      },
+      {
+        name: 'Kure, Hiroshima',
+        nameKana: '呉市',
+      },
+      {
+        name: 'Takehara, Hiroshima',
+        nameKana: '竹原市',
+      },
+      {
+        name: 'Mihara, Hiroshima',
+        nameKana: '三原市',
+      },
+      {
+        name: 'Onomichi, Hiroshima',
+        nameKana: '尾道市',
+      },
+      {
+        name: 'Fukuyama, Hiroshima',
+        nameKana: '福山市',
+      },
+      {
+        name: 'Fuchū, Hiroshima',
+        nameKana: '府中市',
+      },
+      {
+        name: 'Miyoshi, Hiroshima',
+        nameKana: '三次市',
+      },
+      {
+        name: 'Shōbara, Hiroshima',
+        nameKana: '庄原市',
+      },
+      {
+        name: 'Ōtake, Hiroshima',
+        nameKana: '大竹市',
+      },
+      {
+        name: 'Higashihiroshima',
+        nameKana: '東広島市',
+      },
+      {
+        name: 'Hatsukaichi, Hiroshima',
+        nameKana: '廿日市市',
+      },
+      {
+        name: 'Akitakata, Hiroshima',
+        nameKana: '安芸高田市',
+      },
+      {
+        name: 'Etajima, Hiroshima',
+        nameKana: '江田島市',
+      },
+      {
+        name: 'Fuchū, Hiroshima (town)',
+        nameKana: '府中町',
+      },
+      {
+        name: 'Kaita, Hiroshima',
+        nameKana: '海田町',
+      },
+      {
+        name: 'Kumano, Hiroshima',
+        nameKana: '熊野町',
+      },
+      {
+        name: 'Saka, Hiroshima',
+        nameKana: '坂町',
+      },
+      {
+        name: 'Akiōta, Hiroshima',
+        nameKana: '安芸太田町',
+      },
+      {
+        name: 'Kitahiroshima, Hiroshima',
+        nameKana: '北広島町',
+      },
+      {
+        name: 'Ōsakikamijima, Hiroshima',
+        nameKana: '大崎上島町',
+      },
+      {
+        name: 'Sera, Hiroshima',
+        nameKana: '世羅町',
+      },
+      {
+        name: 'Jinsekikōgen, Hiroshima',
+        nameKana: '神石高原町',
+      },
+    ],
+  },
+  {
+    name: 'Tottori Prefecture',
+    nameKana: '鳥取県',
+    city: [
+      {
+        name: 'Tottori (city)',
+        nameKana: '鳥取市',
+      },
+      {
+        name: 'Yonago, Tottori',
+        nameKana: '米子市',
+      },
+      {
+        name: 'Kurayoshi, Tottori',
+        nameKana: '倉吉市',
+      },
+      {
+        name: 'Sakaiminato, Tottori',
+        nameKana: '境港市',
+      },
+      {
+        name: 'Iwami, Tottori',
+        nameKana: '岩美町',
+      },
+      {
+        name: 'Wakasa, Tottori',
+        nameKana: '若桜町',
+      },
+      {
+        name: 'Chizu, Tottori',
+        nameKana: '智頭町',
+      },
+      {
+        name: 'Yazu, Tottori',
+        nameKana: '八頭町',
+      },
+      {
+        name: 'Misasa, Tottori',
+        nameKana: '三朝町',
+      },
+      {
+        name: 'Yurihama, Tottori',
+        nameKana: '湯梨浜町',
+      },
+      {
+        name: 'Kotoura, Tottori',
+        nameKana: '琴浦町',
+      },
+      {
+        name: 'Hokuei, Tottori',
+        nameKana: '北栄町',
+      },
+      {
+        name: 'Hiezu, Tottori',
+        nameKana: '日吉津村',
+      },
+      {
+        name: 'Daisen, Tottori',
+        nameKana: '大山町',
+      },
+      {
+        name: 'Nanbu, Tottori',
+        nameKana: '南部町',
+      },
+      {
+        name: 'Hōki, Tottori',
+        nameKana: '伯耆町',
+      },
+      {
+        name: 'Nichinan, Tottori',
+        nameKana: '日南町',
+      },
+      {
+        name: 'Hino, Tottori',
+        nameKana: '日野町',
+      },
+      {
+        name: 'Kōfu, Tottori',
+        nameKana: '江府町',
+      },
+    ],
+  },
+  {
+    name: 'Kagawa Prefecture',
+    nameKana: '香川県',
+    city: [
+      {
+        name: 'Takamatsu, Kagawa',
+        nameKana: '高松市',
+      },
+      {
+        name: 'Marugame, Kagawa',
+        nameKana: '丸亀市',
+      },
+      {
+        name: 'Sakaide, Kagawa',
+        nameKana: '坂出市',
+      },
+      {
+        name: 'Zentsūji, Kagawa',
+        nameKana: '善通寺市',
+      },
+      {
+        name: "Kan'onji, Kagawa",
+        nameKana: '観音寺市',
+      },
+      {
+        name: 'Sanuki, Kagawa',
+        nameKana: 'さぬき市',
+      },
+      {
+        name: 'Higashikagawa, Kagawa',
+        nameKana: '東かがわ市',
+      },
+      {
+        name: 'Mitoyo, Kagawa',
+        nameKana: '三豊市',
+      },
+      {
+        name: 'Tonoshō, Kagawa',
+        nameKana: '土庄町',
+      },
+      {
+        name: 'Shōdoshima, Kagawa',
+        nameKana: '小豆島町',
+      },
+      {
+        name: 'Miki, Kagawa',
+        nameKana: '三木町',
+      },
+      {
+        name: 'Naoshima, Kagawa',
+        nameKana: '直島町',
+      },
+      {
+        name: 'Utazu',
+        nameKana: '宇多津町',
+      },
+      {
+        name: 'Ayagawa, Kagawa',
+        nameKana: '綾川町',
+      },
+      {
+        name: 'Kotohira, Kagawa',
+        nameKana: '琴平町',
+      },
+      {
+        name: 'Tadotsu, Kagawa',
+        nameKana: '多度津町',
+      },
+      {
+        name: 'Mannō, Kagawa',
+        nameKana: 'まんのう町',
+      },
+    ],
+  },
+  {
+    name: 'Ehime Prefecture',
+    nameKana: '愛媛県',
+    city: [
+      {
+        name: 'Matsuyama',
+        nameKana: '松山市',
+      },
+      {
+        name: 'Imabari, Ehime',
+        nameKana: '今治市',
+      },
+      {
+        name: 'Uwajima, Ehime',
+        nameKana: '宇和島市',
+      },
+      {
+        name: 'Yawatahama, Ehime',
+        nameKana: '八幡浜市',
+      },
+      {
+        name: 'Niihama, Ehime',
+        nameKana: '新居浜市',
+      },
+      {
+        name: 'Saijō, Ehime',
+        nameKana: '西条市',
+      },
+      {
+        name: 'Ōzu, Ehime',
+        nameKana: '大洲市',
+      },
+      {
+        name: 'Iyo, Ehime',
+        nameKana: '伊予市',
+      },
+      {
+        name: 'Shikokuchūō',
+        nameKana: '四国中央市',
+      },
+      {
+        name: 'Seiyo, Ehime',
+        nameKana: '西予市',
+      },
+      {
+        name: 'Tōon, Ehime',
+        nameKana: '東温市',
+      },
+      {
+        name: 'Kamijima, Ehime',
+        nameKana: '上島町',
+      },
+      {
+        name: 'Kumakōgen, Ehime',
+        nameKana: '久万高原町',
+      },
+      {
+        name: 'Masaki, Ehime',
+        nameKana: '松前町',
+      },
+      {
+        name: 'Tobe, Ehime',
+        nameKana: '砥部町',
+      },
+      {
+        name: 'Uchiko, Ehime',
+        nameKana: '内子町',
+      },
+      {
+        name: 'Ikata',
+        nameKana: '伊方町',
+      },
+      {
+        name: 'Matsuno, Ehime',
+        nameKana: '松野町',
+      },
+      {
+        name: 'Kihoku, Ehime',
+        nameKana: '鬼北町',
+      },
+      {
+        name: 'Ainan, Ehime',
+        nameKana: '愛南町',
+      },
+    ],
+  },
+  {
+    name: 'Kōchi Prefecture',
+    nameKana: '高知県',
+    city: [
+      {
+        name: 'Kōchi, Kōchi',
+        nameKana: '高知市',
+      },
+      {
+        name: 'Muroto, Kōchi',
+        nameKana: '室戸市',
+      },
+      {
+        name: 'Aki, Kōchi',
+        nameKana: '安芸市',
+      },
+      {
+        name: 'Nankoku, Kōchi',
+        nameKana: '南国市',
+      },
+      {
+        name: 'Tosa, Kōchi',
+        nameKana: '土佐市',
+      },
+      {
+        name: 'Susaki, Kōchi',
+        nameKana: '須崎市',
+      },
+      {
+        name: 'Sukumo, Kōchi',
+        nameKana: '宿毛市',
+      },
+      {
+        name: 'Tosashimizu, Kōchi',
+        nameKana: '土佐清水市',
+      },
+      {
+        name: 'Shimanto, Kōchi (city)',
+        nameKana: '四万十市',
+      },
+      {
+        name: 'Kōnan, Kōchi',
+        nameKana: '香南市',
+      },
+      {
+        name: 'Kami, Kōchi',
+        nameKana: '香美市',
+      },
+      {
+        name: 'Tōyō, Kōchi',
+        nameKana: '東洋町',
+      },
+      {
+        name: 'Nahari, Kōchi',
+        nameKana: '奈半利町',
+      },
+      {
+        name: 'Tano, Kōchi',
+        nameKana: '田野町',
+      },
+      {
+        name: 'Yasuda, Kōchi',
+        nameKana: '安田町',
+      },
+      {
+        name: 'Kitagawa, Kōchi',
+        nameKana: '北川村',
+      },
+      {
+        name: 'Umaji, Kōchi',
+        nameKana: '馬路村',
+      },
+      {
+        name: 'Geisei, Kōchi',
+        nameKana: '芸西村',
+      },
+      {
+        name: 'Motoyama, Kōchi',
+        nameKana: '本山町',
+      },
+      {
+        name: 'Ōtoyo, Kōchi',
+        nameKana: '大豊町',
+      },
+      {
+        name: 'Tosa, Kōchi (town)',
+        nameKana: '土佐町',
+      },
+      {
+        name: 'Ōkawa, Kōchi',
+        nameKana: '大川村',
+      },
+      {
+        name: 'Ino, Kōchi',
+        nameKana: 'いの町',
+      },
+      {
+        name: 'Niyodogawa, Kōchi',
+        nameKana: '仁淀川町',
+      },
+      {
+        name: 'Nakatosa, Kōchi',
+        nameKana: '中土佐町',
+      },
+      {
+        name: 'Sakawa, Kōchi',
+        nameKana: '佐川町',
+      },
+      {
+        name: 'Ochi, Kōchi',
+        nameKana: '越知町',
+      },
+      {
+        name: 'Yusuhara, Kōchi',
+        nameKana: '梼原町',
+      },
+      {
+        name: 'Hidaka, Kōchi',
+        nameKana: '日高村',
+      },
+      {
+        name: 'Tsuno, Kōchi',
+        nameKana: '津野町',
+      },
+      {
+        name: 'Shimanto, Kōchi (town)',
+        nameKana: '四万十町',
+      },
+      {
+        name: 'Ōtsuki, Kōchi',
+        nameKana: '大月町',
+      },
+      {
+        name: 'Mihara, Kōchi',
+        nameKana: '三原村',
+      },
+      {
+        name: 'Kuroshio, Kōchi',
+        nameKana: '黒潮町',
+      },
+    ],
+  },
+  {
+    name: 'Tokushima Prefecture',
+    nameKana: '徳島県',
+    city: [
+      {
+        name: 'Tokushima (city)',
+        nameKana: '徳島市',
+      },
+      {
+        name: 'Naruto, Tokushima',
+        nameKana: '鳴門市',
+      },
+      {
+        name: 'Komatsushima, Tokushima',
+        nameKana: '小松島市',
+      },
+      {
+        name: 'Anan, Tokushima',
+        nameKana: '阿南市',
+      },
+      {
+        name: 'Yoshinogawa, Tokushima',
+        nameKana: '吉野川市',
+      },
+      {
+        name: 'Awa, Tokushima',
+        nameKana: '阿波市',
+      },
+      {
+        name: 'Mima, Tokushima',
+        nameKana: '美馬市',
+      },
+      {
+        name: 'Miyoshi, Tokushima',
+        nameKana: '三好市',
+      },
+      {
+        name: 'Katsuura, Tokushima',
+        nameKana: '勝浦町',
+      },
+      {
+        name: 'Kamikatsu, Tokushima',
+        nameKana: '上勝町',
+      },
+      {
+        name: 'Sanagōchi, Tokushima',
+        nameKana: '佐那河内村',
+      },
+      {
+        name: 'Ishii, Tokushima',
+        nameKana: '石井町',
+      },
+      {
+        name: 'Kamiyama, Tokushima',
+        nameKana: '神山町',
+      },
+      {
+        name: 'Naka, Tokushima',
+        nameKana: '那賀町',
+      },
+      {
+        name: 'Mugi, Tokushima',
+        nameKana: '牟岐町',
+      },
+      {
+        name: 'Minami, Tokushima',
+        nameKana: '美波町',
+      },
+      {
+        name: 'Kaiyō, Tokushima',
+        nameKana: '海陽町',
+      },
+      {
+        name: 'Matsushige, Tokushima',
+        nameKana: '松茂町',
+      },
+      {
+        name: 'Kitajima, Tokushima',
+        nameKana: '北島町',
+      },
+      {
+        name: 'Aizumi, Tokushima',
+        nameKana: '藍住町',
+      },
+      {
+        name: 'Itano, Tokushima',
+        nameKana: '板野町',
+      },
+      {
+        name: 'Kamiita, Tokushima',
+        nameKana: '上板町',
+      },
+      {
+        name: 'Tsurugi, Tokushima',
+        nameKana: 'つるぎ町',
+      },
+      {
+        name: 'Higashimiyoshi',
+        nameKana: '東みよし町',
+      },
+    ],
+  },
+  {
+    name: 'Fukuoka Prefecture',
+    nameKana: '福岡県',
+    city: [
+      {
+        name: 'Kitakyushu',
+        nameKana: '北九州市',
+      },
+      {
+        name: 'Moji-ku, Kitakyūshū',
+        nameKana: '北九州市',
+      },
+      {
+        name: 'Wakamatsu-ku, Kitakyūshū',
+        nameKana: '北九州市',
+      },
+      {
+        name: 'Tobata-ku, Kitakyūshū',
+        nameKana: '北九州市',
+      },
+      {
+        name: 'Kokurakita-ku, Kitakyūshū',
+        nameKana: '北九州市',
+      },
+      {
+        name: 'Kokuraminami-ku, Kitakyūshū',
+        nameKana: '北九州市',
+      },
+      {
+        name: 'Yahatahigashi-ku, Kitakyūshū',
+        nameKana: '北九州市',
+      },
+      {
+        name: 'Yahatanishi-ku, Kitakyūshū',
+        nameKana: '北九州市',
+      },
+      {
+        name: 'Fukuoka',
+        nameKana: '福岡市',
+      },
+      {
+        name: 'Higashi-ku, Fukuoka',
+        nameKana: '福岡市',
+      },
+      {
+        name: 'Hakata-ku, Fukuoka',
+        nameKana: '福岡市',
+      },
+      {
+        name: 'Chūō-ku, Fukuoka',
+        nameKana: '福岡市',
+      },
+      {
+        name: 'Minami-ku, Fukuoka',
+        nameKana: '福岡市',
+      },
+      {
+        name: 'Nishi-ku, Fukuoka',
+        nameKana: '福岡市',
+      },
+      {
+        name: 'Jōnan-ku, Fukuoka',
+        nameKana: '福岡市',
+      },
+      {
+        name: 'Sawara-ku, Fukuoka',
+        nameKana: '福岡市',
+      },
+      {
+        name: 'Ōmuta, Fukuoka',
+        nameKana: '大牟田市',
+      },
+      {
+        name: 'Kurume',
+        nameKana: '久留米市',
+      },
+      {
+        name: 'Nōgata, Fukuoka',
+        nameKana: '直方市',
+      },
+      {
+        name: 'Iizuka, Fukuoka',
+        nameKana: '飯塚市',
+      },
+      {
+        name: 'Tagawa, Fukuoka',
+        nameKana: '田川市',
+      },
+      {
+        name: 'Yanagawa, Fukuoka',
+        nameKana: '柳川市',
+      },
+      {
+        name: 'Yame, Fukuoka',
+        nameKana: '八女市',
+      },
+      {
+        name: 'Chikugo, Fukuoka',
+        nameKana: '筑後市',
+      },
+      {
+        name: 'Ōkawa, Fukuoka',
+        nameKana: '大川市',
+      },
+      {
+        name: 'Yukuhashi, Fukuoka',
+        nameKana: '行橋市',
+      },
+      {
+        name: 'Buzen, Fukuoka',
+        nameKana: '豊前市',
+      },
+      {
+        name: 'Nakama, Fukuoka',
+        nameKana: '中間市',
+      },
+      {
+        name: 'Ogōri, Fukuoka',
+        nameKana: '小郡市',
+      },
+      {
+        name: 'Chikushino, Fukuoka',
+        nameKana: '筑紫野市',
+      },
+      {
+        name: 'Kasuga, Fukuoka',
+        nameKana: '春日市',
+      },
+      {
+        name: 'Ōnojō',
+        nameKana: '大野城市',
+      },
+      {
+        name: 'Munakata, Fukuoka',
+        nameKana: '宗像市',
+      },
+      {
+        name: 'Dazaifu, Fukuoka',
+        nameKana: '太宰府市',
+      },
+      {
+        name: 'Koga, Fukuoka',
+        nameKana: '古賀市',
+      },
+      {
+        name: 'Fukutsu, Fukuoka',
+        nameKana: '福津市',
+      },
+      {
+        name: 'Ukiha, Fukuoka',
+        nameKana: 'うきは市',
+      },
+      {
+        name: 'Miyawaka',
+        nameKana: '宮若市',
+      },
+      {
+        name: 'Kama, Fukuoka',
+        nameKana: '嘉麻市',
+      },
+      {
+        name: 'Asakura, Fukuoka',
+        nameKana: '朝倉市',
+      },
+      {
+        name: 'Miyama, Fukuoka',
+        nameKana: 'みやま市',
+      },
+      {
+        name: 'Itoshima, Fukuoka',
+        nameKana: '糸島市',
+      },
+      {
+        name: 'Nakagawa, Fukuoka',
+        nameKana: '那珂川市',
+      },
+      {
+        name: 'Umi, Fukuoka',
+        nameKana: '宇美町',
+      },
+      {
+        name: 'Sasaguri, Fukuoka',
+        nameKana: '篠栗町',
+      },
+      {
+        name: 'Shime, Fukuoka',
+        nameKana: '志免町',
+      },
+      {
+        name: 'Sue, Fukuoka',
+        nameKana: '須恵町',
+      },
+      {
+        name: 'Shingū, Fukuoka',
+        nameKana: '新宮町',
+      },
+      {
+        name: 'Hisayama, Fukuoka',
+        nameKana: '久山町',
+      },
+      {
+        name: 'Kasuya, Fukuoka',
+        nameKana: '粕屋町',
+      },
+      {
+        name: 'Ashiya, Fukuoka',
+        nameKana: '芦屋町',
+      },
+      {
+        name: 'Mizumaki, Fukuoka',
+        nameKana: '水巻町',
+      },
+      {
+        name: 'Okagaki, Fukuoka',
+        nameKana: '岡垣町',
+      },
+      {
+        name: 'Onga, Fukuoka',
+        nameKana: '遠賀町',
+      },
+      {
+        name: 'Kotake, Fukuoka',
+        nameKana: '小竹町',
+      },
+      {
+        name: 'Kurate, Fukuoka',
+        nameKana: '鞍手町',
+      },
+      {
+        name: 'Keisen, Fukuoka',
+        nameKana: '桂川町',
+      },
+      {
+        name: 'Chikuzen, Fukuoka',
+        nameKana: '筑前町',
+      },
+      {
+        name: 'Tōhō, Fukuoka',
+        nameKana: '東峰村',
+      },
+      {
+        name: 'Tachiarai, Fukuoka',
+        nameKana: '大刀洗町',
+      },
+      {
+        name: 'Ōki, Fukuoka',
+        nameKana: '大木町',
+      },
+      {
+        name: 'Hirokawa, Fukuoka',
+        nameKana: '広川町',
+      },
+      {
+        name: 'Kawara, Fukuoka',
+        nameKana: '香春町',
+      },
+      {
+        name: 'Soeda, Fukuoka',
+        nameKana: '添田町',
+      },
+      {
+        name: 'Itoda, Fukuoka',
+        nameKana: '糸田町',
+      },
+      {
+        name: 'Kawasaki, Fukuoka',
+        nameKana: '川崎町',
+      },
+      {
+        name: 'Ōtō, Fukuoka',
+        nameKana: '大任町',
+      },
+      {
+        name: 'Aka, Fukuoka',
+        nameKana: '赤村',
+      },
+      {
+        name: 'Fukuchi, Fukuoka',
+        nameKana: '福智町',
+      },
+      {
+        name: 'Kanda, Fukuoka',
+        nameKana: '苅田町',
+      },
+      {
+        name: 'Miyako, Fukuoka',
+        nameKana: 'みやこ町',
+      },
+      {
+        name: 'Yoshitomi, Fukuoka',
+        nameKana: '吉富町',
+      },
+      {
+        name: 'Kōge, Fukuoka',
+        nameKana: '上毛町',
+      },
+      {
+        name: 'Chikujō, Fukuoka',
+        nameKana: '築上町',
+      },
+    ],
+  },
+  {
+    name: 'Nagasaki Prefecture',
+    nameKana: '長崎県',
+    city: [
+      {
+        name: 'Nagasaki',
+        nameKana: '長崎市',
+      },
+      {
+        name: 'Sasebo, Nagasaki',
+        nameKana: '佐世保市',
+      },
+      {
+        name: 'Shimabara, Nagasaki',
+        nameKana: '島原市',
+      },
+      {
+        name: 'Isahaya, Nagasaki',
+        nameKana: '諫早市',
+      },
+      {
+        name: 'Ōmura, Nagasaki',
+        nameKana: '大村市',
+      },
+      {
+        name: 'Hirado, Nagasaki',
+        nameKana: '平戸市',
+      },
+      {
+        name: 'Matsuura, Nagasaki',
+        nameKana: '松浦市',
+      },
+      {
+        name: 'Tsushima, Nagasaki',
+        nameKana: '対馬市',
+      },
+      {
+        name: 'Iki, Nagasaki',
+        nameKana: '壱岐市',
+      },
+      {
+        name: 'Gotō, Nagasaki',
+        nameKana: '五島市',
+      },
+      {
+        name: 'Saikai, Nagasaki',
+        nameKana: '西海市',
+      },
+      {
+        name: 'Unzen, Nagasaki',
+        nameKana: '雲仙市',
+      },
+      {
+        name: 'Minamishimabara',
+        nameKana: '南島原市',
+      },
+      {
+        name: 'Nagayo, Nagasaki',
+        nameKana: '長与町',
+      },
+      {
+        name: 'Togitsu, Nagasaki',
+        nameKana: '時津町',
+      },
+      {
+        name: 'Higashisonogi, Nagasaki',
+        nameKana: '東彼杵町',
+      },
+      {
+        name: 'Kawatana, Nagasaki',
+        nameKana: '川棚町',
+      },
+      {
+        name: 'Hasami, Nagasaki',
+        nameKana: '波佐見町',
+      },
+      {
+        name: 'Ojika, Nagasaki',
+        nameKana: '小値賀町',
+      },
+      {
+        name: 'Saza, Nagasaki',
+        nameKana: '佐々町',
+      },
+      {
+        name: 'Shin-Kamigotō',
+        nameKana: '新上五島町',
+      },
+    ],
+  },
+  {
+    name: 'Kumamoto Prefecture',
+    nameKana: '熊本県',
+    city: [
+      {
+        name: 'Kumamoto',
+        nameKana: '熊本市',
+      },
+      {
+        name: 'Chūō-ku, Kumamoto',
+        nameKana: '熊本市',
+      },
+      {
+        name: 'Higashi-ku, Kumamoto',
+        nameKana: '熊本市',
+      },
+      {
+        name: 'Nishi-ku, Kumamoto',
+        nameKana: '熊本市',
+      },
+      {
+        name: 'Minami-ku, Kumamoto',
+        nameKana: '熊本市',
+      },
+      {
+        name: 'Kita-ku, Kumamoto',
+        nameKana: '熊本市',
+      },
+      {
+        name: 'Yatsushiro, Kumamoto',
+        nameKana: '八代市',
+      },
+      {
+        name: 'Hitoyoshi, Kumamoto',
+        nameKana: '人吉市',
+      },
+      {
+        name: 'Arao, Kumamoto',
+        nameKana: '荒尾市',
+      },
+      {
+        name: 'Minamata, Kumamoto',
+        nameKana: '水俣市',
+      },
+      {
+        name: 'Tamana, Kumamoto',
+        nameKana: '玉名市',
+      },
+      {
+        name: 'Yamaga, Kumamoto',
+        nameKana: '山鹿市',
+      },
+      {
+        name: 'Kikuchi, Kumamoto',
+        nameKana: '菊池市',
+      },
+      {
+        name: 'Uto, Kumamoto',
+        nameKana: '宇土市',
+      },
+      {
+        name: 'Kami-Amakusa',
+        nameKana: '上天草市',
+      },
+      {
+        name: 'Uki, Kumamoto',
+        nameKana: '宇城市',
+      },
+      {
+        name: 'Aso, Kumamoto',
+        nameKana: '阿蘇市',
+      },
+      {
+        name: 'Amakusa, Kumamoto',
+        nameKana: '天草市',
+      },
+      {
+        name: 'Kōshi, Kumamoto',
+        nameKana: '合志市',
+      },
+      {
+        name: 'Misato, Kumamoto',
+        nameKana: '美里町',
+      },
+      {
+        name: 'Gyokutō, Kumamoto',
+        nameKana: '玉東町',
+      },
+      {
+        name: 'Nankan, Kumamoto',
+        nameKana: '南関町',
+      },
+      {
+        name: 'Nagasu, Kumamoto',
+        nameKana: '長洲町',
+      },
+      {
+        name: 'Nagomi, Kumamoto',
+        nameKana: '和水町',
+      },
+      {
+        name: 'Ōzu, Kumamoto',
+        nameKana: '大津町',
+      },
+      {
+        name: 'Kikuyō, Kumamoto',
+        nameKana: '菊陽町',
+      },
+      {
+        name: 'Minamioguni, Kumamoto',
+        nameKana: '南小国町',
+      },
+      {
+        name: 'Oguni, Kumamoto',
+        nameKana: '小国町',
+      },
+      {
+        name: 'Ubuyama, Kumamoto',
+        nameKana: '産山村',
+      },
+      {
+        name: 'Takamori, Kumamoto',
+        nameKana: '高森町',
+      },
+      {
+        name: 'Nishihara, Kumamoto',
+        nameKana: '西原村',
+      },
+      {
+        name: 'Minamiaso, Kumamoto',
+        nameKana: '南阿蘇村',
+      },
+      {
+        name: 'Mifune, Kumamoto',
+        nameKana: '御船町',
+      },
+      {
+        name: 'Kashima, Kumamoto',
+        nameKana: '嘉島町',
+      },
+      {
+        name: 'Mashiki, Kumamoto',
+        nameKana: '益城町',
+      },
+      {
+        name: 'Kōsa, Kumamoto',
+        nameKana: '甲佐町',
+      },
+      {
+        name: 'Yamato, Kumamoto',
+        nameKana: '山都町',
+      },
+      {
+        name: 'Hikawa, Kumamoto',
+        nameKana: '氷川町',
+      },
+      {
+        name: 'Ashikita, Kumamoto',
+        nameKana: '芦北町',
+      },
+      {
+        name: 'Tsunagi, Kumamoto',
+        nameKana: '津奈木町',
+      },
+      {
+        name: 'Nishiki, Kumamoto',
+        nameKana: '錦町',
+      },
+      {
+        name: 'Taragi, Kumamoto',
+        nameKana: '多良木町',
+      },
+      {
+        name: 'Yunomae, Kumamoto',
+        nameKana: '湯前町',
+      },
+      {
+        name: 'Mizukami, Kumamoto',
+        nameKana: '水上村',
+      },
+      {
+        name: 'Sagara, Kumamoto',
+        nameKana: '相良村',
+      },
+      {
+        name: 'Itsuki, Kumamoto',
+        nameKana: '五木村',
+      },
+      {
+        name: 'Yamae, Kumamoto',
+        nameKana: '山江村',
+      },
+      {
+        name: 'Kuma, Kumamoto',
+        nameKana: '球磨村',
+      },
+      {
+        name: 'Asagiri, Kumamoto',
+        nameKana: 'あさぎり町',
+      },
+      {
+        name: 'Reihoku, Kumamoto',
+        nameKana: '苓北町',
+      },
+    ],
+  },
+  {
+    name: 'Saga Prefecture',
+    nameKana: '佐賀県',
+    city: [
+      {
+        name: 'Saga (city)',
+        nameKana: '佐賀市',
+      },
+      {
+        name: 'Karatsu, Saga',
+        nameKana: '唐津市',
+      },
+      {
+        name: 'Tosu, Saga',
+        nameKana: '鳥栖市',
+      },
+      {
+        name: 'Taku, Saga',
+        nameKana: '多久市',
+      },
+      {
+        name: 'Imari, Saga',
+        nameKana: '伊万里市',
+      },
+      {
+        name: 'Takeo, Saga',
+        nameKana: '武雄市',
+      },
+      {
+        name: 'Kashima, Saga',
+        nameKana: '鹿島市',
+      },
+      {
+        name: 'Ogi, Saga',
+        nameKana: '小城市',
+      },
+      {
+        name: 'Ureshino, Saga',
+        nameKana: '嬉野市',
+      },
+      {
+        name: 'Kanzaki, Saga',
+        nameKana: '神埼市',
+      },
+      {
+        name: 'Yoshinogari, Saga',
+        nameKana: '吉野ヶ里町',
+      },
+      {
+        name: 'Kiyama, Saga',
+        nameKana: '基山町',
+      },
+      {
+        name: 'Kamimine, Saga',
+        nameKana: '上峰町',
+      },
+      {
+        name: 'Miyaki, Saga',
+        nameKana: 'みやき町',
+      },
+      {
+        name: 'Genkai, Saga',
+        nameKana: '玄海町',
+      },
+      {
+        name: 'Arita, Saga',
+        nameKana: '有田町',
+      },
+      {
+        name: 'Ōmachi, Saga',
+        nameKana: '大町町',
+      },
+      {
+        name: 'Kōhoku, Saga',
+        nameKana: '江北町',
+      },
+      {
+        name: 'Shiroishi, Saga',
+        nameKana: '白石町',
+      },
+      {
+        name: 'Tara, Saga',
+        nameKana: '太良町',
+      },
+    ],
+  },
+  {
+    name: 'Ōita Prefecture',
+    nameKana: '大分県',
+    city: [
+      {
+        name: 'Ōita (city)',
+        nameKana: '大分市',
+      },
+      {
+        name: 'Beppu',
+        nameKana: '別府市',
+      },
+      {
+        name: 'Nakatsu, Ōita',
+        nameKana: '中津市',
+      },
+      {
+        name: 'Hita, Ōita',
+        nameKana: '日田市',
+      },
+      {
+        name: 'Saiki, Ōita',
+        nameKana: '佐伯市',
+      },
+      {
+        name: 'Usuki, Ōita',
+        nameKana: '臼杵市',
+      },
+      {
+        name: 'Tsukumi, Ōita',
+        nameKana: '津久見市',
+      },
+      {
+        name: 'Taketa, Ōita',
+        nameKana: '竹田市',
+      },
+      {
+        name: 'Bungotakada, Ōita',
+        nameKana: '豊後高田市',
+      },
+      {
+        name: 'Kitsuki, Ōita',
+        nameKana: '杵築市',
+      },
+      {
+        name: 'Usa, Ōita',
+        nameKana: '宇佐市',
+      },
+      {
+        name: 'Bungo-ōno',
+        nameKana: '豊後大野市',
+      },
+      {
+        name: 'Yufu',
+        nameKana: '由布市',
+      },
+      {
+        name: 'Kunisaki',
+        nameKana: '国東市',
+      },
+      {
+        name: 'Himeshima, Ōita',
+        nameKana: '姫島村',
+      },
+      {
+        name: 'Hiji, Ōita',
+        nameKana: '日出町',
+      },
+      {
+        name: 'Kokonoe, Ōita',
+        nameKana: '九重町',
+      },
+      {
+        name: 'Kusu, Ōita',
+        nameKana: '玖珠町',
+      },
+    ],
+  },
+  {
+    name: 'Miyazaki Prefecture',
+    nameKana: '宮崎県',
+    city: [
+      {
+        name: 'Miyazaki (city)',
+        nameKana: '宮崎市',
+      },
+      {
+        name: 'Miyakonojō',
+        nameKana: '都城市',
+      },
+      {
+        name: 'Nobeoka, Miyazaki',
+        nameKana: '延岡市',
+      },
+      {
+        name: 'Nichinan, Miyazaki',
+        nameKana: '日南市',
+      },
+      {
+        name: 'Kobayashi, Miyazaki',
+        nameKana: '小林市',
+      },
+      {
+        name: 'Hyūga, Miyazaki',
+        nameKana: '日向市',
+      },
+      {
+        name: 'Kushima, Miyazaki',
+        nameKana: '串間市',
+      },
+      {
+        name: 'Saito, Miyazaki',
+        nameKana: '西都市',
+      },
+      {
+        name: 'Ebino, Miyazaki',
+        nameKana: 'えびの市',
+      },
+      {
+        name: 'Mimata, Miyazaki',
+        nameKana: '三股町',
+      },
+      {
+        name: 'Takaharu, Miyazaki',
+        nameKana: '高原町',
+      },
+      {
+        name: 'Kunitomi, Miyazaki',
+        nameKana: '国富町',
+      },
+      {
+        name: 'Aya, Miyazaki',
+        nameKana: '綾町',
+      },
+      {
+        name: 'Takanabe, Miyazaki',
+        nameKana: '高鍋町',
+      },
+      {
+        name: 'Shintomi, Miyazaki',
+        nameKana: '新富町',
+      },
+      {
+        name: 'Nishimera, Miyazaki',
+        nameKana: '西米良村',
+      },
+      {
+        name: 'Kijō, Miyazaki',
+        nameKana: '木城町',
+      },
+      {
+        name: 'Kawaminami, Miyazaki',
+        nameKana: '川南町',
+      },
+      {
+        name: 'Tsuno, Miyazaki',
+        nameKana: '都農町',
+      },
+      {
+        name: 'Kadogawa, Miyazaki',
+        nameKana: '門川町',
+      },
+      {
+        name: 'Morotsuka, Miyazaki',
+        nameKana: '諸塚村',
+      },
+      {
+        name: 'Shiiba, Miyazaki',
+        nameKana: '椎葉村',
+      },
+      {
+        name: 'Misato, Miyazaki',
+        nameKana: '美郷町',
+      },
+      {
+        name: 'Takachiho, Miyazaki',
+        nameKana: '高千穂町',
+      },
+      {
+        name: 'Hinokage, Miyazaki',
+        nameKana: '日之影町',
+      },
+      {
+        name: 'Gokase, Miyazaki',
+        nameKana: '五ヶ瀬町',
+      },
+    ],
+  },
+  {
+    name: 'Okinawa Prefecture',
+    nameKana: '沖縄県',
+    city: [
+      {
+        name: 'Naha',
+        nameKana: '那覇市',
+      },
+      {
+        name: 'Ginowan, Okinawa',
+        nameKana: '宜野湾市',
+      },
+      {
+        name: 'Ishigaki, Okinawa',
+        nameKana: '石垣市',
+      },
+      {
+        name: 'Urasoe, Okinawa',
+        nameKana: '浦添市',
+      },
+      {
+        name: 'Nago',
+        nameKana: '名護市',
+      },
+      {
+        name: 'Itoman, Okinawa',
+        nameKana: '糸満市',
+      },
+      {
+        name: 'Okinawa (city)',
+        nameKana: '沖縄市',
+      },
+      {
+        name: 'Tomigusuku, Okinawa',
+        nameKana: '豊見城市',
+      },
+      {
+        name: 'Uruma',
+        nameKana: 'うるま市',
+      },
+      {
+        name: 'Miyakojima, Okinawa',
+        nameKana: '宮古島市',
+      },
+      {
+        name: 'Nanjō',
+        nameKana: '南城市',
+      },
+      {
+        name: 'Kunigami, Okinawa',
+        nameKana: '国頭村',
+      },
+      {
+        name: 'Ōgimi',
+        nameKana: '大宜味村',
+      },
+      {
+        name: 'Higashi, Okinawa',
+        nameKana: '東村',
+      },
+      {
+        name: 'Nakijin, Okinawa',
+        nameKana: '今帰仁村',
+      },
+      {
+        name: 'Motobu, Okinawa',
+        nameKana: '本部町',
+      },
+      {
+        name: 'Onna, Okinawa',
+        nameKana: '恩納村',
+      },
+      {
+        name: 'Ginoza, Okinawa',
+        nameKana: '宜野座村',
+      },
+      {
+        name: 'Kin, Okinawa',
+        nameKana: '金武町',
+      },
+      {
+        name: 'Ie, Okinawa',
+        nameKana: '伊江村',
+      },
+      {
+        name: 'Yomitan',
+        nameKana: '読谷村',
+      },
+      {
+        name: 'Kadena, Okinawa',
+        nameKana: '嘉手納町',
+      },
+      {
+        name: 'Chatan, Okinawa',
+        nameKana: '北谷町',
+      },
+      {
+        name: 'Kitanakagusuku, Okinawa',
+        nameKana: '北中城村',
+      },
+      {
+        name: 'Nakagusuku, Okinawa',
+        nameKana: '中城村',
+      },
+      {
+        name: 'Nishihara, Okinawa',
+        nameKana: '西原町',
+      },
+      {
+        name: 'Yonabaru, Okinawa',
+        nameKana: '与那原町',
+      },
+      {
+        name: 'Haebaru, Okinawa',
+        nameKana: '南風原町',
+      },
+      {
+        name: 'Tokashiki, Okinawa',
+        nameKana: '渡嘉敷村',
+      },
+      {
+        name: 'Zamami, Okinawa',
+        nameKana: '座間味村',
+      },
+      {
+        name: 'Aguni, Okinawa',
+        nameKana: '粟国村',
+      },
+      {
+        name: 'Tonaki, Okinawa',
+        nameKana: '渡名喜村',
+      },
+      {
+        name: 'Minamidaitō, Okinawa',
+        nameKana: '南大東村',
+      },
+      {
+        name: 'Kitadaitō, Okinawa',
+        nameKana: '北大東村',
+      },
+      {
+        name: 'Iheya, Okinawa',
+        nameKana: '伊平屋村',
+      },
+      {
+        name: 'Izena, Okinawa',
+        nameKana: '伊是名村',
+      },
+      {
+        name: 'Kumejima, Okinawa',
+        nameKana: '久米島町',
+      },
+      {
+        name: 'Yaese, Okinawa',
+        nameKana: '八重瀬町',
+      },
+      {
+        name: 'Tarama, Okinawa',
+        nameKana: '多良間村',
+      },
+      {
+        name: 'Taketomi, Okinawa',
+        nameKana: '竹富町',
+      },
+      {
+        name: 'Yonaguni, Okinawa',
+        nameKana: '与那国町',
+      },
+    ],
+  },
+  {
+    name: 'Kagoshima Prefecture',
+    nameKana: '鹿児島県',
+    city: [
+      {
+        name: 'Kagoshima',
+        nameKana: '鹿児島市',
+      },
+      {
+        name: 'Kanoya, Kagoshima',
+        nameKana: '鹿屋市',
+      },
+      {
+        name: 'Makurazaki, Kagoshima',
+        nameKana: '枕崎市',
+      },
+      {
+        name: 'Akune, Kagoshima',
+        nameKana: '阿久根市',
+      },
+      {
+        name: 'Izumi, Kagoshima',
+        nameKana: '出水市',
+      },
+      {
+        name: 'Ibusuki, Kagoshima',
+        nameKana: '指宿市',
+      },
+      {
+        name: 'Nishinoomote, Kagoshima',
+        nameKana: '西之表市',
+      },
+      {
+        name: 'Tarumizu, Kagoshima',
+        nameKana: '垂水市',
+      },
+      {
+        name: 'Satsumasendai, Kagoshima',
+        nameKana: '薩摩川内市',
+      },
+      {
+        name: 'Hioki, Kagoshima',
+        nameKana: '日置市',
+      },
+      {
+        name: 'Soo, Kagoshima',
+        nameKana: '曽於市',
+      },
+      {
+        name: 'Kirishima, Kagoshima',
+        nameKana: '霧島市',
+      },
+      {
+        name: 'Ichikikushikino',
+        nameKana: 'いちき串木野市',
+      },
+      {
+        name: 'Minamisatsuma',
+        nameKana: '南さつま市',
+      },
+      {
+        name: 'Shibushi, Kagoshima',
+        nameKana: '志布志市',
+      },
+      {
+        name: 'Amami, Kagoshima',
+        nameKana: '奄美市',
+      },
+      {
+        name: 'Minamikyūshū',
+        nameKana: '南九州市',
+      },
+      {
+        name: 'Isa, Kagoshima',
+        nameKana: '伊佐市',
+      },
+      {
+        name: 'Aira, Kagoshima',
+        nameKana: '姶良市',
+      },
+      {
+        name: 'Mishima, Kagoshima',
+        nameKana: '三島村',
+      },
+      {
+        name: 'Toshima, Kagoshima',
+        nameKana: '十島村',
+      },
+      {
+        name: 'Satsuma, Kagoshima',
+        nameKana: 'さつま町',
+      },
+      {
+        name: 'Nagashima, Kagoshima',
+        nameKana: '長島町',
+      },
+      {
+        name: 'Yūsui, Kagoshima',
+        nameKana: '湧水町',
+      },
+      {
+        name: 'Ōsaki, Kagoshima',
+        nameKana: '大崎町',
+      },
+      {
+        name: 'Higashikushira, Kagoshima',
+        nameKana: '東串良町',
+      },
+      {
+        name: 'Kinkō, Kagoshima',
+        nameKana: '錦江町',
+      },
+      {
+        name: 'Minamiōsumi, Kagoshima',
+        nameKana: '南大隅町',
+      },
+      {
+        name: 'Kimotsuki, Kagoshima',
+        nameKana: '肝付町',
+      },
+      {
+        name: 'Nakatane, Kagoshima',
+        nameKana: '中種子町',
+      },
+      {
+        name: 'Minamitane, Kagoshima',
+        nameKana: '南種子町',
+      },
+      {
+        name: 'Yakushima, Kagoshima',
+        nameKana: '屋久島町',
+      },
+      {
+        name: 'Yamato, Kagoshima',
+        nameKana: '大和村',
+      },
+      {
+        name: 'Uken',
+        nameKana: '宇検村',
+      },
+      {
+        name: 'Setouchi, Kagoshima',
+        nameKana: '瀬戸内町',
+      },
+      {
+        name: 'Tatsugō, Kagoshima',
+        nameKana: '龍郷町',
+      },
+      {
+        name: 'Kikai, Kagoshima',
+        nameKana: '喜界町',
+      },
+      {
+        name: 'Tokunoshima, Kagoshima',
+        nameKana: '徳之島町',
+      },
+      {
+        name: 'Amagi, Kagoshima',
+        nameKana: '天城町',
+      },
+      {
+        name: 'Isen, Kagoshima',
+        nameKana: '伊仙町',
+      },
+      {
+        name: 'Wadomari, Kagoshima',
+        nameKana: '和泊町',
+      },
+      {
+        name: 'China, Kagoshima',
+        nameKana: '知名町',
+      },
+      {
+        name: 'Yoron, Kagoshima',
+        nameKana: '与論町',
+      },
+    ],
+  },
+];
