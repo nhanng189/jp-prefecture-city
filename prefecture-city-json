@@ -175,23 +175,23 @@
       },
       {
         name: 'Aoba-ku, Sendai',
-        nameKana: '仙台市',
+        nameKana: '仙台市・青葉区',
       },
       {
         name: 'Miyagino-ku, Sendai',
-        nameKana: '仙台市',
+        nameKana: '仙台市・宮城野区',
       },
       {
         name: 'Wakabayashi-ku, Sendai',
-        nameKana: '仙台市',
+        nameKana: '仙台市・若林区',
       },
       {
         name: 'Taihaku-ku, Sendai',
-        nameKana: '仙台市',
+        nameKana: '仙台市・太白区',
       },
       {
         name: 'Izumi-ku, Sendai',
-        nameKana: '仙台市',
+        nameKana: '仙台市・泉区',
       },
       {
         name: 'Ishinomaki',
@@ -341,43 +341,43 @@
       },
       {
         name: 'Chūō-ku, Sapporo',
-        nameKana: '札幌市',
+        nameKana: '札幌市・中央区',
       },
       {
         name: 'Kita-ku, Sapporo',
-        nameKana: '札幌市',
+        nameKana: '札幌市・北区',
       },
       {
         name: 'Higashi-ku, Sapporo',
-        nameKana: '札幌市',
+        nameKana: '札幌市・東区',
       },
       {
         name: 'Shiroishi-ku, Sapporo',
-        nameKana: '札幌市',
+        nameKana: '札幌市・白石区',
       },
       {
         name: 'Toyohira-ku, Sapporo',
-        nameKana: '札幌市',
+        nameKana: '札幌市・豊平区',
       },
       {
         name: 'Minami-ku, Sapporo',
-        nameKana: '札幌市',
+        nameKana: '札幌市・南区',
       },
       {
         name: 'Nishi-ku, Sapporo',
-        nameKana: '札幌市',
+        nameKana: '札幌市・西区',
       },
       {
         name: 'Atsubetsu-ku, Sapporo',
-        nameKana: '札幌市',
+        nameKana: '札幌市・厚別区',
       },
       {
         name: 'Teine-ku, Sapporo',
-        nameKana: '札幌市',
+        nameKana: '札幌市・手稲区',
       },
       {
         name: 'Kiyota-ku, Sapporo',
-        nameKana: '札幌市',
+        nameKana: '札幌市・清田区',
       },
       {
         name: 'Hakodate',
@@ -2169,27 +2169,27 @@
       },
       {
         name: 'Chūō-ku, Chiba',
-        nameKana: '千葉市',
+        nameKana: '千葉市・中央区',
       },
       {
         name: 'Hanamigawa-ku',
-        nameKana: '千葉市',
+        nameKana: '千葉市・花見川区',
       },
       {
         name: 'Inage-ku',
-        nameKana: '千葉市',
+        nameKana: '千葉市・稲毛区',
       },
       {
         name: 'Wakaba-ku',
-        nameKana: '千葉市',
+        nameKana: '千葉市・若葉区',
       },
       {
         name: 'Midori-ku, Chiba',
-        nameKana: '千葉市',
+        nameKana: '千葉市・緑区',
       },
       {
         name: 'Mihama-ku',
-        nameKana: '千葉市',
+        nameKana: '千葉市・美浜区',
       },
       {
         name: 'Chōshi',
@@ -2415,75 +2415,75 @@
       },
       {
         name: 'Tsurumi-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・鶴見区',
       },
       {
         name: 'Kanagawa-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・神奈川区',
       },
       {
         name: 'Nishi-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・西区',
       },
       {
         name: 'Naka-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・中区',
       },
       {
         name: 'Minami-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・南区',
       },
       {
         name: 'Hodogaya-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・保土ケ谷区',
       },
       {
         name: 'Isogo-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・磯子区',
       },
       {
         name: 'Kanazawa-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・金沢区',
       },
       {
         name: 'Kōhoku-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・港北区',
       },
       {
         name: 'Totsuka-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・戸塚区',
       },
       {
         name: 'Kōnan-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・港南区',
       },
       {
         name: 'Asahi-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・旭区',
       },
       {
         name: 'Midori-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・緑区',
       },
       {
         name: 'Seya-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・瀬谷区',
       },
       {
         name: 'Sakae-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・栄区',
       },
       {
         name: 'Izumi-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・泉区',
       },
       {
         name: 'Aoba-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・青葉区',
       },
       {
         name: 'Tsuzuki-ku, Yokohama',
-        nameKana: '横浜市',
+        nameKana: '横浜市・都筑区',
       },
       {
         name: 'Kawasaki, Kanagawa',
@@ -2491,31 +2491,31 @@
       },
       {
         name: 'Kawasaki-ku, Kawasaki',
-        nameKana: '川崎市',
+        nameKana: '川崎市・川崎区',
       },
       {
         name: 'Saiwai-ku, Kawasaki',
-        nameKana: '川崎市',
+        nameKana: '川崎市・幸区',
       },
       {
         name: 'Nakahara-ku, Kawasaki',
-        nameKana: '川崎市',
+        nameKana: '川崎市・中原区',
       },
       {
         name: 'Takatsu-ku, Kawasaki',
-        nameKana: '川崎市',
+        nameKana: '川崎市・高津区',
       },
       {
         name: 'Tama-ku, Kawasaki',
-        nameKana: '川崎市',
+        nameKana: '川崎市・多摩区',
       },
       {
         name: 'Miyamae-ku, Kawasaki',
-        nameKana: '川崎市',
+        nameKana: '川崎市・宮前区',
       },
       {
         name: 'Asao-ku, Kawasaki',
-        nameKana: '川崎市',
+        nameKana: '川崎市・麻生区',
       },
       {
         name: 'Sagamihara',
@@ -2523,15 +2523,15 @@
       },
       {
         name: 'Midori-ku, Sagamihara',
-        nameKana: '相模原市',
+        nameKana: '相模原市・緑区',
       },
       {
         name: 'Chūō-ku, Sagamihara',
-        nameKana: '相模原市',
+        nameKana: '相模原市・中央区',
       },
       {
         name: 'Minami-ku, Sagamihara',
-        nameKana: '相模原市',
+        nameKana: '相模原市・南区',
       },
       {
         name: 'Yokosuka',
@@ -2665,43 +2665,43 @@
       },
       {
         name: 'Nishi-ku, Saitama',
-        nameKana: 'さいたま市',
+        nameKana: 'さいたま市・西区',
       },
       {
         name: 'Kita-ku, Saitama',
-        nameKana: 'さいたま市',
+        nameKana: 'さいたま市・北区',
       },
       {
         name: 'Ōmiya-ku, Saitama',
-        nameKana: 'さいたま市',
+        nameKana: 'さいたま市・大宮区',
       },
       {
         name: 'Minuma-ku, Saitama',
-        nameKana: 'さいたま市',
+        nameKana: 'さいたま市・見沼区',
       },
       {
         name: 'Chūō-ku, Saitama',
-        nameKana: 'さいたま市',
+        nameKana: 'さいたま市・中央区',
       },
       {
         name: 'Sakura-ku, Saitama',
-        nameKana: 'さいたま市',
+        nameKana: 'さいたま市・桜区',
       },
       {
         name: 'Urawa-ku, Saitama',
-        nameKana: 'さいたま市',
+        nameKana: 'さいたま市・浦和区',
       },
       {
         name: 'Minami-ku, Saitama',
-        nameKana: 'さいたま市',
+        nameKana: 'さいたま市・南区',
       },
       {
         name: 'Midori-ku, Saitama',
-        nameKana: 'さいたま市',
+        nameKana: 'さいたま市・緑区',
       },
       {
         name: 'Iwatsuki-ku, Saitama',
-        nameKana: 'さいたま市',
+        nameKana: 'さいたま市・岩槻区',
       },
       {
         name: 'Kawagoe, Saitama',
@@ -3217,35 +3217,35 @@
       },
       {
         name: 'Kita-ku, Niigata',
-        nameKana: '新潟市',
+        nameKana: '新潟市・北区',
       },
       {
         name: 'Higashi-ku, Niigata',
-        nameKana: '新潟市',
+        nameKana: '新潟市・東区',
       },
       {
         name: 'Chūō-ku, Niigata',
-        nameKana: '新潟市',
+        nameKana: '新潟市・中央区',
       },
       {
         name: 'Kōnan-ku, Niigata',
-        nameKana: '新潟市',
+        nameKana: '新潟市・江南区',
       },
       {
         name: 'Akiha-ku, Niigata',
-        nameKana: '新潟市',
+        nameKana: '新潟市・秋葉区',
       },
       {
         name: 'Minami-ku, Niigata',
-        nameKana: '新潟市',
+        nameKana: '新潟市・南区',
       },
       {
         name: 'Nishi-ku, Niigata',
-        nameKana: '新潟市',
+        nameKana: '新潟市・西区',
       },
       {
         name: 'Nishikan-ku, Niigata',
-        nameKana: '新潟市',
+        nameKana: '新潟市・西蒲区',
       },
       {
         name: 'Nagaoka, Niigata',
@@ -4025,15 +4025,15 @@
       },
       {
         name: 'Aoi-ku, Shizuoka',
-        nameKana: '静岡市',
+        nameKana: '静岡市・葵区',
       },
       {
         name: 'Suruga-ku, Shizuoka',
-        nameKana: '静岡市',
+        nameKana: '静岡市・駿河区',
       },
       {
         name: 'Shimizu-ku, Shizuoka',
-        nameKana: '静岡市',
+        nameKana: '静岡市・清水区',
       },
       {
         name: 'Hamamatsu',
@@ -4041,31 +4041,31 @@
       },
       {
         name: 'Naka-ku, Hamamatsu',
-        nameKana: '浜松市',
+        nameKana: '浜松市・中区',
       },
       {
         name: 'Higashi-ku, Hamamatsu',
-        nameKana: '浜松市',
+        nameKana: '浜松市・東区',
       },
       {
         name: 'Nishi-ku, Hamamatsu',
-        nameKana: '浜松市',
+        nameKana: '浜松市・西区',
       },
       {
         name: 'Minami-ku, Hamamatsu',
-        nameKana: '浜松市',
+        nameKana: '浜松市・南区',
       },
       {
         name: 'Kita-ku, Hamamatsu',
-        nameKana: '浜松市',
+        nameKana: '浜松市・北区',
       },
       {
         name: 'Hamakita Ward',
-        nameKana: '浜松市',
+        nameKana: '浜松市・浜北区',
       },
       {
         name: 'Tenryū Ward',
-        nameKana: '浜松市',
+        nameKana: '浜松市・天竜区',
       },
       {
         name: 'Numazu',
@@ -4467,99 +4467,99 @@
       },
       {
         name: 'Miyakojima-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・都島区',
       },
       {
         name: 'Fukushima-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・福島区',
       },
       {
         name: 'Konohana-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・此花区',
       },
       {
         name: 'Nishi-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・西区',
       },
       {
         name: 'Minato-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・港区',
       },
       {
         name: 'Taishō-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・大正区',
       },
       {
         name: 'Tennōji-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・天王寺区',
       },
       {
         name: 'Naniwa-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・浪速区',
       },
       {
         name: 'Nishiyodogawa-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・西淀川区',
       },
       {
         name: 'Higashiyodogawa-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・東淀川区',
       },
       {
         name: 'Higashinari-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・東成区',
       },
       {
         name: 'Ikuno-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・生野区',
       },
       {
         name: 'Asahi-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・旭区',
       },
       {
         name: 'Jōtō-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・城東区',
       },
       {
         name: 'Abeno-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・阿倍野区',
       },
       {
         name: 'Sumiyoshi-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・住吉区',
       },
       {
         name: 'Higashisumiyoshi-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・東住吉区',
       },
       {
         name: 'Nishinari-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・西成区',
       },
       {
         name: 'Yodogawa-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・淀川区',
       },
       {
         name: 'Tsurumi-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・鶴見区',
       },
       {
         name: 'Suminoe-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・住之江区',
       },
       {
         name: 'Hirano-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・平野区',
       },
       {
         name: 'Kita-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・北区',
       },
       {
         name: 'Chūō-ku, Osaka',
-        nameKana: '大阪市',
+        nameKana: '大阪市・中央区',
       },
       {
         name: 'Sakai',
@@ -4567,31 +4567,31 @@
       },
       {
         name: 'Sakai-ku, Sakai',
-        nameKana: '堺市',
+        nameKana: '堺市・堺区',
       },
       {
         name: 'Naka-ku, Sakai',
-        nameKana: '堺市',
+        nameKana: '堺市・中区',
       },
       {
         name: 'Higashi-ku, Sakai',
-        nameKana: '堺市',
+        nameKana: '堺市・東区',
       },
       {
         name: 'Nishi-ku, Sakai',
-        nameKana: '堺市',
+        nameKana: '堺市・西区',
       },
       {
         name: 'Minami-ku, Sakai',
-        nameKana: '堺市',
+        nameKana: '堺市・南区',
       },
       {
         name: 'Kita-ku, Sakai',
-        nameKana: '堺市',
+        nameKana: '堺市・北区',
       },
       {
         name: 'Mihara-ku, Sakai',
-        nameKana: '堺市',
+        nameKana: '堺市・美原区',
       },
       {
         name: 'Kishiwada, Osaka',
@@ -4769,67 +4769,67 @@
       },
       {
         name: 'Chikusa-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・千種区',
       },
       {
         name: 'Higashi-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・東区',
       },
       {
         name: 'Kita-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・北区',
       },
       {
         name: 'Nishi-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・西区',
       },
       {
         name: 'Nakamura-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・中村区',
       },
       {
         name: 'Naka-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・中区',
       },
       {
         name: 'Shōwa-ku',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・昭和区',
       },
       {
         name: 'Mizuho-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・瑞穂区',
       },
       {
         name: 'Atsuta-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・熱田区',
       },
       {
         name: 'Nakagawa-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・中川区',
       },
       {
         name: 'Minato-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・港区',
       },
       {
         name: 'Minami-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・南区',
       },
       {
         name: 'Moriyama-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・守山区',
       },
       {
         name: 'Midori-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・緑区',
       },
       {
         name: 'Meitō-ku, Nagoya',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・名東区',
       },
       {
         name: 'Tenpaku-ku',
-        nameKana: '名古屋市',
+        nameKana: '名古屋市・天白区',
       },
       {
         name: 'Toyohashi',
@@ -5339,47 +5339,47 @@
       },
       {
         name: 'Kita-ku, Kyoto',
-        nameKana: '京都市',
+        nameKana: '京都市・北区',
       },
       {
         name: 'Kamigyō-ku',
-        nameKana: '京都市',
+        nameKana: '京都市・上京区',
       },
       {
         name: 'Sakyō-ku, Kyoto',
-        nameKana: '京都市',
+        nameKana: '京都市・左京区',
       },
       {
         name: 'Nakagyō-ku, Kyoto',
-        nameKana: '京都市',
+        nameKana: '京都市・中京区',
       },
       {
         name: 'Higashiyama-ku, Kyoto',
-        nameKana: '京都市',
+        nameKana: '京都市・東山区',
       },
       {
         name: 'Shimogyō-ku, Kyoto',
-        nameKana: '京都市',
+        nameKana: '京都市・下京区',
       },
       {
         name: 'Minami-ku, Kyoto',
-        nameKana: '京都市',
+        nameKana: '京都市・南区',
       },
       {
         name: 'Ukyō-ku, Kyoto',
-        nameKana: '京都市',
+        nameKana: '京都市・右京区',
       },
       {
         name: 'Fushimi-ku, Kyoto',
-        nameKana: '京都市',
+        nameKana: '京都市・伏見区',
       },
       {
         name: 'Yamashina-ku, Kyoto',
-        nameKana: '京都市',
+        nameKana: '京都市・山科区',
       },
       {
         name: 'Nishikyō-ku, Kyoto',
-        nameKana: '京都市',
+        nameKana: '京都市・西京区',
       },
       {
         name: 'Fukuchiyama, Kyoto',
@@ -5701,39 +5701,39 @@
       },
       {
         name: 'Higashinada-ku, Kobe',
-        nameKana: '神戸市',
+        nameKana: '神戸市・東灘区',
       },
       {
         name: 'Nada-ku, Kobe',
-        nameKana: '神戸市',
+        nameKana: '神戸市・灘区',
       },
       {
         name: 'Hyōgo-ku, Kobe',
-        nameKana: '神戸市',
+        nameKana: '神戸市・兵庫区',
       },
       {
         name: 'Nagata-ku, Kobe',
-        nameKana: '神戸市',
+        nameKana: '神戸市・長田区',
       },
       {
         name: 'Suma-ku, Kobe',
-        nameKana: '神戸市',
+        nameKana: '神戸市・須磨区',
       },
       {
         name: 'Tarumi-ku, Kobe',
-        nameKana: '神戸市',
+        nameKana: '神戸市・垂水区',
       },
       {
         name: 'Kita-ku, Kobe',
-        nameKana: '神戸市',
+        nameKana: '神戸市・北区',
       },
       {
         name: 'Chūō-ku, Kobe',
-        nameKana: '神戸市',
+        nameKana: '神戸市・中央区',
       },
       {
         name: 'Nishi-ku, Kobe',
-        nameKana: '神戸市',
+        nameKana: '神戸市・西区',
       },
       {
         name: 'Himeji',
@@ -5989,19 +5989,19 @@
       },
       {
         name: 'Kita-ku, Okayama',
-        nameKana: '岡山市',
+        nameKana: '岡山市・北区',
       },
       {
         name: 'Naka-ku, Okayama',
-        nameKana: '岡山市',
+        nameKana: '岡山市・中区',
       },
       {
         name: 'Higashi-ku, Okayama',
-        nameKana: '岡山市',
+        nameKana: '岡山市・東区',
       },
       {
         name: 'Minami-ku, Okayama',
-        nameKana: '岡山市',
+        nameKana: '岡山市・南区',
       },
       {
         name: 'Kurashiki',
@@ -6119,35 +6119,35 @@
       },
       {
         name: 'Naka-ku, Hiroshima',
-        nameKana: '広島市',
+        nameKana: '広島市・中区',
       },
       {
         name: 'Higashi-ku, Hiroshima',
-        nameKana: '広島市',
+        nameKana: '広島市・東区',
       },
       {
         name: 'Minami-ku, Hiroshima',
-        nameKana: '広島市',
+        nameKana: '広島市・南区',
       },
       {
         name: 'Nishi-ku, Hiroshima',
-        nameKana: '広島市',
+        nameKana: '広島市・西区',
       },
       {
         name: 'Asaminami-ku, Hiroshima',
-        nameKana: '広島市',
+        nameKana: '広島市・安佐南区',
       },
       {
         name: 'Asakita-ku, Hiroshima',
-        nameKana: '広島市',
+        nameKana: '広島市・安佐北区',
       },
       {
         name: 'Aki-ku, Hiroshima',
-        nameKana: '広島市',
+        nameKana: '広島市・安芸区',
       },
       {
         name: 'Saeki-ku, Hiroshima',
-        nameKana: '広島市',
+        nameKana: '広島市・佐伯区',
       },
       {
         name: 'Kure, Hiroshima',
@@ -6735,31 +6735,31 @@
       },
       {
         name: 'Moji-ku, Kitakyūshū',
-        nameKana: '北九州市',
+        nameKana: '北九州市・門司区',
       },
       {
         name: 'Wakamatsu-ku, Kitakyūshū',
-        nameKana: '北九州市',
+        nameKana: '北九州市・若松区',
       },
       {
         name: 'Tobata-ku, Kitakyūshū',
-        nameKana: '北九州市',
+        nameKana: '北九州市・戸畑区',
       },
       {
         name: 'Kokurakita-ku, Kitakyūshū',
-        nameKana: '北九州市',
+        nameKana: '北九州市・小倉北区',
       },
       {
         name: 'Kokuraminami-ku, Kitakyūshū',
-        nameKana: '北九州市',
+        nameKana: '北九州市・小倉南区',
       },
       {
         name: 'Yahatahigashi-ku, Kitakyūshū',
-        nameKana: '北九州市',
+        nameKana: '北九州市・八幡東区',
       },
       {
         name: 'Yahatanishi-ku, Kitakyūshū',
-        nameKana: '北九州市',
+        nameKana: '北九州市・八幡西区',
       },
       {
         name: 'Fukuoka',
@@ -6767,31 +6767,31 @@
       },
       {
         name: 'Higashi-ku, Fukuoka',
-        nameKana: '福岡市',
+        nameKana: '福岡市・東区',
       },
       {
         name: 'Hakata-ku, Fukuoka',
-        nameKana: '福岡市',
+        nameKana: '福岡市・博多区',
       },
       {
         name: 'Chūō-ku, Fukuoka',
-        nameKana: '福岡市',
+        nameKana: '福岡市・中央区',
       },
       {
         name: 'Minami-ku, Fukuoka',
-        nameKana: '福岡市',
+        nameKana: '福岡市・南区',
       },
       {
         name: 'Nishi-ku, Fukuoka',
-        nameKana: '福岡市',
+        nameKana: '福岡市・西区',
       },
       {
         name: 'Jōnan-ku, Fukuoka',
-        nameKana: '福岡市',
+        nameKana: '福岡市・城南区',
       },
       {
         name: 'Sawara-ku, Fukuoka',
-        nameKana: '福岡市',
+        nameKana: '福岡市・早良区',
       },
       {
         name: 'Ōmuta, Fukuoka',
@@ -7127,23 +7127,23 @@
       },
       {
         name: 'Chūō-ku, Kumamoto',
-        nameKana: '熊本市',
+        nameKana: '熊本市・中央区',
       },
       {
         name: 'Higashi-ku, Kumamoto',
-        nameKana: '熊本市',
+        nameKana: '熊本市・東区',
       },
       {
         name: 'Nishi-ku, Kumamoto',
-        nameKana: '熊本市',
+        nameKana: '熊本市・西区',
       },
       {
         name: 'Minami-ku, Kumamoto',
-        nameKana: '熊本市',
+        nameKana: '熊本市・南区',
       },
       {
         name: 'Kita-ku, Kumamoto',
-        nameKana: '熊本市',
+        nameKana: '熊本市・北区',
       },
       {
         name: 'Yatsushiro, Kumamoto',
